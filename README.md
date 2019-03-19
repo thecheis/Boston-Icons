@@ -27,12 +27,14 @@ Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
 
 For all users copy it into `/usr/share/icons`
 
-***
+---
 
 Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
 
 *Boston icons aren't affiliated with any project that isn't designed by the author.
 Any other use isn't officially supported.*
 
-Dedicated with :heart: to Bruxa.
+---
+
+<sub>Dedicated with :heart: to Bruxa.<sub>
 
