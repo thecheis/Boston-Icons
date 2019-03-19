@@ -8,7 +8,7 @@ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Ad
 
 ### Do you like my work and do you want support it? Then, please, [buy me a coffee](https://www.paypal.me/ChrisDiaz)  to keep on! :wink:
  
-### Thanks!
+### Every support is appreciated. Thanks!
 
 ## License
 
@@ -25,7 +25,7 @@ Boston icons are licensed under [Creative Commons Attribution - Share Alike 4.0 
 
 Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
 
-For all users copy it into `/usr/share/icons`
+For all users copy it into `/usr/share/icons` (root mode is needed)
 
 ---
 
