@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866667"
+   version="1.1"
+   id="svg2634"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="network-workgroup.svg">
+  <title
+     id="title3250">Boston Icons</title>
+  <defs
+     id="defs2628" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00ffed"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="56.410787"
+     inkscape:cy="54.219787"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3182"
+       spacingx="0.52916667"
+       spacingy="0.52916667"
+       empspacing="4"
+       originx="-82.550004"
+       originy="-127.00001"
+       dotted="false" />
+    <sodipodi:guide
+       position="-4.268358e-06,27.516666"
+       orientation="1,0"
+       id="guide3216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.7041618,33.866666"
+       orientation="0,1"
+       id="guide3218"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.866657,24.870836"
+       orientation="1,0"
+       id="guide3220"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.279157,-4.1479283e-06"
+       orientation="0,1"
+       id="guide3222"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.345829,32.808336"
+       orientation="0,1"
+       id="guide3224"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-4.7625023,1.0583259"
+       orientation="0,1"
+       id="guide3226"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583287,17.462496"
+       orientation="1,0"
+       id="guide3228"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.808327,20.108336"
+       orientation="1,0"
+       id="guide3230"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666632,5.8208242"
+       orientation="1,0"
+       id="guide851"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25.399997,6.8791575"
+       orientation="1,0"
+       id="guide855"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1.0583368,16.933324"
+       orientation="0,1"
+       id="guide852"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2631">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.550003,-136.13333)">
+    <g
+       id="g847">
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1075"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+         d="M 60,45.999999 V 64 H 32 28 24 v 17.999999 h 8 V 72 h 64 v 9.999999 h 8 V 64 H 98 68 V 45.999999 Z"
+         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1201"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+         d="M 60,43.999999 V 64 H 24 v 2 17.999999 h 2 V 66 H 62 V 64 43.999999 Z m 6,0 V 64 66 h 36 v 17.999999 h 2 V 66 64 H 68 V 43.999999 Z M 30,70 v 2 11.999999 h 2 V 72 h 64 v 11.999999 h 2 V 70 h -2 z"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="137.19167"
+         x="93.133331"
+         height="10.054163"
+         width="12.700003"
+         id="rect1032"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="137.72084"
+         x="93.662498"
+         height="8.9958334"
+         width="11.641667"
+         id="rect1034"
+         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="158.8875"
+         x="102.65833"
+         height="10.054163"
+         width="12.700002"
+         id="rect1032-3"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="159.41667"
+         x="103.18749"
+         height="8.9958334"
+         width="11.641667"
+         id="rect1034-6"
+         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="158.8875"
+         x="83.60833"
+         height="10.054163"
+         width="12.700002"
+         id="rect1032-7"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="159.41667"
+         x="84.137497"
+         height="8.9958334"
+         width="11.641667"
+         id="rect1034-5"
+         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1119"
+         d="m 99.483333,137.72084 -2.116666,8.99584 H 93.6625 v -8.99584 z"
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1119-2"
+         d="m 89.958332,159.41668 -2.116666,8.99584 h -3.704167 v -8.99584 z"
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1119-9"
+         d="m 109.00834,159.41668 -2.11667,8.99584 h -3.70417 v -8.99584 z"
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
