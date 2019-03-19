@@ -39,7 +39,7 @@ Any bug or something wrong? Use [this form](https://goo.gl/forms/dMcFc2rMjI0fhFx
 
 Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
 
-[Mail me](christiandiaz.design@gmail.com)
+[Mail me](mailto:christiandiaz.design@gmail.com)
 
 *Boston icons aren't affiliated with any project that isn't designed by the author.
 Any other use isn't officially supported.*
