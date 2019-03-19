@@ -8,7 +8,7 @@ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Ad
 
 ### Do you like my work and do you want support it? Then, please, [buy me a coffee](https://www.paypal.me/ChrisDiaz)  to keep on! :wink:
  
-### Every support is appreciated. Thanks!
+### Thanks!
 
 ## License
 
