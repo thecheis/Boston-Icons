@@ -27,6 +27,10 @@ Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
 
 For all users copy it into `/usr/share/icons` (root mode is needed)
 
+## Download and vote
+
+Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/)
+
 ---
 
 Any bug or something wrong? Use [this form](https://goo.gl/forms/dMcFc2rMjI0fhFxu2) to help me improve the theme.
@@ -35,7 +39,7 @@ Any bug or something wrong? Use [this form](https://goo.gl/forms/dMcFc2rMjI0fhFx
 
 Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
 
-*christiandiaz.design@gmail.com*
+[Mail me](christiandiaz.design@gmail.com)
 
 *Boston icons aren't affiliated with any project that isn't designed by the author.
 Any other use isn't officially supported.*
