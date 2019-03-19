@@ -6,9 +6,9 @@
 
 - It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Adwaita.
 
-### Do you love my work and do you want support it? Then, please, [buy me a coffee](https://www.paypal.me/ChrisDiaz)  to keep on! :D
+### Do you love my work and do you want support it? Then, please, [buy me a coffee](https://www.paypal.me/ChrisDiaz)  to keep on! :smile:
  
-### Thanks!
+### Thanks! :heart:
 
 ## License
 
