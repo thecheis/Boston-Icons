@@ -1,0 +1,31 @@
+ 20 03 2019 // v 0.2
+ -------------------
+
+ # Rebooting Boston Icons (outdated version: 0.1 -Nov 17, 2016-)
+ # Made from scratch again
+ # Most important things or changes:
+
+ 1. Addapted for GNOME 3.32. Change to 128px size
+ 2. Discarded unused things. New design principles. Revised color palette
+ 3. Updated data
+ 4. Revised symbolic icons
+ 5. Revised folder icons
+ 6. Various filetype icons (mimes). Revised / new designs
+ 7. Actions-document-open test icon
+ 8. HDD and SSD drives icons
+ 9. Icons & symbolics:
+	Xsensors
+	Hardinfo 
+	Spotify 
+	FLUID
+	CMake
+	GRUB Customizer 
+	DOSBox
+	PDF Shuffler
+	GNOME App Folders Manager
+ 10. "Image loading" status icon
+ 11. Gpick and Qt4L2 symbolic icons
+ 12. LMMS filetype and symbolic
+ 13. Calendar filetypes available to use
+ 14. Added various symbolic links for duplicated files
+ 15. Some 48px and 16px icons for small sizes and non symbolic use

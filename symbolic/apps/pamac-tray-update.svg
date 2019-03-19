@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4159"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   viewBox="0 0 16 16"
+   sodipodi:docname="pamac-tray-update.svg">
+  <title
+     id="title815">Boston Icons</title>
+  <defs
+     id="defs4161">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective4709" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#3b3b3b"
+     bordercolor="#00fff6"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.098901"
+     inkscape:cx="7.0691771"
+     inkscape:cy="6.2645628"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4707" />
+    <sodipodi:guide
+       position="7,5"
+       orientation="0.70710678,0.70710678"
+       id="guide819"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7,5"
+       orientation="-0.70710678,0.70710678"
+       id="guide821"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="https://dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:0.85;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="m 8,15 c 3.865993,0 7,-3.134007 7,-7 C 15,4.134007 11.865993,1 8,1 4.134007,1 1,4.134007 1,8 c 0,3.865993 3.134007,7 7,7 z M 8,13 A 5,5 0 0 1 7.5,12.97461 5,5 0 0 1 7.0058594,12.90039 5,5 0 0 1 6.5214844,12.777343 5,5 0 0 1 6.0527344,12.605468 5,5 0 0 1 5.603516,12.388671 5,5 0 0 1 5.177734,12.126952 5,5 0 0 1 4.779297,11.824218 5,5 0 0 1 4.414062,11.484374 5,5 0 0 1 4.083984,11.107421 5,5 0 0 1 3.792969,10.701171 5,5 0 0 1 3.544922,10.267577 5,5 0 0 1 3.339844,9.8125 5,5 0 0 1 3.181641,9.3378906 5,5 0 0 1 3.072266,8.8496094 5,5 0 0 1 3.011719,8.3535156 5,5 0 0 1 3,8 5,5 0 0 1 3.025391,7.5 5,5 0 0 1 3.099609,7.0058594 5,5 0 0 1 3.222656,6.5214844 5,5 0 0 1 3.394531,6.0527344 5,5 0 0 1 3.611328,5.603516 5,5 0 0 1 3.873047,5.177734 5,5 0 0 1 4.175781,4.779297 5,5 0 0 1 4.515625,4.414062 5,5 0 0 1 4.892578,4.083984 5,5 0 0 1 5.298828,3.792969 5,5 0 0 1 5.732422,3.544922 5,5 0 0 1 6.1875,3.339844 5,5 0 0 1 6.6621094,3.181641 5,5 0 0 1 7.1503906,3.072266 5,5 0 0 1 7.6464844,3.011719 5,5 0 0 1 8,3 a 5,5 0 0 1 0.5,0.025391 5,5 0 0 1 0.4941406,0.074218 5,5 0 0 1 0.484375,0.123047 5,5 0 0 1 0.46875,0.171875 5,5 0 0 1 0.4492184,0.216797 5,5 0 0 1 0.425782,0.261719 5,5 0 0 1 0.398437,0.302734 5,5 0 0 1 0.365235,0.339844 5,5 0 0 1 0.330078,0.376953 5,5 0 0 1 0.291015,0.40625 5,5 0 0 1 0.248047,0.433594 5,5 0 0 1 0.205078,0.455078 5,5 0 0 1 0.158203,0.4746094 5,5 0 0 1 0.109375,0.4882812 5,5 0 0 1 0.06055,0.4960938 A 5,5 0 0 1 13,8 a 5,5 0 0 1 -0.02539,0.5 5,5 0 0 1 -0.07422,0.4941406 5,5 0 0 1 -0.123047,0.484375 5,5 0 0 1 -0.171875,0.46875 5,5 0 0 1 -0.216797,0.4492184 5,5 0 0 1 -0.261718,0.425782 5,5 0 0 1 -0.302735,0.398437 5,5 0 0 1 -0.339844,0.365235 5,5 0 0 1 -0.376953,0.330078 5,5 0 0 1 -0.40625,0.291015 5,5 0 0 1 -0.433593,0.248047 A 5,5 0 0 1 9.8124994,12.660156 5,5 0 0 1 9.33789,12.818359 5,5 0 0 1 8.8496088,12.927734 5,5 0 0 1 8.353515,12.988284 5,5 0 0 1 8,13 Z"
+       id="path817"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.85;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 8.9999998,11.7 V 8.1140624 L 10.292969,9.4070312 11.707031,7.9929687 7.9999998,4.2859379 4.2929689,7.9929687 5.7070309,9.4070312 6.9999998,8.1140624 V 11.7 Z"
+       id="path841"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
