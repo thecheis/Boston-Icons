@@ -3,10 +3,11 @@
 # Boston - Icon theme for GNOME Shell
 
 **Boston is an icon theme inspired by functionalist design.**
+An elegant and sober look for your desktop.
 
 It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Adwaita.
 
-### Do you like my work and do you want support it? Then, please, [buy me a coffee](https://www.paypal.me/ChrisDiaz)  to keep on! :wink:
+### Do you like my work and do you want support it? You can [make a donation](https://www.paypal.me/ChrisDiaz). Every support is really appreciated. :wink:
  
 ### Thanks!
 
