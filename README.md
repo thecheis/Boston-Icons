@@ -9,6 +9,8 @@ An elegant and sober look for your desktop.
 It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Adwaita.
 
 ### Do you like my work and do you want support it? You can [make a donation](https://www.paypal.me/ChrisDiaz). Every support is really appreciated. :wink:
+
+![![Support with PayPal](https://bit.ly/2HPlVs4)](https://www.paypal.me/ChrisDiaz)
  
 ### Thanks!
 
