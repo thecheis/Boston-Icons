@@ -18,7 +18,10 @@ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Ad
 
 ## License
 
-Boston icons are licensed under [Creative Commons Attribution - Share Alike 4.0 / International License. ](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 
+Boston icons are licensed under [Creative Commons Attribution - Share Alike 4.0 / International License. ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+*Boston icons aren't affiliated with any project that isn't designed by the author.
+Any other use isn't officially supported.*
 
 ## Priorities and schedule
 
@@ -48,9 +51,6 @@ Any bug or something wrong? Use [this form](https://goo.gl/forms/dMcFc2rMjI0fhFx
 Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
 
 *christiandiaz.design@gmail.com*
-
-*Boston icons aren't affiliated with any project that isn't designed by the author.
-Any other use isn't officially supported.*
 
 ---
 
