@@ -18,7 +18,8 @@ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Ad
 
 ## License
 
-Boston icons are licensed under [Creative Commons Attribution - Share Alike 4.0 / International License. ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+This project is licensed under [Creative Commons Attribution - Share Alike 4.0 / International License. ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+Read "LICENSE" file for more info.
 
 *Boston icons aren't affiliated with any project that isn't designed by the author.
 Any other use isn't officially supported.*
