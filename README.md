@@ -27,6 +27,8 @@ Boston icons are licensed under [Creative Commons Attribution - Share Alike 4.0 
 3. Outdated or bad looking icons (low resolution, etc)
 4. Rest of collection (priority according to the needs)
 
+This project is focused on quality and not quantity.
+
 ## How to install
 
 Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
