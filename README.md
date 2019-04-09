@@ -12,7 +12,9 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 ### Do you like my work and do you want support it? You can make a donation. Every support is really appreciated. :wink:
 
-[![Support with PayPal](https://i.ibb.co/2tNWPsF/Support-Pay-Pal.png)](https://www.paypal.me/ChrisDiaz)
+<p align="center">
+  <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/2tNWPsF/Support-Pay-Pal.png" title="Support with PayPal"></a>
+</p>
  
 ### Thanks!
 
