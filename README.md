@@ -12,9 +12,7 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 ### Do you like my work and do you want support it? You can make a donation. Every support is really appreciated. :wink:
 
-<p align="center">
-  <a href="https://lh3.googleusercontent.com/czCm0pYJqWby_PObP6HWyeXpqPSbxspRJayKWlbxiyHEmlp0jR8ryZm-efIk0o8lemNLNQBY9UnXuQ=w1920-h979" title="Support with PayPal"></a>
-</p>
+[![Support with PayPal](https://lh3.googleusercontent.com/czCm0pYJqWby_PObP6HWyeXpqPSbxspRJayKWlbxiyHEmlp0jR8ryZm-efIk0o8lemNLNQBY9UnXuQ=w1920-h979)](https://www.paypal.me/ChrisDiaz)
  
 ### Thanks!
 
