@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="47.368944"
-     inkscape:cy="93.809381"
+     inkscape:zoom="15.839192"
+     inkscape:cx="35.427917"
+     inkscape:cy="95.008937"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -319,17 +319,16 @@
          width="1.0583366"
          id="rect885"
          style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text859"
-         y="144.73657"
-         x="91.516701"
+      <g
+         aria-label="W"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.16198492px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#7fb9ec;fill-opacity:1;stroke:none;stroke-width:0.2229635"
-         xml:space="preserve"><tspan
+         id="text859">
+        <path
+           d="m 94.455062,144.73657 0.794939,-2.77604 h -0.54522 l -0.541058,2.1351 -0.574354,-2.1351 h -0.387064 l -0.574354,2.1351 -0.541058,-2.1351 h -0.541058 l 0.790777,2.77604 h 0.520248 l 0.541058,-2.05186 0.536896,2.05186 z"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.16198492px;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';fill:#7fb9ec;stroke-width:0.2229635"
-           y="144.73657"
-           x="91.516701"
-           id="tspan856"
-           sodipodi:role="line">W</tspan></text>
+           id="path862"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>
