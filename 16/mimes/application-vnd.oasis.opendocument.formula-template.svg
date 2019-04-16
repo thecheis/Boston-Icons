@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="image-x-xcf.svg">
+   sodipodi:docname="application-vnd.oasis.opendocument.formula-template.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -44,10 +44,10 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="3.4587597"
-     inkscape:cy="8.3189234"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="31.392433"
+     inkscape:cx="5.8186676"
+     inkscape:cy="6.9027909"
+     inkscape:current-layer="g845"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -70,6 +70,26 @@
        position="12,8"
        orientation="0,1"
        id="guide3098"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,6"
+       orientation="-0.70710678,0.70710678"
+       id="guide867"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,1"
+       orientation="-0.70710678,0.70710678"
+       id="guide869"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20,0"
+       orientation="0.70710678,0.70710678"
+       id="guide871"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17,-1"
+       orientation="0.70710678,0.70710678"
+       id="guide875"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -109,26 +129,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g853">
-      <rect
-         y="1"
-         x="0"
-         height="7"
-         width="7"
-         id="rect825"
-         style="opacity:1;fill:#e67760;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path827"
-         d="M 7,8 11.5,0 16,8 Z"
-         style="fill:#fae342;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         r="4"
-         cy="12"
-         cx="8"
-         id="path829"
-         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+       id="g887">
+      <g
+         id="g845">
+        <path
+           inkscape:connector-curvature="0"
+           id="path843"
+           d="M 14,0 H 2 v 2 l 6,6 -6,6 v 2 H 14 V 14 H 5 L 11,8 5,2 h 9 z"
+           style="fill:#00cfb5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           id="g849">
+          <path
+             sodipodi:nodetypes="cccccccc"
+             id="path819-3"
+             d="M 16,4.9999998 3.9999988,16 H 16 Z M 12.999999,11.7 V 13 h -1.4 z"
+             style="fill:#e0e4e7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             id="path819"
+             d="M 16,5.0000003 3.9999983,16 H 16 Z M 15,7.2999998 V 15 H 6.5999988 Z"
+             style="fill:#5f7a8d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cccccccc"
+             id="path838"
+             d="M 14,9.4999998 9.0999988,14 H 14 Z M 12.999999,11.7 V 13 h -1.4 z"
+             style="fill:#5f7a8d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>

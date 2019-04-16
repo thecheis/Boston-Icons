@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-music.svg">
+   sodipodi:docname="application-pgp-keys.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -27,6 +27,15 @@
        inkscape:vp_z="16 : 8 : 1"
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
        id="perspective4709" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5603">
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
+         id="path5605"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -36,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="-0.81761331"
-     inkscape:cy="6.2301512"
+     inkscape:cx="0.80083869"
+     inkscape:cy="8.8144679"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -46,10 +55,22 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
+    <sodipodi:guide
+       position="8,9"
+       orientation="1,0"
+       id="guide3096"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12,8"
+       orientation="0,1"
+       id="guide3098"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -74,12 +95,12 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,11 +108,21 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <path
-       style="fill:#7fb9ec;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 5,1 V 9.3417969 C 4.531538,9.1180254 4.0191616,9.001273 3.5,9 1.5670034,9 0,10.567003 0,12.5 0,14.432997 1.5670034,16 3.5,16 5.4329966,16 7,14.432997 7,12.5 6.9983059,12.332567 6.9845988,12.165471 6.9589844,12 L 7,12.5 V 4 h 7 V 9.3417969 C 13.531538,9.1180254 13.019162,9.001273 12.5,9 10.567003,9 9,10.567003 9,12.5 9,14.432997 10.567003,16 12.5,16 14.432997,16 16,14.432997 16,12.5 15.9983,12.332567 15.9846,12.165471 15.95898,12 L 16,12.5 V 1 H 14 7 Z M 3.5,11 C 4.3284271,11 5,11.671573 5,12.5 5,13.328427 4.3284271,14 3.5,14 2.6715729,14 2,13.328427 2,12.5 2,11.671573 2.6715729,11 3.5,11 Z m 9,0 C 13.328427,11 14,11.671573 14,12.5 14,13.328427 13.328427,14 12.5,14 11.671573,14 11,13.328427 11,12.5 11,11.671573 11.671573,11 12.5,11 Z"
-       id="path817"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsscccccccsscccccccssssssssss" />
+    <g
+       id="g858">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccsssss"
+         inkscape:connector-curvature="0"
+         id="rect823"
+         d="m 0,4 v 7 H 0.90099011 7 v -1 h 1 l 1,-2 1,2 h 1 l 1,-2 1,2 h 1 L 16,8 V 5 H 7 V 4 Z M 2.5,6 C 3.3284271,6 4,6.6715729 4,7.5 4,8.3284271 3.3284271,9 2.5,9 1.6715729,9 1,8.3284271 1,7.5 1,6.6715729 1.6715729,6 2.5,6 Z"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         y="6"
+         x="7"
+         height="1"
+         width="8"
+         id="rect832"
+         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

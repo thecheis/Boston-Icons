@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="appliction-x-lmms-project.svg">
+   sodipodi:docname="application-x-lmms-project.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="-8.0601487"
+     inkscape:cx="-19.052228"
      inkscape:cy="7.2792079"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,7 +88,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#00d4ba;fill-opacity:1;stroke:none;stroke-width:0.33333343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#00cfb5;fill-opacity:1;stroke:none;stroke-width:0.33333343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 8.0000023,-4.1025555e-6 0,5.3333262 V 14.66667 L 2.6666676,16 4.6666683,14.66667 V 11.999999 L 2.6666676,10.66667 V 6.6666682 L 8.0000023,3.3333255 13.333341,6.6666682 V 10.66667 l -2,1.333329 v 2.666671 l 2,1.33333 L 16,14.66667 V 5.3333262 Z"
        id="path907"
        inkscape:connector-curvature="0" />

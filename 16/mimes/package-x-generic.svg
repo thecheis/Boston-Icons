@@ -44,9 +44,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.696216"
-     inkscape:cx="0.96585278"
-     inkscape:cy="7.2826808"
+     inkscape:zoom="44.395603"
+     inkscape:cx="0.46723992"
+     inkscape:cy="7.3727798"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -114,7 +114,7 @@
          inkscape:connector-curvature="0"
          id="path882"
          d="m 2,0 h 12 l 2,4 V 16 H 0 V 4 Z"
-         style="fill:#cda467;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+         style="fill:#cda467;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -126,7 +126,7 @@
          inkscape:connector-curvature="0"
          id="path884-6"
          d="m 2.6,1 h 10.8 l 1.5,3 H 1.1 Z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.2" />
+         style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <rect
          y="5"
          x="1"
@@ -143,7 +143,7 @@
          inkscape:connector-curvature="0"
          id="path968"
          d="M 6,1 V 9 L 7,8 8,9 9,8 10,9 V 1 Z"
-         style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.4" />
+         style="opacity:0.4;fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <rect
          y="12"
          x="12"
