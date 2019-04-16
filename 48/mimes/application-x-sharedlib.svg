@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="application-x-lmms-project.svg">
+   sodipodi:docname="application-x-sharedlib.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-9.6730923"
-     inkscape:cy="23.088114"
+     inkscape:zoom="15.839192"
+     inkscape:cx="15.85945"
+     inkscape:cy="19.442175"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,6 +70,21 @@
        id="guide3226"
        inkscape:locked="false" />
     <sodipodi:guide
+       position="0.52916318,6.8791574"
+       orientation="1,0"
+       id="guide3228"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583298,6.8791574"
+       orientation="1,0"
+       id="guide3234"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.5874965,6.8791574"
+       orientation="1,0"
+       id="guide3236"
+       inkscape:locked="false" />
+    <sodipodi:guide
        position="6.3499965,7.9374908"
        orientation="1,0"
        id="guide3238"
@@ -85,9 +100,19 @@
        id="guide864"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="12.699995,10.847905"
+       position="12.17083,8.4666574"
        orientation="1,0"
        id="guide868"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.641663,8.4666574"
+       orientation="1,0"
+       id="guide870"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.112496,8.4666574"
+       orientation="1,0"
+       id="guide872"
        inkscape:locked="false" />
     <sodipodi:guide
        position="2.1166616,12.170822"
@@ -178,7 +203,7 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g839">
+       id="g4880">
       <path
          inkscape:connector-curvature="0"
          id="path1125"
@@ -192,16 +217,15 @@
          style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          id="rect1133"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
-         d="m 30,2 v 9 1 h 1 9 V 11 H 31 V 2 Z"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
+         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
-         sodipodi:nodetypes="ccccccccccccccccc"
          inkscape:connector-curvature="0"
-         id="path844"
-         d="m 88.899999,161.26876 -2.645834,1.85208 v 2.91042 l 0.79375,0.52917 0.79375,-0.52917 v -0.79375 l -0.79375,-0.52917 v -1.19063 l 1.852084,-1.19062 1.852082,1.19062 v 1.19063 l -0.79375,0.52917 v 0.79375 l 0.79375,0.52917 0.79375,-0.52917 v -2.91042 z"
-         style="fill:#00cfb5;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="rect4811"
+         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
+         d="m 15,16 v 8 h 4 v -8 z m 7,0 v 8 h 4 v -8 z m 7,0 v 8 h 4 v -8 z m -6,1 h 2 v 2 h -2 z m -7,4 h 2 v 2 h -2 z m 14,0 h 2 v 2 h -2 z m -15,5 v 8 h 4 v -8 z m 7,0 v 8 h 4 v -8 z m 7,0 v 8 h 4 v -8 z m -13,1 h 2 v 2 h -2 z m 14,0 h 2 v 2 h -2 z m -7,4 h 2 v 2 h -2 z"
+         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>
