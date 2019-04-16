@@ -1,5 +1,84 @@
- 19 03 2019 // v 0.2
- -------------------
+ 16 Apr 2019 // v 0.3
+ --------------------
+
+ # Release focused on corrections, better visualization and production enviroments
+
+ 1. Adjusted color palette: green, yellow
+ 2. Symbolic icons
+	Revised symbolic folder
+	Revised CMake
+	VLC
+	VirualBox
+	GParted
+	LibreOffice startcenter
+	LibreOffice Math
+	LibreOffice Writer
+	LibreOffice Impress
+	LibreOffice Draw
+	LibreOffice Base
+	Gnumeric
+	Abiword
+	Audacity
+	Blender
+	Binary mimetype
+	Revised Firefox
+	New system software install
+	Revised system software update
+ 3. Filetypes icons
+	New 16px EPUB
+	Revised 16px video
+	48px gtk file
+	Office Math/Formula
+	Office Database
+	Revised office Presentations
+	Revised office Sheets
+	Revised office Draw
+	Revised office Documents
+	Desktop file/link
+	Android APK
+	Flatpak & Snap packages
+	Flatpak repository
+	MSI (Windows Installer)
+	VCard available for common use
+	Partial download
+	Encrypted (PGP)
+	PGP Key
+	PGP Signature
+	C (header, source)
+	C++ (header, source)
+	QML
+	Vala
+	Backup / trash
+	Octet stream
+	SQLite databases
+	Markdown
+	Revised package repository
+	Corrected 48px text-generic-template
+	CMake 
+	Makefile
+	Copying / Copyright
+	MIDI
+	Microsoft Office compatibilities
+	Microsoft Publisher
+	Python bytecode
+	Tcl
+	Sharedlib
+ 4. Folder-drag-accept
+ 5. Revised DOSBox icon
+ 6. Dropped CMake icon
+ 7. Revised trash icon and trash full. 16px added
+ 8. Revised network server
+ 9. Revised network workgroup
+ 10. Revised desktop icon. Improved file performance
+ 11. New system software installer icon
+ 12. New software updater
+ 13. Revised devices (HDD, SSD)
+ 14. Ready for 48px and 12px app icons
+
+ =====================================================================
+
+ 19 Mar 2019 // v 0.2
+ --------------------
 
  # Rebooting Boston Icons (outdated version: 0.1 -Nov 17, 2016-)
  # Made from scratch again
@@ -26,6 +105,6 @@
  10. "Image loading" status icon
  11. Gpick and Qt4L2 symbolic icons
  12. LMMS filetype and symbolic
- 13. Calendar filetypes available to use
+ 13. Calendar filetypes available for use
  14. Added various symbolic links for duplicated files
  15. Some 48px and 16px icons for small sizes and non symbolic use

@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392432"
-     inkscape:cx="0.63450521"
-     inkscape:cy="5.8185955"
+     inkscape:cx="9.6175616"
+     inkscape:cy="4.5603305"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -90,14 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2 0 L 0 4 L 0 16 L 2 16 L 7 16 L 7 14 L 2 14 L 2 6 L 7 6 L 7 7 L 9 7 L 9 6 L 14 6 L 14 7 L 16 7 L 16 4 L 14 0 L 12 0 L 4 0 L 2 0 z M 3.0996094 2 L 7 2 L 7 4 L 2.1992188 4 L 3.0996094 2 z M 9 2 L 12.900391 2 L 13.800781 4 L 9 4 L 9 2 z "
-       id="rect4136" />
-    <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 12,8 c -2.209139,0 -4,1.790861 -4,4 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 0,-2.209139 -1.790861,-4 -4,-4 z m -0.5,1 h 1 v 4.116211 l 1.146484,-1.146485 0.707032,0.707033 L 12,15.030274 9.6464844,12.676759 10.353516,11.969726 11.5,13.116211 Z"
-       id="path846"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssssscccccccccc" />
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="M 6,0 4,2 V 4 H 0 V 16 H 16 V 4 H 12 V 2 L 10,0 Z m 0,2 h 4 V 4 H 6 Z M 5,6 A 1,1.0000001 0 0 1 6,7 1,1.0000001 0 0 1 5,8 1,1.0000001 0 0 1 4,7 1,1.0000001 0 0 1 5,6 Z M 8,6 A 1,1.0000001 0 0 1 9,7 1,1.0000001 0 0 1 8,8 1,1.0000001 0 0 1 7,7 1,1.0000001 0 0 1 8,6 Z m 3,0 A 1,1.0000001 0 0 1 12,7 1,1.0000001 0 0 1 11,8 1,1.0000001 0 0 1 10,7 1,1.0000001 0 0 1 11,6 Z M 5,9 A 1,1.0000001 0 0 1 6,10 1,1.0000001 0 0 1 5,11 1,1.0000001 0 0 1 4,10 1,1.0000001 0 0 1 5,9 Z M 8,9 A 1,1.0000001 0 0 1 9,10 1,1.0000001 0 0 1 8,11 1,1.0000001 0 0 1 7,10 1,1.0000001 0 0 1 8,9 Z m 3,0 a 1,1.0000001 0 0 1 1,1 1,1.0000001 0 0 1 -1,1 1,1.0000001 0 0 1 -1,-1 1,1.0000001 0 0 1 1,-1 z m -6,3 a 1,1.0000001 0 0 1 1,1 1,1.0000001 0 0 1 -1,1 1,1.0000001 0 0 1 -1,-1 1,1.0000001 0 0 1 1,-1 z m 3,0 a 1,1.0000001 0 0 1 1,1 1,1.0000001 0 0 1 -1,1 1,1.0000001 0 0 1 -1,-1 1,1.0000001 0 0 1 1,-1 z m 3,0 a 1,1.0000001 0 0 1 1,1 1,1.0000001 0 0 1 -1,1 1,1.0000001 0 0 1 -1,-1 1,1.0000001 0 0 1 1,-1 z"
+       id="rect4750"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
