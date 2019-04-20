@@ -45,6 +45,10 @@ For all users copy it into `/usr/share/icons` (root mode is needed)
 
 Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/)
 
+## Wiki
+
+There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info.
+
 ---
 
 Any bug or something wrong? Use [this form](https://goo.gl/forms/dMcFc2rMjI0fhFxu2) to help me improve the theme.
