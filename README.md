@@ -6,11 +6,11 @@
 
 An elegant and sober look for your desktop.
 
-It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Adwaita.
+It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
 
 For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
-### Do you like my work and do you want support it? You can make a donation. Every support is really appreciated. :wink:
+### Do you like my work and do you want support it? You can make a donation. Every little support is really appreciated. :heart:
 
 <p align="center">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/2tNWPsF/Support-Pay-Pal.png" title="Support with PayPal"></a>
