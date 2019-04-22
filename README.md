@@ -18,13 +18,17 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
  
 ### Thanks!
 
-## License
 
-This project is licensed under [Creative Commons Attribution - Share Alike 4.0 / International License. ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-Read "LICENSE" file for more info.
+## Download and vote
 
-*Boston icons aren't affiliated with any project that isn't designed by the author.
-Any other use isn't officially supported.*
+Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/)
+
+
+## How to install
+
+Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
+
+For all users copy it into `/usr/share/icons` (root mode is needed)
 
 ## Priorities and schedule
 
@@ -35,15 +39,13 @@ Any other use isn't officially supported.*
 
 This project is focused on quality and not quantity.
 
-## How to install
+## License
 
-Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
+This project is licensed under [Creative Commons Attribution - Share Alike 4.0 / International License. ](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+Read "LICENSE" file for more info.
 
-For all users copy it into `/usr/share/icons` (root mode is needed)
-
-## Download and vote
-
-Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/)
+*Boston icons aren't affiliated with any project that isn't designed by the author.
+Any other use isn't officially supported.*
 
 ## Wiki
 
