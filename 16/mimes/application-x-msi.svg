@@ -45,7 +45,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="11.792918"
+     inkscape:cx="-3.4112901"
      inkscape:cy="8.8144679"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,33 +108,36 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <rect
-       style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-       id="rect825"
-       width="6"
-       height="6"
-       x="1"
-       y="1" />
-    <rect
-       style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-       id="rect825-3"
-       width="6"
-       height="6"
-       x="9"
-       y="1" />
-    <rect
-       style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-       id="rect825-5"
-       width="6"
-       height="6"
-       x="1"
-       y="9" />
-    <rect
-       style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-       id="rect825-3-3"
-       width="6"
-       height="6"
-       x="9"
-       y="9" />
+    <g
+       id="g4759">
+      <rect
+         y="1"
+         x="1"
+         height="6"
+         width="6"
+         id="rect825"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         y="1"
+         x="9"
+         height="6"
+         width="6"
+         id="rect825-3"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         y="9"
+         x="1"
+         height="6"
+         width="6"
+         id="rect825-5"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         y="9"
+         x="9"
+         height="6"
+         width="6"
+         id="rect825-3-3"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

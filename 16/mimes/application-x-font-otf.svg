@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="audio-midi.svg">
+   sodipodi:docname="font-x-generic.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -44,9 +44,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="1.5501231"
-     inkscape:cy="7.6991612"
+     inkscape:zoom="22.197802"
+     inkscape:cx="-3.8392605"
+     inkscape:cy="4.534765"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -70,26 +70,6 @@
        position="12,8"
        orientation="0,1"
        id="guide3098"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="6,6"
-       orientation="-0.70710678,0.70710678"
-       id="guide867"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3,1"
-       orientation="-0.70710678,0.70710678"
-       id="guide869"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="20,0"
-       orientation="0.70710678,0.70710678"
-       id="guide871"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="17,-1"
-       orientation="0.70710678,0.70710678"
-       id="guide875"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -129,23 +109,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g887">
-      <g
-         id="g4808">
-        <rect
-           ry="1.92356e-05"
-           y="2"
-           x="0"
-           height="14"
-           width="16"
-           id="rect4780"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="rect853"
-           d="M 0,2 V 16 H 16 V 2 Z m 2,2 h 2 v 7 h 1 v 4 H 2 Z m 5,0 h 3 v 7 h 1 v 4 H 6 v -4 h 1 z m 6,0 h 2 v 11 h -3 v -4 h 1 z"
-           style="opacity:1;fill:#7e86c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      </g>
+       aria-label="Aa"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#5f7a8d;fill-opacity:1;stroke:none"
+       id="text827"
+       transform="matrix(0.83824399,0,0,0.83824399,17.995264,1.3114746)">
+      <path
+         d="M -10.374428,14.468317 -15.019762,2.9069833 h -1.785333 l -4.662667,11.5613337 h 1.646667 l 1.022666,-2.582667 h 5.754667 l 1.022667,2.582667 z m -3.085334,-3.848 h -4.905333 l 2.444,-6.2400003 z"
+         id="path847"
+         inkscape:connector-curvature="0"
+         style="fill:#5f7a8d" />
+      <path
+         d="M -2.3802407,14.468317 V 8.7136502 c 0,-2.0280001 -1.456,-2.8253335 -3.2413334,-2.8253335 -1.3693334,0 -2.4440001,0.4506667 -3.3453335,1.3866667 l 0.6066667,0.9013334 c 0.7453333,-0.8146667 1.56,-1.1613334 2.5653334,-1.1613334 1.2133334,0 2.1146668,0.6413334 2.1146668,1.7506668 V 10.27365 C -4.3562408,9.5109835 -5.3095741,9.1469835 -6.4535742,9.1469835 c -1.4213334,0 -2.9120001,0.8666665 -2.9120001,2.7560005 0,1.82 1.5080001,2.773333 2.9120001,2.773333 1.1266667,0 2.0973334,-0.398667 2.7733335,-1.161333 v 0.953333 z m -3.5880001,-0.728 c -1.2306667,0 -2.0800001,-0.762667 -2.0800001,-1.837333 0,-1.057334 0.8493334,-1.82 2.0800001,-1.82 0.9013333,0 1.7853334,0.346666 2.2880001,1.022666 v 1.594667 c -0.5026667,0.693333 -1.3866668,1.04 -2.2880001,1.04 z"
+         id="path849"
+         inkscape:connector-curvature="0"
+         style="fill:#5f7a8d" />
     </g>
   </g>
 </svg>

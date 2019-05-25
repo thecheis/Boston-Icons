@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-x-theme.svg">
+   sodipodi:docname="application-x-subrip.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="10.803946"
-     inkscape:cy="6.2656947"
+     inkscape:cx="5.1656441"
+     inkscape:cy="3.8447291"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -129,7 +129,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g4847">
+       id="g4823">
       <rect
          ry="1.92356e-05"
          y="2"
@@ -142,90 +142,26 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
          id="rect835"
          width="14"
-         height="11"
+         height="12"
          x="1"
-         y="4"
+         y="3"
          ry="1.92356e-05" />
       <rect
-         ry="1.92356e-05"
-         y="5"
-         x="2"
-         height="3"
-         width="3"
-         id="rect847"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="9"
-         x="2"
-         height="1"
-         width="3"
-         id="rect849"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="9"
-         x="6"
-         height="7"
+         rx="3.2326e-06"
+         y="8"
+         x="3"
+         height="2"
          width="10"
-         id="rect856"
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         id="rect4796"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
       <rect
-         ry="1.92356e-05"
-         y="13"
-         x="13"
+         rx="3.2326e-06"
+         y="11"
+         x="5"
          height="2"
-         width="2"
-         id="rect858"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="13"
-         x="10"
-         height="2"
-         width="2"
-         id="rect858-3"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="13"
-         x="7"
-         height="2"
-         width="2"
-         id="rect858-6"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="10"
-         x="13"
-         height="2"
-         width="2"
-         id="rect858-36"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="10"
-         x="10"
-         height="2"
-         width="2"
-         id="rect858-3-7"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="10"
-         x="7"
-         height="2"
-         width="2"
-         id="rect858-6-5"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="1.92356e-05"
-         y="5"
-         x="6"
-         height="3"
-         width="3"
-         id="rect847-3"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         width="6"
+         id="rect4798"
+         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>

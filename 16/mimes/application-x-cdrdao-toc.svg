@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="audio-midi.svg">
+   sodipodi:docname="application-x-cd-image.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -45,9 +45,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="1.5501231"
-     inkscape:cy="7.6991612"
-     inkscape:current-layer="layer1"
+     inkscape:cx="3.9898295"
+     inkscape:cy="6.1605256"
+     inkscape:current-layer="g881"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -70,26 +70,6 @@
        position="12,8"
        orientation="0,1"
        id="guide3098"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="6,6"
-       orientation="-0.70710678,0.70710678"
-       id="guide867"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3,1"
-       orientation="-0.70710678,0.70710678"
-       id="guide869"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="20,0"
-       orientation="0.70710678,0.70710678"
-       id="guide871"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="17,-1"
-       orientation="0.70710678,0.70710678"
-       id="guide875"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -129,22 +109,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g887">
+       id="g881">
       <g
-         id="g4808">
-        <rect
-           ry="1.92356e-05"
-           y="2"
-           x="0"
-           height="14"
-           width="16"
-           id="rect4780"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         id="g4760">
+        <path
+           id="path823"
+           d="M 8,0 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,0 Z M 8,7 A 1,1 0 0 1 9,8 1,1 0 0 1 8,9 1,1 0 0 1 7,8 1,1 0 0 1 8,7 Z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           id="rect853"
-           d="M 0,2 V 16 H 16 V 2 Z m 2,2 h 2 v 7 h 1 v 4 H 2 Z m 5,0 h 3 v 7 h 1 v 4 H 6 v -4 h 1 z m 6,0 h 2 v 11 h -3 v -4 h 1 z"
-           style="opacity:1;fill:#7e86c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+           style="opacity:1;fill:#5f7a8d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="M 8,0 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,0 Z M 8,1 A 7,7 0 0 1 15,8 7,7 0 0 1 8,15 7,7 0 0 1 1,8 7,7 0 0 1 8,1 Z"
+           id="path843" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#5f7a8d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="M 8,5 A 3,3 0 0 0 5,8 3,3 0 0 0 8,11 3,3 0 0 0 11,8 3,3 0 0 0 8,5 Z M 8,6 A 2,2 0 0 1 10,8 2,2 0 0 1 8,10 2,2 0 0 1 6,8 2,2 0 0 1 8,6 Z"
+           id="path849" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="M 8,6 A 2,2 0 0 0 6,8 2,2 0 0 0 8,10 2,2 0 0 0 10,8 2,2 0 0 0 8,6 Z M 8,7 A 1,1 0 0 1 9,8 1,1 0 0 1 8,9 1,1 0 0 1 7,8 1,1 0 0 1 8,7 Z"
+           id="path854" />
       </g>
     </g>
   </g>
