@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="-34.099798"
+     inkscape:cx="-119.33142"
      inkscape:cy="56.831186"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -228,7 +228,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -264,17 +264,17 @@
         <path
            inkscape:connector-curvature="0"
            id="path856"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';stroke-width:0.26458335;fill:#ffffff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke-width:0.26458335"
            d="m 57.426716,157.17107 v -1.86973 h 1.305278 c 0.938388,0 1.474611,-0.64911 1.474611,-1.41816 0,-0.76906 -0.529167,-1.41817 -1.474611,-1.41817 h -1.890889 v 4.70606 z m 1.234722,-2.39184 h -1.234722 v -1.79211 h 1.234722 c 0.557389,0 0.938389,0.36689 0.938389,0.89606 0,0.52916 -0.381,0.89605 -0.938389,0.89605 z" />
         <path
            inkscape:connector-curvature="0"
            id="path858"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';stroke-width:0.26458335;fill:#ffffff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke-width:0.26458335"
            d="m 62.597666,157.17107 c 1.467556,0 2.413,-1.00895 2.413,-2.3495 0,-1.3335 -0.945444,-2.35656 -2.413,-2.35656 H 60.989 v 4.70606 z m 0,-0.52211 h -1.023055 v -3.66184 h 1.023055 c 1.164167,0 1.806222,0.81845 1.806222,1.83445 0,1.00894 -0.663222,1.82739 -1.806222,1.82739 z" />
         <path
            inkscape:connector-curvature="0"
            id="path860"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';stroke-width:0.26458335;fill:#ffffff"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke-width:0.26458335"
            d="m 66.507988,157.17107 v -2.14489 h 2.448278 v -0.52211 h -2.448278 v -1.51695 h 2.497667 v -0.52211 h -3.083278 v 4.70606 z" />
       </g>
     </g>

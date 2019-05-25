@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="application-pgp-keys.svg">
+   sodipodi:docname="application-vnd.appimage.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -37,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="-10.12294"
-     inkscape:cy="57.670443"
+     inkscape:zoom="2.8"
+     inkscape:cx="60.323645"
+     inkscape:cy="64.72242"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,11 +95,6 @@
        id="guide3226"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15.874995,31.750006"
-       orientation="0,1"
-       id="guide3232"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="5.2916633,15.345824"
        orientation="1,0"
        id="guide3238"
@@ -113,6 +108,11 @@
        position="29.63333,25.399991"
        orientation="0.70710678,0.70710678"
        id="guide850"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.162497,26.458325"
+       orientation="0,1"
+       id="guide845"
        inkscape:locked="false" />
     <sodipodi:guide
        position="8.9958299,20.637491"
@@ -193,7 +193,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz</dc:description>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -203,7 +203,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g879">
+       id="g4864">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
@@ -221,18 +221,29 @@
          style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
+         sodipodi:nodetypes="csccccsccccccc"
          inkscape:connector-curvature="0"
-         id="rect853"
-         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-         d="m 36,56 -2,2 v 20 l 2,2 h 20 l 2,-2 v -2 h 2 v -2 h 6 l 2,-4 2,4 h 2 l 2,-4 2,4 h 2 l 2,-4 2,4 h 2 l 2,-4 2,4 h 2 l 4,-6 V 62 H 60 v -2 h -2 v -2 l -2,-2 z m 6,8 c 2.209139,0 4,1.790861 4,4 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 z"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="153.59584"
-         x="98.425003"
-         height="0.52916557"
-         width="8.9958296"
-         id="rect914"
+         id="rect1818"
+         d="m 93.133337,148.30416 c -0.293158,0 -0.529167,0.236 -0.529167,0.52917 v 10.58333 0.52917 l 13.75833,1e-5 -0.0222,-0.54571 V 148.8168 c 0,-0.29317 -0.23602,-0.52917 -0.52917,-0.52917 z m 0.02222,2.13318 12.677773,-0.0165 -0.0222,8.97932 -12.677776,0.0165 z"
+         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect859"
+         d="m 106.3625,148.83334 v 11.1125 H 93.133333 v 0.52917 h 13.229167 0.52917 v -11.64167 z"
          style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4837-6"
+         d="m 99.483329,152.5375 -2.116667,2.11667 2.116667,2.11666 2.116671,-2.11666 z"
+         style="fill:#e0e4e7;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4837"
+         d="m 99.483333,152.53749 -2.116667,2.11666 2.116667,2.11667 2.116667,-2.11667 z m 0,0.66145 1.455207,1.45521 -1.455207,1.45521 -1.455209,-1.45521 z"
+         style="fill:#a8b4bd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

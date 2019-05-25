@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="application-pgp-keys.svg">
+   sodipodi:docname="application-x-amiga-disk-format.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -37,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="-10.12294"
-     inkscape:cy="57.670443"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="37.58287"
+     inkscape:cy="63.262176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -203,7 +203,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g879">
+       id="g4835">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
@@ -222,17 +222,10 @@
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         id="rect853"
+         id="rect4777"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-         d="m 36,56 -2,2 v 20 l 2,2 h 20 l 2,-2 v -2 h 2 v -2 h 6 l 2,-4 2,4 h 2 l 2,-4 2,4 h 2 l 2,-4 2,4 h 2 l 2,-4 2,4 h 2 l 4,-6 V 62 H 60 v -2 h -2 v -2 l -2,-2 z m 6,8 c 2.209139,0 4,1.790861 4,4 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 z"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="153.59584"
-         x="98.425003"
-         height="0.52916557"
-         width="8.9958296"
-         id="rect914"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         d="M 40,42 V 94 H 88 V 46 L 84,42 H 80 48 Z m 2,2 h 6 V 64 H 80 V 44 h 3 l 3,3 V 92 H 82 V 68 H 46 v 24 h -4 z m 26,2 h 8 V 62 H 68 Z M 48,70 H 80 V 92 H 48 Z"
+         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>
