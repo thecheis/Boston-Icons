@@ -8,17 +8,15 @@ Comment=Icon theme inspired by functionalist design.
 Comment[es]=Tema de iconos inspirado en el diseño funcionalista.
 Comment[gl]=Tema de iconas inspirado no deseño funcionalista.
 
-Inherits=Adwaita,gnome,hicolor
+Inherits=Adwaita,gnome,hicolor,
 
 Example=folder
 
-#	---------------
-#	  Directories
-#	---------------
+# --------------------------------------DIRECTORIES--------------------------------------
 
 Directories=symbolic/actions,scalable/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/devices,48/mimes,48/places,48/status,16/apps,16/devices,16/mimes,16/places,16/status,
 
-#-----------------
+# ---------------------------------------------------------------------------------------
 
 [symbolic/actions]
 Context=Actions
@@ -62,7 +60,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-#-----------------
+# ---------------------------------------------------------------------------------------
 
 [128/actions]
 Context=Actions
@@ -106,7 +104,7 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-#-----------------
+# ---------------------------------------------------------------------------------------
 
 [48/actions]
 Context=Actions
@@ -150,7 +148,7 @@ MinSize=8
 MaxSize=48
 Type=Scalable
 
-#-----------------
+# ---------------------------------------------------------------------------------------
 
 [16/apps]
 Context=Applications

@@ -1,14 +1,90 @@
+ 25 May 2019 // v 0.4
+ --------------------
+
+ # Improving production environments compatibility and videogame ROMs supporting.
+
+ 1. Included bash script for automatic user installation
+ 2. Minor changes in index file
+ 3. Minor improvements in documentation
+ 4. Adjusted dark purple and dark orange colors
+ 5. App icons
+	Snes9x icon
+	PDF Arranger (& symbolic)
+ 6. Filetypes icons
+	Flatpakref
+	OTF fonts
+	JSON
+	CUE CD image
+	NES roms
+	SNES roms
+	Nintendo 64 roms
+	GameBoy roms
+	GameBoy Color roms
+	GameBoy Advance roms
+	Nintendo DS roms
+	Amiga roms
+	Atari 2600 roms
+	Atari 7800 roms
+	Atari Lynx roms
+	Dreamcast roms
+	Game Gear roms
+	Sega Master System roms
+	Sega Mega Drive / Genesis roms
+	Sega 32x roms
+	Neo Geo Pocket roms
+	Neo Geo Pocket Color roms
+	SG-1000 roms
+	TurboGrafx 16 / PC Engine roms
+	VirtualBoy roms
+	WonderSwan roms
+	WonderSwan Color roms
+	Famicom Disk System roms
+	Save files for videogames (.sav)
+	CDRDAO TOC (CD content table)
+	Adobe Illustrator document
+	Microsoft Access Database
+	Internet security certificate (pkix cert)
+	MOBI eBooks
+	Translation files (gettext, Qt linguist)
+	Translation template
+	Corrected 16px template files
+	Logfiles
+	Subtitles (.sub, .srt)
+	AppImage
+	Redesigned application x theme
+ 7. Deleted icons
+	system-software-update2
+	Places/desktop symbolic link
+ 8. Symbolic icons
+	Start here
+	Revised PDF Shuffler / PDF Arranger
+	Revised GPick 
+	Qt Linguist
+	Qt Designer
+	Qt QDbus Viewer
+	Lollypop
+	New Firefox
+	Document - open recent
+	WatchFlower
+ 9. Revised 16px folder, folder-remote and user-home
+ 10. 16px status image loading
+ 11. Extra testing colored folders (black, brown, green, grey, orange, red, violet, yellow)
+	* Be careful: assigned colored folder size don't change with the file manager zoom.
+	* Colored folders will not change automatically if icon theme changes.
+
+ =====================================================================
+
  16 Apr 2019 // v 0.3
  --------------------
 
- # Release focused on corrections, better visualization and production enviroments
+ # Release focused on corrections, better visualization and production environments
 
  1. Adjusted color palette: green, yellow
  2. Symbolic icons
 	Revised symbolic folder
 	Revised CMake
 	VLC
-	VirualBox
+	VirtualBox
 	GParted
 	LibreOffice startcenter
 	LibreOffice Math
@@ -73,7 +149,7 @@
  11. New system software installer icon
  12. New software updater
  13. Revised devices (HDD, SSD)
- 14. Ready for 48px and 12px app icons
+ 14. Ready for 48px and 16px app icons
 
  =====================================================================
 

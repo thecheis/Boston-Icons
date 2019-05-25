@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="qv4l2-symbolic.svg">
+   sodipodi:docname="watchflower-symbolic2.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="-16.548704"
-     inkscape:cy="7.2791617"
+     inkscape:zoom="31.392433"
+     inkscape:cx="-1.6837737"
+     inkscape:cy="7.3338159"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -89,20 +89,10 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <g
-       id="g4751">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect822"
-         d="m 0,0 v 14 h 2 v 2 h 4 v -2 h 4 v 2 h 4 v -2 h 2 V 0 Z M 2,2 H 14 V 12 H 2 Z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="3"
-         x="3"
-         height="8"
-         width="10"
-         id="rect831"
-         style="opacity:0.4;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-    </g>
+    <path
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.09086371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 8.003993,2.910797 c 0,0 -1.292515,1.360462 -2.336193,2.945084 C 3.97667,5.009512 2.18872,4.480148 2.18872,4.480148 c 0,0 -0.52361,2.1743 -0.5734,4.24007 C 0.68393,8.742408 0,8.812678 0,8.812678 c 0,0 1.07522,4.686739 2.71207,5.723527 1.60013,1.013526 5.105638,0.05651 5.263173,0.01278 0.0022,4.54e-4 0.0252,0.0055 0.0252,0.0055 0,0 0.0042,-0.01316 0.0044,-0.01384 3e-6,-4e-6 8.81e-4,-9.09e-4 8.9e-4,-9.09e-4 0.05501,0.01544 3.657797,1.021248 5.282163,-0.0076 1.63685,-1.036762 2.712066,-5.723501 2.712066,-5.723501 0,0 -0.684192,-0.07029 -1.615848,-0.09246 -0.04556,-2.066161 -0.564881,-4.242199 -0.564881,-4.242199 0,0 -1.792235,0.526792 -3.486363,1.371119 C 9.290458,4.265145 8.003955,2.910836 8.003955,2.910836 Z"
+       id="path856-9"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="brackets-symbolic.svg">
+   sodipodi:docname="QtProject-designer-symbolic.svg">
   <title
      id="title4518">Boston Icons</title>
   <defs
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="-6.7132851"
-     inkscape:cy="11.671535"
+     inkscape:zoom="31.392433"
+     inkscape:cx="12.868046"
+     inkscape:cy="7.8489582"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -90,19 +90,60 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g4751">
+       id="g4778">
       <path
-         sodipodi:nodetypes="cccccccccccccc"
          inkscape:connector-curvature="0"
-         id="rect4136"
-         d="M 0,0 V 16 H 2 16 V 14 0 H 14 2 Z M 2,2 H 14 V 14 H 2 Z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4138"
-         d="m 4,4 v 8 H 6 7 V 10 H 6 V 6 H 7 V 4 H 6 Z m 5,0 v 2 h 1 v 4 H 9 v 2 h 1 2 V 4 h -2 z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect4750"
+         d="m 12,0 v 10 l 2,6 2,-6 V 0 Z m 2,1 h 1 v 8 h -1 z"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         rx="3.2326e-06"
+         y="0"
+         x="0"
+         height="2"
+         width="10"
+         id="rect4754"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         rx="3.2326e-06"
+         y="4"
+         x="2"
+         height="2"
+         width="8"
+         id="rect4756"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         rx="3.2326e-06"
+         y="8"
+         x="2"
+         height="2"
+         width="4"
+         id="rect4758"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         rx="3.2326e-06"
+         y="8"
+         x="8"
+         height="2"
+         width="2"
+         id="rect4760"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         rx="3.2326e-06"
+         y="12"
+         x="0"
+         height="2"
+         width="2"
+         id="rect4762"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         rx="3.2326e-06"
+         y="12"
+         x="4"
+         height="2"
+         width="6"
+         id="rect4764"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>

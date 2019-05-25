@@ -5,11 +5,11 @@
  Boston is an icon theme inspired by functionalist design.
  A minimal and elegant look for your desktop.
  
- It is intended to be used with GNOME Shell 3.32 or higher and adapt well with Adwaita.
+ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
  For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
  Do you like my work and do you want support it? You can make a donation.  
- Every support is really appreciated. ;)
+ Every little support is really appreciated. <3
 
  PayPal donations: paypal.me/ChrisDiaz 
  
@@ -17,7 +17,7 @@
 
  ---------------------------------------------------------------
 
- Boston icons aren't affiliated with any project that isn't designed by the author.
+ Boston icons aren't affiliated with any project that isn't designed or released by the author.
  Any other use isn't officially supported.
 
  ---------------------------------------------------------------
@@ -35,8 +35,23 @@
 
  #/ HOW TO INSTALL
 
+ - Automatic for user:
+
+ Open a terminal on downloaded Boston icons folder and run "./install.sh" (need permissions)
+ You can read inside install.sh file for more info.
+
+ - Manual:
+
  Copy entire icon theme folder into " /YOUR-HOME/.icons " directory
  For all users copy it into " /usr/share/icons " (root mode is needed)
+
+ ---------------------------------------------------------------
+
+ #/ WIKI
+
+ There is available a little wiki for more info:
+
+ github.com/heychrisd/Boston-Icons/wiki
 
  ---------------------------------------------------------------
 
@@ -53,11 +68,11 @@
 
  ---------------------------------------------------------------
 
- Any bug or something wrong? Use this form to help me improve the theme: 
- https://goo.gl/forms/dMcFc2rMjI0fhFxu2
+ Any bug or some request? Use this form to help me improve the theme: 
+ goo.gl/forms/dMcFc2rMjI0fhFxu2
 
  Or if you use GitHub, you got the issues report page:
- https://github.com/heychrisd/Boston-Icons/issues
+ github.com/heychrisd/Boston-Icons/issues
 
  ---------------------------------------------------------------
  

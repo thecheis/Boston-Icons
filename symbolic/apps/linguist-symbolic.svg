@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="qv4l2-symbolic.svg">
+   sodipodi:docname="linguist-symbolic.svg">
   <title
-     id="title815">Boston Icons</title>
+     id="title4518">Boston Icons</title>
   <defs
      id="defs4161">
     <inkscape:perspective
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="-16.548704"
-     inkscape:cy="7.2791617"
+     inkscape:zoom="31.392433"
+     inkscape:cx="6.3378102"
+     inkscape:cy="10.397343"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -63,7 +63,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Boston Icons</dc:title>
         <cc:license
-           rdf:resource="https://dribbble.com/chrisdiaz" />
+           rdf:resource="dribbble.com/chrisdiaz" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -76,12 +76,12 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,20 +89,10 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <g
-       id="g4751">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect822"
-         d="m 0,0 v 14 h 2 v 2 h 4 v -2 h 4 v 2 h 4 v -2 h 2 V 0 Z M 2,2 H 14 V 12 H 2 Z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="3"
-         x="3"
-         height="8"
-         width="10"
-         id="rect831"
-         style="opacity:0.4;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-    </g>
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="m 0,0 v 12 h 2 v 4 L 6,12 H 16 V 0 Z m 6.21875,2.3808594 c 1.9622489,0 3.4003906,1.4049384 3.4003906,3.3671875 0,0.9176686 -0.3243906,1.7169883 -0.8515625,2.3027343 L 9.2460938,8.609375 8.28125,9.4003906 7.7519531,8.7949219 C 7.3028812,8.9999329 6.7752086,9.1171875 6.21875,9.1171875 c -1.9720114,0 -3.4042969,-1.4068917 -3.4042969,-3.3691406 0,-1.9622491 1.4322855,-3.3671875 3.4042969,-3.3671875 z m 4.605469,0.6152344 h 1.240234 v 1.2871093 h 0.957031 v 1.0839844 h -0.957031 v 2.1191406 c 0,0.3026354 0.154386,0.5273438 0.427735,0.5273438 0.185484,0 0.3633,-0.068385 0.43164,-0.1464844 l 0.261719,0.9472656 c -0.185487,0.165961 -0.515794,0.3027344 -1.033203,0.3027344 -0.868857,0 -1.328125,-0.4494962 -1.328125,-1.2988281 V 5.3671875 h -0.78125 V 4.2832031 h 0.78125 z M 6.21875,3.6113281 c -1.2105416,4e-7 -1.9804688,0.9164148 -1.9804688,2.1367188 -1e-7,1.2105415 0.7699272,2.1386719 1.9804688,2.1386719 0.2440608,0 0.4707701,-0.039085 0.6757812,-0.1074219 L 6.1816406,6.9375 7.1464844,6.1484375 7.859375,6.9882812 C 8.0741491,6.646596 8.1933594,6.2166436 8.1933594,5.7480469 8.1933594,4.5277427 7.4195292,3.6113281 6.21875,3.6113281 Z"
+       id="rect4749"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

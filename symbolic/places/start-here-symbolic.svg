@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="qv4l2-symbolic.svg">
+   sodipodi:docname="start-here-symbolic.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="-16.548704"
-     inkscape:cy="7.2791617"
+     inkscape:cx="-4.3210401"
+     inkscape:cy="7.771108"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -69,7 +69,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz</dc:description>
         <dc:date>2019</dc:date>
         <dc:publisher>
           <cc:Agent>
@@ -89,20 +89,10 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <g
-       id="g4751">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect822"
-         d="m 0,0 v 14 h 2 v 2 h 4 v -2 h 4 v 2 h 4 v -2 h 2 V 0 Z M 2,2 H 14 V 12 H 2 Z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="3"
-         x="3"
-         height="8"
-         width="10"
-         id="rect831"
-         style="opacity:0.4;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-    </g>
+    <path
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="M 2,0 A 2,2 0 0 0 0,2 2,2 0 0 0 2,4 2,2 0 0 0 4,2 2,2 0 0 0 2,0 Z M 8,0 A 2,2 0 0 0 6,2 2,2 0 0 0 8,4 2,2 0 0 0 10,2 2,2 0 0 0 8,0 Z m 6,0 A 2,2 0 0 0 12,2 2,2 0 0 0 14,4 2,2 0 0 0 16,2 2,2 0 0 0 14,0 Z M 2,6 A 2,2 0 0 0 0,8 2,2 0 0 0 2,10 2,2 0 0 0 4,8 2,2 0 0 0 2,6 Z M 8,6 A 2,2 0 0 0 6,8 2,2 0 0 0 8,10 2,2 0 0 0 10,8 2,2 0 0 0 8,6 Z m 6,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z M 2,12 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 6,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 6,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+       id="path4751"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
