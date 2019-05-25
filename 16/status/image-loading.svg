@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -16,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-remote.svg">
+   sodipodi:docname="image-loading.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -28,28 +27,15 @@
        inkscape:vp_z="16 : 8 : 1"
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
        id="perspective4709" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1027"
-       id="linearGradient1029"
-       x1="99.48333"
-       y1="170"
-       x2="99.483322"
-       y2="160.54114"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52131411,0,0,0.52131411,-42.862061,-75.692363)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1027">
-      <stop
-         style="stop-color:#7fb9ec;stop-opacity:1;"
-         offset="0"
-         id="stop1023" />
-      <stop
-         style="stop-color:#7fb9ec;stop-opacity:0;"
-         offset="1"
-         id="stop1025" />
-    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5603">
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
+         id="path5605"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -58,9 +44,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="9.2020336"
-     inkscape:cy="10.055834"
+     inkscape:zoom="44.395604"
+     inkscape:cx="8.4208494"
+     inkscape:cy="7.2381237"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -70,7 +56,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -112,27 +98,10 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <g
-       id="g889">
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4137-3"
-         d="M 1,0 V 2 12 H 3 15 V 12 10 2 H 13 9 L 7,0 H 6 Z"
-         style="opacity:1;fill:#b9d9f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4137"
-         d="m 1,0 v 2 10 h 2 4 v 2 H 1 v 2 H 15 V 14 H 9 v -2 h 6 V 10 2 H 13 9 L 7,0 H 6 Z M 2,1 H 6.7 L 8.1,2.5 6.7,4 H 2 Z m 7,2 h 5 v 8 H 2 V 5 h 4 1 z"
-         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="8"
-         x="1"
-         height="4"
-         width="14"
-         id="rect1005"
-         style="opacity:0.3;fill:url(#linearGradient1029);fill-opacity:1;stroke:none;stroke-width:0.27586204;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+    <path
+       style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38100001;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="M 0,0 V 1 4 H 1 V 1 H 4 V 0 H 1 Z m 6,0 v 1 h 4 V 0 Z m 6,0 v 1 h 3 v 3 h 1 V 1 0 H 15 Z M 0,6 v 4 H 1 V 6 Z m 15,0 v 4 h 1 V 6 Z M 0,12 v 3 1 H 1 4 V 15 H 1 v -3 z m 15,0 v 3 h -3 v 1 h 3 1 v -1 -3 z m -9,3 v 1 h 4 v -1 z"
+       id="rect4760"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

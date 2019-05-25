@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-remote.svg">
+   sodipodi:docname="folder-black.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -34,19 +34,19 @@
        id="linearGradient1029"
        x1="99.48333"
        y1="170"
-       x2="99.483322"
-       y2="160.54114"
+       x2="99.48333"
+       y2="155.18333"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.52131411,0,0,0.52131411,-42.862061,-75.692363)" />
+       gradientTransform="matrix(0.52131411,0,0,0.52131411,-43.862061,-71.692363)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1027">
       <stop
-         style="stop-color:#7fb9ec;stop-opacity:1;"
+         style="stop-color:#33383f;stop-opacity:1"
          offset="0"
          id="stop1023" />
       <stop
-         style="stop-color:#7fb9ec;stop-opacity:0;"
+         style="stop-color:#33383f;stop-opacity:0.01968504"
          offset="1"
          id="stop1025" />
     </linearGradient>
@@ -59,8 +59,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="9.2020336"
-     inkscape:cy="10.055834"
+     inkscape:cx="13.33091"
+     inkscape:cy="5.7209609"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -113,24 +113,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g889">
+       id="g842">
       <path
-         sodipodi:nodetypes="ccccccccccccc"
+         sodipodi:nodetypes="cccccccccccc"
          inkscape:connector-curvature="0"
-         id="rect4137-3"
-         d="M 1,0 V 2 12 H 3 15 V 12 10 2 H 13 9 L 7,0 H 6 Z"
-         style="opacity:1;fill:#b9d9f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect4136"
+         d="m 0,1 v 14 h 2 12 2 V 5 3 H 9 L 7,1 H 2 1 Z"
+         style="opacity:1;fill:#33383f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
+         sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
-         id="rect4137"
-         d="m 1,0 v 2 10 h 2 4 v 2 H 1 v 2 H 15 V 14 H 9 v -2 h 6 V 10 2 H 13 9 L 7,0 H 6 Z M 2,1 H 6.7 L 8.1,2.5 6.7,4 H 2 Z m 7,2 h 5 v 8 H 2 V 5 h 4 1 z"
-         style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="path821"
+         d="m 1,2 h 5.4 l 2,2 H 15 V 14 H 1 Z"
+         style="fill:#464d56;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path829"
+         d="M 0,6 H 6.5 L 9,3 h 7 V 16 H 0 Z"
+         style="fill:#33383f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path831"
+         d="M 1,7 H 7.1 L 9.6,4 H 15 V 15 H 1 Z"
+         style="fill:#464d56;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <rect
-         y="8"
-         x="1"
-         height="4"
-         width="14"
+         y="9"
+         x="0"
+         height="7"
+         width="16"
          id="rect1005"
          style="opacity:0.3;fill:url(#linearGradient1029);fill-opacity:1;stroke:none;stroke-width:0.27586204;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
