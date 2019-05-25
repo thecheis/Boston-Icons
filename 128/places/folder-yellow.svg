@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
@@ -15,11 +16,34 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="dosbox.svg">
+   sodipodi:docname="folder-yellow.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
-     id="defs2628" />
+     id="defs2628">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1027">
+      <stop
+         style="stop-color:#fbc342;stop-opacity:1"
+         offset="0"
+         id="stop1023" />
+      <stop
+         style="stop-color:#fbc342;stop-opacity:0"
+         offset="1"
+         id="stop1025" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1027"
+       id="linearGradient1029"
+       x1="99.48333"
+       y1="170"
+       x2="99.48333"
+       y2="155.18333"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,1.687875e-5)" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +51,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.037214"
-     inkscape:cx="19.607164"
-     inkscape:cy="41.355836"
+     inkscape:zoom="5.6"
+     inkscape:cx="47.636294"
+     inkscape:cy="55.969225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -140,6 +164,11 @@
        id="guide3248"
        inkscape:locked="false" />
     <sodipodi:guide
+       position="15.874997,27.516658"
+       orientation="0.70710678,0.70710678"
+       id="guide850"
+       inkscape:locked="false" />
+    <sodipodi:guide
        position="26.987497,30.162491"
        orientation="0,1"
        id="guide843"
@@ -148,21 +177,6 @@
        position="30.162497,26.458325"
        orientation="0,1"
        id="guide845"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="16.93333,10.054158"
-       orientation="0,1"
-       id="guide860"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="18.52083,15.874991"
-       orientation="0,1"
-       id="guide963"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="16.404163,23.283324"
-       orientation="1,0"
-       id="guide982"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -193,7 +207,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz</dc:description>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -203,57 +217,38 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g854">
-      <text
-         id="text1045"
-         y="161.60545"
-         x="92.393021"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.26458335"
-           y="168.47221"
-           x="92.393021"
-           id="tspan1043"
-           sodipodi:role="line" /></text>
+       id="g849">
       <path
-         sodipodi:nodetypes="ccccc"
+         sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
-         id="path908"
-         d="m 84.666665,144.60001 14.287502,7.9375 14.287493,-7.9375 -14.287494,-7.40835 z"
-         style="fill:#7fb9ec;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path957"
+         d="m 83.608333,140.89583 h 12.170834 l 3.704166,2.64583 H 115.35833 V 166.825 l -31.749997,-10e-6 -10e-7,-25.4"
+         style="fill:#fbc342;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
+         sodipodi:nodetypes="cccccccccccccc"
          inkscape:connector-curvature="0"
-         id="path912"
-         d="m 84.666665,144.60001 14.287502,7.9375 v 16.40416 l -14.287501,-8.46666 -1e-6,-15.875"
-         style="fill:#a8b4bd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc" />
-      <g
-         transform="matrix(2.6977268,0,0,2.6977268,-174.21125,-288.04713)"
-         id="g906" />
+         id="path959"
+         d="m 98.530836,143.54165 -3.016249,2.11668 H 83.608336 v 21.16665 h 31.750004 v -23.28333 z m 0.238125,0.52917 h 16.060209 v 22.225 H 84.137503 V 146.1875 H 95.77917 Z"
+         style="fill:#fbc342;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="ccccc"
+         sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
-         id="path984"
-         d="M 98.954166,137.85312 85.857295,144.6 l 13.096871,7.27604 13.096874,-7.27603 z"
-         style="fill:#b9d9f7;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path845"
+         d="m 84.137499,146.18751 h 11.641667 l 2.989795,-2.11667 h 16.060209 v 22.225 H 84.137499 Z"
+         style="fill:#fae342;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="155.18333"
+         x="84.137497"
+         height="11.1125"
+         width="30.691668"
+         id="rect1005"
+         style="opacity:0.3;fill:url(#linearGradient1029);fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="ccccc"
+         sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
-         id="path986"
-         d="m 98.425,167.67168 v -14.73731 l -13.229167,-7.40833 v 14.605 L 98.425,167.93625"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path912-3"
-         d="m 113.24167,144.60001 -14.287504,7.9375 v 16.40416 l 14.287504,-8.46666 v -15.875"
-         style="fill:#5f7a8d;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path1018"
-         d="m 112.7125,145.52604 v 14.605 l -13.229167,7.80521 v -15.00188 z"
-         style="fill:#8698a6;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path843"
+         d="m 84.1375,141.42501 h 11.377086 l 3.042709,2.11666 -3.042709,2.11667 H 84.1375 Z"
+         style="fill:#fae342;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

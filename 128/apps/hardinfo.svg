@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.018607"
-     inkscape:cx="41.547001"
+     inkscape:cx="-42.437325"
      inkscape:cy="69.64652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -183,7 +183,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -700,7 +700,7 @@
            id="tspan1043"
            sodipodi:role="line" /></text>
       <g
-         style="fill:#a8b4bd;opacity:0.4"
+         style="opacity:0.4;fill:#a8b4bd"
          transform="matrix(0.07870139,0,0,0.07870139,88.880479,147.02821)"
          id="g3420">
         <g
