@@ -1,8 +1,8 @@
 ---
 name: Requests
-about: Some request or icon to add?
+about: New feature, enhancement or icon to add?
 title: ''
-labels: enhancement
+labels: request
 assignees: heychrisd
 
 ---
