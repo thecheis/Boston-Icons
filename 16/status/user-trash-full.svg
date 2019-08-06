@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="user-trash-fullç.svg">
+   sodipodi:docname="user-trash-full.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -44,9 +44,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="7.6033136"
-     inkscape:cy="10.120904"
+     inkscape:zoom="31.392433"
+     inkscape:cx="7.2203928"
+     inkscape:cy="8.5892208"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -114,7 +114,7 @@
          inkscape:connector-curvature="0"
          id="path827-3"
          d="M 9,0 5,4 9,8 13,4 9,0"
-         style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -125,7 +125,7 @@
          inkscape:connector-curvature="0"
          id="path827"
          d="M 7,0 3,4 7,8 11,4 7,0"
-         style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -137,13 +137,13 @@
          inkscape:connector-curvature="0"
          id="rect853"
          d="M 3,4 V 5 5 16 H 13 V 5 5 4 Z"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="rect823"
          d="M 6,4 V 4 4 H 3 V 5 5 H 4 3 v 11 h 1 8 1 V 5 5 6 5 4 H 10 V 4 4 Z M 7,4 H 9 V 4 Z M 4,5 h 8 V 15 H 4 Z m 1,1 v 8 H 6 V 6 Z m 2,0 v 8 H 9 V 6 Z m 3,0 v 8 h 1 V 6 Z"
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="opacity:1;fill:#7a8e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>
