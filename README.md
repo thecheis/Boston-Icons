@@ -53,10 +53,6 @@ There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wik
 
 ---
 
-Any bug or something wrong? Use [this form](https://goo.gl/forms/dMcFc2rMjI0fhFxu2) to help me improve the theme.
-
----
-
 Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
 
 *christiandiaz.design@gmail.com*
