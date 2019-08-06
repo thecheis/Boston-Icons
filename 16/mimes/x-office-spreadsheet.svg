@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="-2.7821311"
-     inkscape:cy="7.5080323"
+     inkscape:cx="6.1212884"
+     inkscape:cy="6.3294043"
      inkscape:current-layer="g887"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -133,41 +133,18 @@
       <g
          id="g919">
         <rect
-           style="opacity:1;fill:#06aa8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           style="opacity:1;fill:#079f87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
            id="rect853"
            width="16"
            height="14"
            x="0"
            y="2"
            ry="1.92356e-05" />
-        <rect
-           y="6"
-           x="4"
-           height="4"
-           width="5"
+        <path
+           style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="m 4,6 v 4 H 9 V 6 Z m 6,0 v 4 h 5 V 6 Z m -6,5 v 4 h 5 v -4 z m 6,0 v 4 h 5 v -4 z"
            id="rect851"
-           style="opacity:1;fill:#00cfb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-        <rect
-           y="6"
-           x="10"
-           height="4"
-           width="5"
-           id="rect857"
-           style="opacity:1;fill:#00cfb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-        <rect
-           y="11"
-           x="4"
-           height="4"
-           width="5"
-           id="rect851-7"
-           style="opacity:1;fill:#00cfb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-        <rect
-           y="11"
-           x="10"
-           height="4"
-           width="5"
-           id="rect857-5"
-           style="opacity:1;fill:#00cfb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>

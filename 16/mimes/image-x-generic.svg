@@ -41,11 +41,11 @@
        inkscape:collect="always"
        id="linearGradient1007">
       <stop
-         style="stop-color:#b9d9f7;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
          id="stop1003" />
       <stop
-         style="stop-color:#7fb9ec;stop-opacity:1"
+         style="stop-color:#6fb7ff;stop-opacity:1"
          offset="1"
          id="stop1005" />
     </linearGradient>
@@ -54,9 +54,9 @@
        xlink:href="#linearGradient1007"
        id="linearGradient865"
        x1="8"
-       y1="8"
+       y1="18"
        x2="8"
-       y2="0"
+       y2="4"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -67,9 +67,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="4.9904426"
-     inkscape:cy="7.5080323"
-     inkscape:current-layer="g887"
+     inkscape:cx="6.0040565"
+     inkscape:cy="5.7060521"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -155,7 +155,7 @@
       <g
          id="g843">
         <rect
-           style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
            id="rect853"
            width="16"
            height="14"
@@ -179,17 +179,17 @@
            y="4"
            ry="1.92356e-05" />
         <path
-           style="fill:#5f7a8d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+           style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 2,14 6,-6 6,6 z"
            id="path877"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#8698a6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+           style="fill:#7a8e9e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 4,14 7,-7 3,3 v 4 z"
            id="path873"
            inkscape:connector-curvature="0" />
         <circle
-           style="opacity:1;fill:#7fb9ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           style="opacity:1;fill:#2d8cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
            id="path879"
            cx="4.5"
            cy="6.5"
