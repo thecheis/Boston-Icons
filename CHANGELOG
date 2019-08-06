@@ -1,3 +1,58 @@
+ 06 Aug 2019 // v 0.5
+ --------------------
+
+ # Design adjustment: colors, hierarchy, metaphors and coherence, branding. More compatibilities.
+
+ 1. Adjusted color palette for better contrast
+ 2. Better SVG optimization
+ 3. Basic compatibility with KDE desktop using Breeze as background icons
+ 4. Symbolic icons
+	Spotify compatibility link
+	Deleted Lollypop (provided by own app)
+	Gcolor3 Color Picker
+	Revised VirtualBox
+ 5. Filetypes icons
+	Corrected 48px & 16px office document
+	Revised Microsoft Publisher
+	YAML
+	16px LibreOffice extension
+	Redesigned AppImage
+	New design for professional drawing files
+	Corel Draw
+	Adobe Photoshop
+	Krita
+	OpenRaster format
+	EPS format
+	16px Qt Linguist translation
+	Modelica
+	3D model (.stl)
+	AutoCAD (.dwg)
+	CAD interoperability (.dxf)
+	OpenSSL PEM
+	PKCS#10 (.p10)
+	Office drawing document (compatibility)
+	Office drawing document template (compatibility)
+	Office text document template (compatibility)
+	Office spreadsheet document template (compatibility)
+	Office presentation template (compatibility)
+	Microsoft Visio (compatibility)
+	HTML template
+	Corrected 16px apple disk image
+	Corrected 16px SVG and office drawing
+	New HTML
+	Tables / CSV
+	Bitmap image
+ 6. App icons
+	Revised PDF Shuffler / PDF Arranger
+	Block Attack! (FUILD - fltk game example)
+	Checkers (FUILD - fltk game example)
+	Sudoku (FUILD - fltk game example)
+	New DOSBox & symbolic
+ 7. Revised desktop icon
+ 8. Revised GNOME App Folders Manager
+
+ =====================================================================
+
  25 May 2019 // v 0.4
  --------------------
 

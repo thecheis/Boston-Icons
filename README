@@ -8,10 +8,12 @@
  It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
  For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
- Do you like my work and do you want support it? You can make a donation.  
- Every little support is really appreciated. <3
+ Download and vote: opendesktop.org/p/1012402/
 
- PayPal donations: paypal.me/ChrisDiaz 
+ Do you like my work and do you want support it? Become a sponsor.  
+ Every little contribution is really appreciated. <3
+
+ Fund: paypal.me/ChrisDiaz 
  
  Thanks!
 
@@ -35,10 +37,11 @@
 
  #/ HOW TO INSTALL
 
- - Automatic for user:
+ - Automatic with the installer (user mode only):
 
- Open a terminal on downloaded Boston icons folder and run "./install.sh" (need permissions)
- You can read inside install.sh file for more info.
+ Open a terminal on downloaded Boston icons folder
+ To give permissions, " chmod +x ./install.sh "
+ To run the script, " ./install.sh "
 
  - Manual:
 
@@ -68,10 +71,7 @@
 
  ---------------------------------------------------------------
 
- Any bug or some request? Use this form to help me improve the theme: 
- goo.gl/forms/dMcFc2rMjI0fhFxu2
-
- Or if you use GitHub, you got the issues report page:
+ Any bug or some request? You can use the report page to help me improve the theme: 
  github.com/heychrisd/Boston-Icons/issues
 
  ---------------------------------------------------------------

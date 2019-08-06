@@ -8,7 +8,7 @@ Comment=Icon theme inspired by functionalist design.
 Comment[es]=Tema de iconos inspirado en el diseño funcionalista.
 Comment[gl]=Tema de iconas inspirado no deseño funcionalista.
 
-Inherits=Adwaita,gnome,hicolor,
+Inherits=Adwaita,gnome,hicolor,breeze,
 
 Example=folder
 
