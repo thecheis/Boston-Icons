@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="63.657654"
-     inkscape:cy="59.779871"
+     inkscape:cx="32.050511"
+     inkscape:cy="60.137014"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -196,36 +196,36 @@
          id="rect840"
          transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)"
          d="m 20,4 v 120 h 88 V 28 l -2,-2 v 96 H 22 V 6 H 86 L 84,4 Z"
-         style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
       <path
          transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)"
          id="path863"
          d="m 82,4 v 26 h 26 V 28 L 84,4 Z m 2,3 21,21 H 84 Z"
-         style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path846"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          d="M 64,42 A 26,26 0 0 0 38,68 26,26 0 0 0 64,94 26,26 0 0 0 90,68 26,26 0 0 0 64,42 Z m 0,2 A 24.000001,24.000001 0 0 1 88,68 24.000001,24.000001 0 0 1 64,92 24.000001,24.000001 0 0 1 40,68 24.000001,24.000001 0 0 1 64,44 Z"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path864"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          d="M 64,58 A 10.000001,10.000001 0 0 0 54,68 10.000001,10.000001 0 0 0 64,78 10.000001,10.000001 0 0 0 74,68 10.000001,10.000001 0 0 0 64,58 Z m 0,8 a 2.0000001,2.0000001 0 0 1 2,2 2.0000001,2.0000001 0 0 1 -2,2 2.0000001,2.0000001 0 0 1 -2,-2 2.0000001,2.0000001 0 0 1 2,-2 z"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path854"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          d="m 64,60 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m 0,6 a 2.0000001,2.0000001 0 0 1 2,2 2.0000001,2.0000001 0 0 1 -2,2 2.0000001,2.0000001 0 0 1 -2,-2 2.0000001,2.0000001 0 0 1 2,-2 z"
-         style="opacity:1;fill:#e0e4e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="path882"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          d="m 64,64 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 0,2 a 2.0000001,2.0000001 0 0 1 2,2 2.0000001,2.0000001 0 0 1 -2,2 2.0000001,2.0000001 0 0 1 -2,-2 2.0000001,2.0000001 0 0 1 2,-2 z"
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
   </g>
