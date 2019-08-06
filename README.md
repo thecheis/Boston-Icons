@@ -60,4 +60,6 @@ Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [
 ---
 
 <sub>Dedicated with :heart: to Bruxa.<sub>
+  
+<sub>*IT01*<sub>
 
