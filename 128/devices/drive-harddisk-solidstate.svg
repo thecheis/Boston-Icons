@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-38.42972"
-     inkscape:cy="67.215745"
+     inkscape:zoom="1.4"
+     inkscape:cx="54.695575"
+     inkscape:cy="40.263512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -197,12 +197,13 @@
          height="31.750008"
          width="23.283333"
          id="rect910"
-         style="opacity:1;fill:#464d56;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#373b43;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="rect908"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-         d="M 22 6 L 22 122 L 50 122 L 50 116 L 98 116 L 98 122 L 106 122 L 106 6 L 22 6 z "
-         style="opacity:1;fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 22,6 v 116 h 28 v -6 h 48 v 6 h 8 V 6 Z"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <rect
          ry="4.1517624e-06"
          y="167.35417"
@@ -224,25 +225,25 @@
          cy="139.30833"
          cx="89.958336"
          id="path851"
-         style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="0.5291667"
          cy="139.30833"
          cx="109.00833"
          id="path853"
-         style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="0.5291667"
          cy="165.2375"
          cx="109.00833"
          id="path855"
-         style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="0.5291667"
          cy="165.2375"
          cx="89.958336"
          id="path857"
-         style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="rect848"
          d="m 95.779169,145.65834 v 2.11667 h -1.058333 v 1.05833 h -2.116667 v 1.05833 h 2.116667 v 1.05834 h -2.116667 v 1.05833 h 2.116667 v 1.05833 h -2.116667 v 1.05834 h 2.116667 v 1.05833 h -2.116667 v 1.05833 h 2.116667 v 1.05834 h 1.058333 v 2.11666 h 1.058333 v -2.11666 h 1.058334 v 2.11666 h 1.058333 v -2.11666 h 1.058331 v 2.11666 h 1.05833 v -2.11666 h 1.05833 v 2.11666 h 1.05833 v -2.11666 h 1.05834 v -1.05834 h 2.11666 v -1.05833 h -2.11666 v -1.05833 h 2.11666 v -1.05834 h -2.11666 v -1.05833 h 2.11666 v -1.05833 h -2.11666 v -1.05834 h 2.11666 v -1.05833 h -2.11666 v -1.05833 h -1.05834 v -2.11667 h -1.05833 v 2.11667 h -1.05833 v -2.11667 h -1.05833 v 2.11667 h -1.058331 v -2.11667 h -1.058333 v 2.11667 h -1.058334 v -2.11667 z m -0.529167,2.64583 h 8.466658 v 8.46667 h -8.466658 z"

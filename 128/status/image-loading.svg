@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.6889393"
-     inkscape:cx="75.025655"
-     inkscape:cy="61.261906"
+     inkscape:cx="111.49446"
+     inkscape:cy="43.98721"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -233,9 +233,10 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <path
-       style="opacity:1;fill:#a8b4bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4 4 L 4 28 L 6 28 L 6 6 L 28 6 L 28 4 L 6 4 L 4 4 z M 52 4 L 52 6 L 76 6 L 76 4 L 52 4 z M 100 4 L 100 6 L 122 6 L 122 28 L 124 28 L 124 4 L 122 4 L 100 4 z M 4 54 L 4 78 L 6 78 L 6 54 L 4 54 z M 122 54 L 122 78 L 124 78 L 124 54 L 122 54 z M 4 102 L 4 124 L 6 124 L 26 124 L 26 122 L 6 122 L 6 102 L 4 102 z M 122 102 L 122 122 L 102 122 L 102 124 L 122 124 L 124 124 L 124 102 L 122 102 z M 52 122 L 52 124 L 76 124 L 76 122 L 52 122 z "
+       style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4,4 V 28 H 6 V 6 H 28 V 4 H 6 Z M 52,4 V 6 H 76 V 4 Z m 48,0 v 2 h 22 v 22 h 2 V 4 h -2 z M 4,54 V 78 H 6 V 54 Z m 118,0 v 24 h 2 V 54 Z M 4,102 v 22 h 2 20 v -2 H 6 v -20 z m 118,0 v 20 h -20 v 2 h 20 2 v -22 z m -70,20 v 2 h 24 v -2 z"
        transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-       id="rect2007" />
+       id="rect2007"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
