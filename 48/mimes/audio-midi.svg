@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="15.955194"
-     inkscape:cy="22.467655"
+     inkscape:zoom="22.4"
+     inkscape:cx="27.45578"
+     inkscape:cy="32.035231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -163,26 +163,22 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <path
-       style="fill:#7e86c4;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#6434b2;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
        id="path1125"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#a29acd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#804dcf;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 84.931248,158.09376 h 5.688547 l 2.248958,2.24895 -5e-6,8.86355 h -7.9375 z"
        id="path1127"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:#7e86c4;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 90.487498,157.82918 v 2.64583 h 2.645833 z"
-       id="path851"
-       inkscape:connector-curvature="0" />
-    <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#7e86c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-       d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
-       id="rect1133" />
+       style="opacity:1;fill:#6434b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 l -2.38125,-2.38125 v 0 z"
+       id="rect1133"
+       sodipodi:nodetypes="ccccccccc" />
     <g
        id="g4838">
       <path
