@@ -22,20 +22,32 @@
   <defs
      id="defs2628">
     <linearGradient
+       id="linearGradient4785"
+       inkscape:collect="always">
+      <stop
+         id="stop4781"
+         offset="0"
+         style="stop-color:#2d8cff;stop-opacity:1" />
+      <stop
+         id="stop4783"
+         offset="1"
+         style="stop-color:#2d8cff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient882">
       <stop
-         style="stop-color:#b9d9f7;stop-opacity:1;"
+         style="stop-color:#6fb7ff;stop-opacity:1"
          offset="0"
          id="stop878" />
       <stop
-         style="stop-color:#b9d9f7;stop-opacity:0;"
+         style="stop-color:#6fb7ff;stop-opacity:0"
          offset="1"
          id="stop880" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1027"
+       xlink:href="#linearGradient4785"
        id="linearGradient1029"
        x1="99.48333"
        y1="165.5983"
@@ -104,8 +116,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="13.346565"
-     inkscape:cy="18.394226"
+     inkscape:cx="31.908118"
+     inkscape:cy="17.131535"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -255,7 +267,7 @@
          inkscape:connector-curvature="0"
          id="path881"
          d="m 83.079166,159.94584 4.762499,1e-5 1.058333,1.05833 h 5.820835 v 8.46666 H 83.079166 Z"
-         style="fill:#7fb9ec;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#2d8cff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
@@ -267,13 +279,13 @@
          inkscape:connector-curvature="0"
          id="path908"
          d="m 83.079164,164.70834 h 4.7625 l 1.058333,-1.05833 h 5.820834 l 2e-6,5.82083 H 83.079166 Z"
-         style="fill:#7fb9ec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#2d8cff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path910"
          d="m 83.343748,164.97293 h 4.630213 l 1.058334,-1.05833 h 5.423953 v 5.29166 h -11.1125 z"
-         style="fill:#b9d9f7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#6fb7ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <rect
          y="165.25575"
          x="83.079163"
