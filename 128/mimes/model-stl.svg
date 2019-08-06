@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="text-html2.svg">
+   sodipodi:docname="model-stl.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -38,8 +38,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="62.993757"
-     inkscape:cy="66.464942"
+     inkscape:cx="57.295005"
+     inkscape:cy="56.674972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -203,7 +203,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g8100">
+       id="g4789">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
@@ -220,22 +220,24 @@
          d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z m 0.52916,0.79375 5.55625,5.55625 H 104.775 Z"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
-      <g
-         id="g8092">
-        <path
-           style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38100004;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-           d="M 64,42 A 26,26 0 0 0 38,68 26,26 0 0 0 64,94 26,26 0 0 0 90,68 26,26 0 0 0 64,42 Z m 0,2 A 24.000001,24.000001 0 0 1 88,68 24.000001,24.000001 0 0 1 64,92 24.000001,24.000001 0 0 1 40,68 24.000001,24.000001 0 0 1 64,44 Z"
-           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-           id="path4777"
-           inkscape:connector-curvature="0" />
-        <path
-           style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38100004;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-           d="M 63,42.499999 V 46 H 50.499999 v 2 H 52 v 8 H 44 V 54.499999 H 42 V 56 v 2 9 h -3.500001 v 2 H 42 v 9 2 1.499999 h 2 V 80 h 8 v 8 h -1.500001 v 2 H 63 v 3.499999 h 2 V 90 H 77.499999 V 88 H 76 v -8 h 8 v 1.499999 h 2 V 69 l 3.499999,-10e-7 v -2 L 86,67 V 54.499999 H 84 V 56 h -8 v -8 h 1.499999 V 46 H 65 V 42.499999 Z M 54,48 h 9 v 8 h -9 z m 11,0 h 9 v 8 H 65 Z M 44,58 h 8 v 9 h -8 z m 10,0 h 9 v 9 h -9 z m 11,0 h 9 v 9 h -9 z m 11,0 h 8 v 9 H 76 Z M 44,69 h 8 v 9 h -8 z m 10,0 h 9 v 9 h -9 z m 11,0 h 9 v 9 h -9 z m 11,0 h 8 v 9 H 76 Z M 54,80 h 9 v 8 h -9 z m 11,0 h 9 v 8 h -9 z"
-           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-           id="rect8029"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-      </g>
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4781"
+         d="m 92.604166,150.95001 4e-6,6.34999 6.879167,4.23333 L 106.3625,157.3 v -6.34999 h -0.52916 v 6.02443 l -6.350003,-3.90778 -6.35,3.90778 -4e-6,-6.02443 z m 6.879171,2.77811 5.714893,3.57188 -5.45031,3.40651 v -6.05235 h -0.529167 v 6.05235 L 93.76844,157.3 Z"
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4781-6-5"
+         d="m 99.483333,146.71665 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z"
+         style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4781-6"
+         d="m 99.483333,146.71663 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z m 0,0.66146 5.714997,3.57188 -5.715001,3.57188 -5.714997,-3.57188 z"
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
