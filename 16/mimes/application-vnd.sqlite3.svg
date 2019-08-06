@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="2.3305655"
-     inkscape:cy="6.0108562"
+     inkscape:cx="-5.1075327"
+     inkscape:cy="4.1632772"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -132,27 +132,11 @@
        id="g887">
       <g
          id="g873">
-        <rect
-           y="12"
-           x="1"
-           height="4"
-           width="14"
+        <path
+           style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="M 1,0 V 4 H 15 V 0 Z m 0,6 v 4 H 15 V 6 Z m 0,6 v 4 h 14 v -4 z"
            id="rect828"
-           style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-        <rect
-           y="6"
-           x="1"
-           height="4"
-           width="14"
-           id="rect828-3"
-           style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-        <rect
-           y="0"
-           x="1"
-           height="4"
-           width="14"
-           id="rect828-6"
-           style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>

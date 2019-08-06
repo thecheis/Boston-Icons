@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="-3.4112901"
-     inkscape:cy="8.8144679"
+     inkscape:cx="6.3419278"
+     inkscape:cy="4.9852599"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -110,34 +110,11 @@
      inkscape:groupmode="layer">
     <g
        id="g4759">
-      <rect
-         y="1"
-         x="1"
-         height="6"
-         width="6"
+      <path
+         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="M 1,1 V 7 H 7 V 1 Z m 8,0 v 6 h 6 V 1 Z M 1,9 v 6 H 7 V 9 Z m 8,0 v 6 h 6 V 9 Z"
          id="rect825"
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="1"
-         x="9"
-         height="6"
-         width="6"
-         id="rect825-3"
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="9"
-         x="1"
-         height="6"
-         width="6"
-         id="rect825-5"
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="9"
-         x="9"
-         height="6"
-         width="6"
-         id="rect825-3-3"
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

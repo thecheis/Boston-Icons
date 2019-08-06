@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="-2.304309"
-     inkscape:cy="6.5205332"
+     inkscape:cx="0.38742243"
+     inkscape:cy="5.9152918"
      inkscape:current-layer="g887"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -131,7 +131,7 @@
     <g
        id="g887">
       <path
-         style="fill:#00cfb5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 14,0 H 2 v 2 l 6,6 -6,6 v 2 H 14 V 14 H 5 L 11,8 5,2 h 9 z"
          id="path843"
          inkscape:connector-curvature="0" />

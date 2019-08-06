@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -15,11 +16,59 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-vnd.oasis.opendocument.formula-template.svg">
+   sodipodi:docname="image-x-xcf.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
      id="defs4161">
+    <linearGradient
+       id="linearGradient4843"
+       inkscape:collect="always">
+      <stop
+         id="stop4837"
+         offset="0"
+         style="stop-color:#6fb7ff;stop-opacity:1" />
+      <stop
+         style="stop-color:#804dcf;stop-opacity:1"
+         offset="0.5"
+         id="stop4839" />
+      <stop
+         id="stop4841"
+         offset="1"
+         style="stop-color:#f866a7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4823"
+       inkscape:collect="always">
+      <stop
+         id="stop4817"
+         offset="0"
+         style="stop-color:#ffc61b;stop-opacity:1" />
+      <stop
+         style="stop-color:#00c28e;stop-opacity:1"
+         offset="0.5"
+         id="stop4819" />
+      <stop
+         id="stop4821"
+         offset="1"
+         style="stop-color:#6fb7ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4785">
+      <stop
+         style="stop-color:#d43838;stop-opacity:1"
+         offset="0"
+         id="stop4781" />
+      <stop
+         id="stop4789"
+         offset="0.5"
+         style="stop-color:#ff7a22;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffc61b;stop-opacity:1"
+         offset="1"
+         id="stop4783" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 8 : 1"
@@ -36,6 +85,35 @@
          id="path5605"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4785"
+       id="linearGradient4787"
+       x1="1"
+       y1="2"
+       x2="15"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(0,6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4823"
+       id="linearGradient4787-7"
+       x1="1"
+       y1="2"
+       x2="15"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(0,12)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4843"
+       id="linearGradient4787-2"
+       x1="1"
+       y1="2"
+       x2="15"
+       y2="2"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -45,9 +123,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="8.7174556"
-     inkscape:cy="6.7753717"
-     inkscape:current-layer="layer1"
+     inkscape:cx="8.5741083"
+     inkscape:cy="6.9983553"
+     inkscape:current-layer="g887"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -131,33 +209,31 @@
     <g
        id="g887">
       <g
-         id="g845">
-        <path
-           inkscape:connector-curvature="0"
-           id="path843"
-           d="M 14,0 H 2 v 2 l 6,6 -6,6 v 2 H 14 V 14 H 5 L 11,8 5,2 h 9 z"
-           style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <g
-           id="g849">
-          <path
-             sodipodi:nodetypes="cccccccc"
-             id="path819-3"
-             d="M 16,4.9999998 3.9999988,16 H 16 Z M 12.999999,11.7 V 13 h -1.4 z"
-             style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-          <path
-             sodipodi:nodetypes="cccccccc"
-             inkscape:connector-curvature="0"
-             id="path819"
-             d="M 16,5.0000003 3.9999983,16 H 16 Z M 15,7.2999998 V 15 H 6.5999988 Z"
-             style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-          <path
-             sodipodi:nodetypes="cccccccc"
-             id="path838"
-             d="M 14,9.4999998 9.0999988,14 H 14 Z M 12.999999,11.7 V 13 h -1.4 z"
-             style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
-        </g>
+         id="g4848">
+        <rect
+           rx="3.2326e-06"
+           y="0"
+           x="1"
+           height="4"
+           width="14"
+           id="rect4758"
+           style="opacity:1;fill:url(#linearGradient4787);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:7.99999952, 7.99999952;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           rx="3.2326e-06"
+           y="6"
+           x="1"
+           height="4"
+           width="14"
+           id="rect4758-6"
+           style="opacity:1;fill:url(#linearGradient4787-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:7.99999952, 7.99999952;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           rx="3.2326e-06"
+           y="12"
+           x="1"
+           height="4"
+           width="14"
+           id="rect4758-7"
+           style="opacity:1;fill:url(#linearGradient4787-2);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:7.99999952, 7.99999952;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
   </g>
