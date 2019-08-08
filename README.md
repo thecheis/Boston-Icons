@@ -1,3 +1,4 @@
+![Boston Icons on desktop](https://github.com/heychrisd/Boston-Icons/blob/master/Editorial%20Pictures/Boston%20C.png)
 ![Boston Icons](https://github.com/heychrisd/Boston-Icons/blob/master/Boston-Icons-Preview.png)
 
 # Boston - Icon theme for GNOME Shell
