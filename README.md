@@ -16,6 +16,13 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 <p align="center">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
 </p>
+
+<p align="center">
+  <b>Bitcoin:</b> 1teQo5ScukQkVxa8jvGoCWudxqK2JBJTU
+</p>
+<p align="center">
+  <b>Ethereum:</b> 0x926A462F08b0e106fe834eC87049fa788093225D
+</p>
  
 ### Thanks!
 
