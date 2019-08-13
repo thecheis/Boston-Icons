@@ -1,7 +1,9 @@
 ![Boston Icons on desktop](https://github.com/heychrisd/Boston-Icons/blob/master/Editorial%20Pictures/Boston%20C.png)
 ![Boston Icons](https://github.com/heychrisd/Boston-Icons/blob/master/Boston-Icons-Preview.png)
 
-# Boston - Icon theme for GNOME Shell
+<h1 align="center">
+ BOSTON
+</h1>
 
 **Boston is an icon theme inspired by functionalist design.**
 
@@ -11,7 +13,9 @@ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with it
 
 For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
-### Do you like my work and do you want support it? Become a patron. Every little contribution is really appreciated.  :heart:
+## Support it
+
+**Do you like my work and do you want support it? Become a patron. Every little contribution is really appreciated.**  :heart:
 
 <p align="center">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
@@ -24,12 +28,12 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
   <b>Ethereum:</b> 0x926A462F08b0e106fe834eC87049fa788093225D
 </p>
  
-### Thanks!
+**Thanks!**
 
 
 ## Download and vote
 
-Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/)
+Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
 
 
 ## How to install
@@ -56,8 +60,7 @@ Read "LICENSE" file for more info.
 Any other use isn't officially supported.*
 
 ## Wiki
-
-There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info.
+There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info about multiple things (philosophy, production, FAQ, etc).
 
 ---
 
