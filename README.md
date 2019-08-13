@@ -7,7 +7,7 @@
 
 **Boston is an icon theme inspired by functionalist design.**
 
-An elegant and sober look for your desktop.
+A minimalist and elegant look for your desktop.
 
 It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
 
