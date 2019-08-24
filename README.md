@@ -35,21 +35,8 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
 
-
-## How to install
-
-Copy entire icon theme folder into `/YOUR-HOME/.icons` directory
-
-For all users copy it into `/usr/share/icons` (root mode is needed)
-
-## Priorities and schedule
-
-1. System folders and file types
-2. Some symbolic icons and apps without own native symbolic
-3. Outdated or bad looking icons (low resolution, etc)
-4. Rest of collection (priority according to the needs)
-
-This project is focused on quality and not quantity.
+## Wiki
+There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info about multiple things (installation, philosophy, production, FAQ, etc). Take a look!
 
 ## License
 
@@ -58,9 +45,6 @@ Read "LICENSE" file for more info.
 
 *Boston icons aren't affiliated with any project that isn't designed by the author.
 Any other use isn't officially supported.*
-
-## Wiki
-There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info about multiple things (philosophy, production, FAQ, etc).
 
 ---
 
