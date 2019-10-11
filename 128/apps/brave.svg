@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866667"
+   version="1.1"
+   id="svg2634"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="brave.svg">
+  <title
+     id="title3250">Boston Icons</title>
+  <defs
+     id="defs2628">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.92290533,1.0835348)"
+       x1="0.00011788858"
+       y1="119.55213"
+       x2="235.77728"
+       y2="119.55213"
+       id="linearGradient-1">
+      <stop
+         stop-color="#FF5500"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#FF5500"
+         offset="40.9877232%"
+         id="stop8" />
+      <stop
+         stop-color="#FF2000"
+         offset="58.1981215%"
+         id="stop10" />
+      <stop
+         stop-color="#FF2000"
+         offset="100%"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x1="0.021484375"
+       y1="0.50705516"
+       x2="1"
+       y2="0.50705516"
+       id="linearGradient-2"
+       gradientTransform="translate(0.7025413,-72.361754)">
+      <stop
+         stop-color="#FF452A"
+         offset="0%"
+         id="stop15" />
+      <stop
+         stop-color="#FF2000"
+         offset="100%"
+         id="stop17" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00ffed"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8415843"
+     inkscape:cx="89.946175"
+     inkscape:cy="62.571885"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3182"
+       spacingx="0.52916667"
+       spacingy="0.52916667"
+       empspacing="4"
+       originx="-82.550004"
+       originy="-127.00001"
+       dotted="false" />
+    <sodipodi:guide
+       position="-4.268358e-06,27.516666"
+       orientation="1,0"
+       id="guide3216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.7041618,33.866666"
+       orientation="0,1"
+       id="guide3218"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.866657,24.870836"
+       orientation="1,0"
+       id="guide3220"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.279157,-4.1479283e-06"
+       orientation="0,1"
+       id="guide3222"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.345829,32.808336"
+       orientation="0,1"
+       id="guide3224"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-4.7625023,1.0583259"
+       orientation="0,1"
+       id="guide3226"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583287,17.462496"
+       orientation="1,0"
+       id="guide3228"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.808327,20.108336"
+       orientation="1,0"
+       id="guide3230"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.874995,31.750006"
+       orientation="0,1"
+       id="guide3232"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.1166617,24.870836"
+       orientation="1,0"
+       id="guide3234"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.1749958,25.400006"
+       orientation="1,0"
+       id="guide3236"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.2916633,15.345824"
+       orientation="1,0"
+       id="guide3238"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="28.574997,25.400006"
+       orientation="1,0"
+       id="guide3240"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.691657,24.341666"
+       orientation="1,0"
+       id="guide3242"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31.749997,21.695836"
+       orientation="1,0"
+       id="guide3244"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.695827,2.1166659"
+       orientation="0,1"
+       id="guide3246"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.404162,3.1749959"
+       orientation="0,1"
+       id="guide3248"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.987497,30.162491"
+       orientation="0,1"
+       id="guide843"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.162497,26.458325"
+       orientation="0,1"
+       id="guide845"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,10.054158"
+       orientation="0,1"
+       id="guide860"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2631">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.550003,-136.13333)">
+    <g
+       transform="matrix(0.13253485,0,0,0.13253485,85.048384,136.14094)"
+       id="starting-collection"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <g
+         id="Build-Icons"
+         transform="translate(-70,-350)">
+        <g
+           id="build-icons/Stable"
+           transform="translate(50,350)">
+          <g
+             id="Logo"
+             transform="translate(20.114286)">
+            <path
+               d="m 209.98411,61.284875 5.984,-14.706383 c 0,0 -7.616,-8.170213 -16.864,-17.429787 -9.248,-9.259575 -28.832,-3.812766 -28.832,-3.812766 L 147.96811,1.0893617e-4 h -39.168 -39.168001 L 47.328109,25.335939 c 0,0 -19.584,-5.446809 -28.832,3.812766 C 9.2481088,38.408279 1.6321088,46.578492 1.6321088,46.578492 l 5.984,14.706383 -7.616,21.787234 c 0,0 22.3992002,84.945701 25.0240002,95.319151 5.168,20.42553 8.704,28.3234 23.392,38.67234 14.688,10.34893 41.344,28.3234 45.696,31.04681 4.352,2.7234 9.792001,7.36245 14.688001,7.36245 4.896,0 10.336,-4.63905 14.688,-7.36245 4.352,-2.72341 31.008,-20.69788 45.696,-31.04681 14.688,-10.34894 18.224,-18.24681 23.392,-38.67234 2.62425,-10.37345 25.024,-95.319151 25.024,-95.319151 z"
+               id="Head"
+               inkscape:connector-curvature="0"
+               style="fill:url(#linearGradient-1)" />
+            <path
+               d="m 164.01611,41.404024 c 0,0 28.68838,34.723404 28.68838,42.144681 0,7.421276 -3.60889,9.379949 -7.23737,13.237923 -3.62848,3.857972 -19.47575,20.707132 -21.51085,22.870602 -2.03511,2.16402 -6.27178,5.44463 -3.77971,11.34952 2.49206,5.90488 6.16841,13.41875 2.08025,21.03993 -4.0887,7.62117 -11.0927,12.70795 -15.5807,11.86696 -4.488,-0.84153 -15.028,-6.35642 -18.904,-8.87557 -3.876,-2.51915 -16.16061,-12.66329 -16.16061,-16.54468 0,-3.88086 12.69859,-10.8495 15.04432,-12.43289 2.34682,-1.58284 13.0473,-7.71105 13.26653,-10.11636 0.21869,-2.40585 0.13545,-3.11121 -3.02247,-9.05477 -3.15792,-5.9441 -8.84489,-13.875746 -7.89833,-19.153159 0.94656,-5.276868 10.1184,-8.02097 16.66381,-10.496 6.54432,-2.474485 19.14608,-7.148391 20.71987,-7.874996 1.57488,-0.727149 1.16797,-1.419438 -3.60128,-1.872068 -4.76816,-0.45263 -18.30071,-2.251166 -24.40167,-0.548493 -6.10096,1.702672 -16.524,4.293174 -17.36828,5.666859 -0.84429,1.373685 -1.58903,1.419983 -0.72189,6.158707 0.86659,4.738723 5.33066,27.47697 5.76368,31.51578 0.43357,4.03881 1.28112,6.70883 -3.06816,7.70451 -4.34982,0.99568 -11.67152,2.72449 -14.18752,2.72449 -2.516,0 -9.838241,-1.72881 -14.187521,-2.72449 -4.349824,-0.99568 -3.502272,-3.6657 -3.068704,-7.70451 0.433568,-4.03881 4.897088,-26.777057 5.764224,-31.51578 0.866592,-4.738724 0.121856,-4.785022 -0.721888,-6.158707 -0.844288,-1.373685 -11.267872,-3.964187 -17.368832,-5.666859 -6.10096,-1.702673 -19.63296,0.09586 -24.401664,0.548493 -4.768704,0.45263 -5.175616,1.144919 -3.60128,1.872068 1.574336,0.726605 14.176096,5.400511 20.720416,7.874996 6.544864,2.47503 15.717248,5.219132 16.663808,10.496 0.94656,5.277413 -4.74096,13.209059 -7.898336,19.153159 -3.15792,5.94356 -3.241696,6.64892 -3.022464,9.05477 0.218688,2.40531 10.919712,8.53352 13.265984,10.11636 2.346272,1.58339 15.044317,8.55203 15.044317,12.43289 0,3.88139 -12.284061,14.02553 -16.160061,16.54468 -3.876,2.51915 -14.416,8.03404 -18.904,8.87557 -4.488,0.84099 -11.492,-4.24579 -15.580704,-11.86696 -4.08816,-7.62118 -0.411808,-15.13505 2.079712,-21.03993 2.492064,-5.90489 -1.744064,-9.1855 -3.779712,-11.34952 -2.03456,-2.16347 -17.882368,-19.01263 -21.510848,-22.870602 -3.62848,-3.857974 -7.236832,-5.816647 -7.236832,-13.237923 0,-7.421277 28.688384,-42.144681 28.688384,-42.144681 0,0 24.208,4.629787 27.472,4.629787 3.264,0 10.336,-2.723404 16.864,-4.902128 6.528001,-2.178723 10.880001,-2.194519 10.880001,-2.194519 0,0 4.352,0.0158 10.88,2.194519 6.528,2.178724 13.6,4.902128 16.864,4.902128 3.264,0 27.472,-4.629787 27.472,-4.629787 z M 142.5095,174.22793 c 1.77562,1.11333 0.69252,3.21199 -0.9248,4.35691 -1.61785,1.14492 -23.35664,17.99952 -25.46627,19.86233 -2.11017,1.86335 -5.21043,4.94025 -7.31843,4.94025 -2.108,0 -5.2088,-3.0769 -7.31843,-4.94025 -2.110178,-1.86281 -23.848418,-18.71741 -25.466274,-19.86233 -1.617856,-1.14492 -2.700416,-3.24358 -0.9248,-4.35691 1.77616,-1.11278 7.332032,-3.9217 14.998624,-7.89405 7.665504,-3.97182 17.21978,-7.34884 18.71088,-7.34884 1.4911,0 11.04483,3.37702 18.71142,7.34884 7.66605,3.97235 13.22192,6.78127 14.99808,7.89405 z"
+               id="Face"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff" />
+            <mask
+               id="mask-4"
+               fill="white">
+              <path
+                 style="stroke-width:0.26458335"
+                 inkscape:connector-curvature="0"
+                 id="use25"
+                 d="m 127.60117,142.8368 -5.90127,-6.70344 h -10.3632 -10.3632 l -5.901268,6.70344 c 0,0 -5.1816,-1.44114 -7.628467,1.00879 0,0 6.9088,-0.62444 9.2837,3.24255 0,0 6.405035,1.22497 7.268635,1.22497 0.8636,0 2.73473,-0.72057 4.46193,-1.29702 1.7272,-0.57646 2.87867,-0.58064 2.87867,-0.58064 0,0 1.15147,0.004 2.87867,0.58064 1.7272,0.57645 3.59833,1.29702 4.46193,1.29702 0.8636,0 7.26863,-1.22497 7.26863,-1.22497 2.3749,-3.86699 9.2837,-3.24255 9.2837,-3.24255 -2.44686,-2.44993 -7.62846,-1.00879 -7.62846,-1.00879" />
+            </mask>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
