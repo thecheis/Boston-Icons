@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.395604"
-     inkscape:cx="9.4816762"
-     inkscape:cy="7.698357"
+     inkscape:cx="11.39628"
+     inkscape:cy="8.8696441"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -107,22 +107,14 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2,2 V 3 H 0 v 10 2 H 16 V 13 5 3 H 5 V 2 Z M 1,4 H 15 V 14 H 1 Z m 11,1 v 1 h 2 V 5 Z"
+       d="M 2,2 V 3 H 0 v 10 2 H 16 V 13 5 3 H 5 V 2 Z M 1,4 H 15 V 14 H 1 Z M 2,5 V 6 H 5 V 5 Z m 10,0 v 1 h 2 V 5 Z"
        id="rect4136"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
        id="path824"
        cx="9"
        cy="9"
        r="1" />
-    <rect
-       style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-       id="rect828"
-       width="3"
-       height="1"
-       x="2"
-       y="5" />
   </g>
 </svg>

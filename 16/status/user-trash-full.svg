@@ -45,7 +45,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="7.2203928"
+     inkscape:cx="1.5820914"
      inkscape:cy="8.5892208"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -113,24 +113,24 @@
       <path
          inkscape:connector-curvature="0"
          id="path827-3"
-         d="M 9,0 5,4 9,8 13,4 9,0"
+         d="M 10,0 6,4 10,8 14,4 10,0"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path829-6"
-         d="M 9,1.5 6.5,4 9,6.5 11.5,4 Z"
+         d="M 10,1.5 7.5,4 10,6.5 12.5,4 Z"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path827"
-         d="M 7,0 3,4 7,8 11,4 7,0"
+         d="M 6,0 2,4 6,8 10,4 6,0"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path829"
-         d="M 7,1.5 4.5,4 7,6.5 9.5,4 Z"
+         d="M 6,1.5 3.5,4 6,6.5 8.5,4 Z"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccccccc"
@@ -142,7 +142,7 @@
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="rect823"
-         d="M 6,4 V 4 4 H 3 V 5 5 H 4 3 v 11 h 1 8 1 V 5 5 6 5 4 H 10 V 4 4 Z M 7,4 H 9 V 4 Z M 4,5 h 8 V 15 H 4 Z m 1,1 v 8 H 6 V 6 Z m 2,0 v 8 H 9 V 6 Z m 3,0 v 8 h 1 V 6 Z"
+         d="M 5,4 V 4 4 H 2 V 5 5 H 3 2 v 11 h 1 10 1 V 5 5 6 5 4 H 11 V 4 4 Z M 7,4 H 9 V 4 Z M 3,5 H 13 V 15 H 3 Z m 1,1 v 8 H 5 V 6 Z m 3,0 v 8 H 9 V 6 Z m 4,0 v 8 h 1 V 6 Z"
          style="opacity:1;fill:#7a8e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>

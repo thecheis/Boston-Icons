@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="3.0220296"
-     inkscape:cy="6.6259901"
+     inkscape:cx="5.7305205"
+     inkscape:cy="4.2686951"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -92,18 +92,10 @@
     <g
        id="g848">
       <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
+         style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 0,6 v 9 h 12 v -4 l 2,3 h 1 V 7 h -1 l -2,3 V 6 Z"
          id="path824"
-         d="m 15,7 v 7 h -1 l -2,-3 v -1 l 2,-3 z"
-         style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <rect
-         y="6"
-         x="0"
-         height="9"
-         width="12"
-         id="rect822"
-         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         inkscape:connector-curvature="0" />
       <path
          id="rect4144"
          d="M 0,2 V 4 H 5 V 6 H 2 0 v 9 h 2 8 2 V 12.333984 L 14,15 h 1 1 V 6 H 15 14 L 12,8.6660156 V 6 H 10 7 V 2 H 5 Z m 1,5 h 10 v 7 H 1 Z M 14.400391,7 H 15 v 7 h -0.599609 l -2,-3 v -1 z"
