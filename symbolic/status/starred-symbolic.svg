@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="user-bookmarks-symbolic.svg">
+   sodipodi:docname="starred-symbolic.svg">
   <title
      id="title4140">Boston Icons</title>
   <defs
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="0.9381695"
-     inkscape:cy="4.795108"
+     inkscape:cx="2.9450226"
+     inkscape:cy="5.304785"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -90,7 +90,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 8,0 6,6 H 0 L 5,9.6 3,16 8,12 13,16 11,9.6 16,6 H 10 L 8,0"
        id="path819"
        inkscape:connector-curvature="0"

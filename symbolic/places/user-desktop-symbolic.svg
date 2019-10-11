@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="-2.2604668"
-     inkscape:cy="8.3993837"
+     inkscape:cx="15.99234"
+     inkscape:cy="6.5199499"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -90,8 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 0 1 L 0 15 L 16 15 L 16 1 L 0 1 z M 2 3 L 3 3 L 3 4 L 4 4 L 4 3 L 5 3 L 5 4 L 6 4 L 6 3 L 7 3 L 7 4 L 8 4 L 8 3 L 9 3 L 9 4 L 10 4 L 10 3 L 11 3 L 11 4 L 12 4 L 12 3 L 13 3 L 13 4 L 14 4 L 14 13 L 2 13 L 2 5 L 3 5 L 3 4 L 2 4 L 2 3 z M 13 4 L 12 4 L 12 5 L 13 5 L 13 4 z M 11 4 L 10 4 L 10 5 L 11 5 L 11 4 z M 9 4 L 8 4 L 8 5 L 9 5 L 9 4 z M 7 4 L 6 4 L 6 5 L 7 5 L 7 4 z M 5 4 L 4 4 L 4 5 L 5 5 L 5 4 z "
-       id="rect817" />
+       style="fill:#252627;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 0,1 V 15 H 16 V 1 Z M 2,3 H 3 V 4 H 4 V 3 H 5 V 4 H 6 V 3 H 7 V 4 H 8 V 3 h 1 v 1 h 1 V 3 h 1 v 1 h 1 V 3 h 1 v 1 h 1 v 9 H 2 V 5 H 3 V 4 H 2 Z m 11,1 h -1 v 1 h 1 z m -2,0 h -1 v 1 h 1 z M 9,4 H 8 V 5 H 9 Z M 7,4 H 6 V 5 H 7 Z M 5,4 H 4 v 1 h 1 z"
+       id="rect817"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

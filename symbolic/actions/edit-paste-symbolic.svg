@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="4.0111488"
-     inkscape:cy="8.6523606"
+     inkscape:cx="7.8403568"
+     inkscape:cy="4.0122615"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -90,15 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6 0 L 6 2 L 2 2 L 2 4 L 2 16 L 4 16 L 14 16 L 14 14 L 14 4 L 14 2 L 10 2 L 10 0 L 6 0 z M 4 4 L 5 4 L 5 6 L 11 6 L 11 4 L 12 4 L 12 14 L 4 14 L 4 4 z M 6 4 L 10 4 L 10 5 L 6 5 L 6 4 z "
-       id="rect864" />
-    <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect874"
-       width="2"
-       height="1"
-       x="7"
-       y="1" />
+       style="opacity:1;fill:#252627;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6,0 V 2 H 2 V 4 16 H 4 14 V 14 4 2 H 10 V 0 Z M 4,4 h 1 v 2 h 6 V 4 h 1 V 14 H 4 Z m 2,0 h 4 V 5 H 6 Z"
+       id="rect864"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

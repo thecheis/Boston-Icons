@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="2.5568061"
-     inkscape:cy="6.0826633"
+     inkscape:cx="5.9015612"
+     inkscape:cy="6.1782277"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="dribbble.com/chrisdiaz" />
         <dc:creator>
@@ -76,7 +76,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3,0 v 2 8 2 h 4 v 2 H 1 v 2 H 15 V 14 H 9 v -2 h 2 2 V 2 0 Z m 2,2 h 6 v 8 H 5 Z m 1,1 v 1 h 4 V 3 Z m 0,2 v 1 h 4 V 5 Z m 3,2 v 1 h 1 V 7 Z"
        id="rect4145"
        inkscape:connector-curvature="0"

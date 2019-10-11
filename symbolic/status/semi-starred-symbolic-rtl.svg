@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="8.7266706"
-     inkscape:cy="7.152364"
+     inkscape:cx="3.5024817"
+     inkscape:cy="6.9293803"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -90,8 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8 0 L 6 6 L 0 6 L 5 9.5996094 L 3 16 L 8 12 L 13 16 L 11 9.5996094 L 16 6 L 10 6 L 8 0 z M 8 4.1992188 L 8 10.199219 L 5.5 12.199219 L 6.5 9 L 4 7.1992188 L 7 7.1992188 L 8 4.1992188 z "
-       id="path819" />
+       style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8,0 6,6 H 0 L 5,9.5996094 3,16 8,12 13,16 11,9.5996094 16,6 h -6 z m 0,4.1992188 v 6.0000002 l -2.5,2 L 6.5,9 4,7.1992188 h 3 z"
+       id="path819"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
