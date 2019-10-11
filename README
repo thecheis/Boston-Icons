@@ -2,18 +2,24 @@
 	BOSTON
        ========
 
- Boston is an icon theme inspired by functionalist design.
- A minimal and elegant look for your desktop.
+ Boston is a minimalist and functional icon theme focused on basic shapes, 
+ a reduced color palette and visual hierarchy.
+ An elegant look for your desktop.
  
  It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
  For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
+
+ ---------------------------------------------------------------
 
  Download and vote: opendesktop.org/p/1012402/
 
  Do you like my work and do you want support it? Become a sponsor.  
  Every little contribution is really appreciated. <3
 
- Fund: paypal.me/ChrisDiaz 
+ Fund: paypal.me/ChrisDiaz
+
+ Bitcoin: 1teQo5ScukQkVxa8jvGoCWudxqK2JBJTU
+ Ethereum: 0x926A462F08b0e106fe834eC87049fa788093225D
  
  Thanks!
 
@@ -26,10 +32,11 @@
 
  #/ PRIORITIES AND SCHEDULE
 
- 1. System folders and file types
- 2. Some symbolic icons and apps without own native symbolic
- 3. Outdated or bad looking icons (low resolution, etc)
- 4. Rest of collection (priority according to the needs)
+ 1. GNOME as reference desktop
+ 2. System folders and file types
+ 3. Some symbolic icons and apps without own native symbolic
+ 4. Outdated or bad looking icons (low resolution, etc)
+ 5. Rest of collection (priority according to the needs)
 
  This project is focused on quality and not quantity.
 
@@ -37,9 +44,12 @@
 
  #/ HOW TO INSTALL
 
- - Automatic with the installer (user mode only):
+ - Automatic (user mode only):
 
- Open a terminal on downloaded Boston icons folder
+ The bash script installer, provided in theme package/folder, 
+ must be run into that Boston icons directory. 
+ 
+ Open a terminal on it (mouse right click on file manager blank area > Open in Terminal)
  To give permissions, " chmod +x ./install.sh "
  To run the script, " ./install.sh "
 
@@ -77,5 +87,8 @@
  ---------------------------------------------------------------
  
  Dedicated with <3 to Bruxa
+
+ -
+ IT01
 
 

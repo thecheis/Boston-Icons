@@ -1,3 +1,52 @@
+ 11 Oct 2019 // v 0.6
+ --------------------
+
+ # Corrections and improvements.
+
+ 1. Tested on GNOME 3.34
+ 2. Preparing KDE and XFCE extended compatibility
+ 3. Revised index file
+ 4. Filetypes icons:
+	Revised package repository
+	Low hierarchy for torrent files (waste, less used & important, existence of magnet links)
+	GTK UI -builder- (Glade)
+	Qt UI -builder- (Qt Designer)
+	Application X Object (.o)
+	Virtual machine drives (QEMU, VirtualBox, VMWare)
+	Revised Apple disk image
+	Revised 16px application x trash
+ 5. Symbolic icons
+	Firefox Beta
+	Firefox Nightly
+	New Qt Designer
+	New Qt Linguist
+	New PDF Shuffler / PDF Arranger
+	Revised LibreOffice Writer / Abiword
+	Revised folder documents
+	Revised folder templates
+	Revised system software updates
+	Revised Gpick
+	Snes9x
+	Brave web browser
+ 6. App icons
+	CUPS
+ 7. Legacy icons (fallback use):
+	Go home
+	Network wired
+ 8. Revised devices icons
+ 9. New 16px user home icon place
+ 10. Revised 16px folders:
+	Download
+	Music
+	Public Share
+	Documents
+	Templates
+	Trash & trash full
+ 11. Optimized some icon files
+
+ =====================================================================
+
+
  06 Aug 2019 // v 0.5
  --------------------
 
@@ -37,7 +86,7 @@
 	Office presentation template (compatibility)
 	Microsoft Visio (compatibility)
 	HTML template
-	Corrected 16px apple disk image
+	Corrected 16px Apple disk image
 	Corrected 16px SVG and office drawing
 	New HTML
 	Tables / CSV

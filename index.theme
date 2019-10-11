@@ -1,20 +1,58 @@
-#	=======================================
-#	  BOSTON - Icon theme for GNOME Shell
-#	=======================================
+#	==========
+#	  BOSTON       IT01
+#	==========
 
 [Icon Theme]
 Name=Boston
-Comment=Icon theme inspired by functionalist design.
-Comment[es]=Tema de iconos inspirado en el diseño funcionalista.
-Comment[gl]=Tema de iconas inspirado no deseño funcionalista.
-
-Inherits=Adwaita,gnome,hicolor,breeze,
+Comment=Minimalist and functional icon theme.
+Comment[es]=Tema de iconos minimalista y funcional.
+Comment[gl]=Tema de iconas minimalista e funcional.
+Comment[it]=Tema di icone minimalista e funzionale.
 
 Example=folder
 
+Inherits=Adwaita,gnome,hicolor,breeze,
+
+# KDE COMPATIBILITY
+# -----------------
+DisplayDepth=32
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+
 # --------------------------------------DIRECTORIES--------------------------------------
 
-Directories=symbolic/actions,scalable/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/devices,48/mimes,48/places,48/status,16/apps,16/devices,16/mimes,16/places,16/status,
+Directories=legacy/128,legacy/48,legacy/16,symbolic/actions,scalable/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/devices,48/mimes,48/places,48/status,16/apps,16/devices,16/mimes,16/places,16/status,
+
+# ---------------------------------------------------------------------------------------
+
+[legacy/128]
+Context=Legacy
+Size=128
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[legacy/48]
+Context=Legacy
+Size=48
+MinSize=16
+MaxSize=48
+Type=Scalable
+
+[legacy/16]
+Context=Legacy
+Size=16
+MinSize=8
+MaxSize=32
+Type=Scalable
 
 # ---------------------------------------------------------------------------------------
 
@@ -64,7 +102,7 @@ Type=Scalable
 
 [128/actions]
 Context=Actions
-Size=16
+Size=128
 MinSize=16
 MaxSize=512
 Type=Scalable

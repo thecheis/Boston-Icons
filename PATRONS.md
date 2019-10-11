@@ -1,4 +1,4 @@
-## Special thanks to patrons and supporters:
+## Special thanks to this patrons and supporters:
 
  - Dmitry Zamyslov
  - Adolfo Silerio
