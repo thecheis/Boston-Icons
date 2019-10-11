@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="-2.0009903"
-     inkscape:cy="7.8714817"
+     inkscape:cx="5.007068"
+     inkscape:cy="6.5654345"
      inkscape:current-layer="g867"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -95,17 +95,17 @@
          inkscape:connector-curvature="0"
          id="path856"
          d="M 8,0 0,16 8.8886719,7.1113281 Z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path829"
          d="M 16,16 4.8691406,11.130859 0,16 Z"
-         style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="opacity:0.5;fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path818"
          d="M 8,0 9.6523438,13.222656 16,16 Z"
-         style="opacity:0.7;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="opacity:0.7;fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

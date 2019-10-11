@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.395604"
-     inkscape:cx="8.3332497"
+     inkscape:cx="0.74240805"
      inkscape:cy="8.0900993"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,7 +90,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 0,0 V 16 H 2 16 V 14 0 H 14 2 Z M 2,2 H 14 V 14 H 2 Z m 2,2 v 8 H 6 7 V 10 H 6 V 6 H 7 V 4 H 6 Z m 5,0 v 2 h 1 v 4 H 9 v 2 h 1 2 V 4 h -2 z"
        id="rect4136"
        inkscape:connector-curvature="0" />

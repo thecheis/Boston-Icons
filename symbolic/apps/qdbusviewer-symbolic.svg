@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="8.9197565"
+     inkscape:cx="-1.8153146"
      inkscape:cy="9.6509384"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,17 +92,10 @@
     <g
        id="g4805">
       <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="M 6,0 0,4 6,8 V 6 h 6 V 2 H 6 Z m 4,8 v 2 H 4 v 4 h 6 v 2 l 6,-4 z"
          id="rect4768"
-         d="M 6,0 0,4 6,8 V 6 h 6 V 2 H 6 Z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4768-6"
-         d="m 10,16 6,-4 -6,-4 v 2 H 4 v 4 h 6 z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

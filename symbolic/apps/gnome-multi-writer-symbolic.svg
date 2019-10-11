@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="media-removable-symbolic.svg">
+   sodipodi:docname="gnome-multi-writer-symbolic.svg">
   <title
      id="title4518">Boston Icons</title>
   <defs
@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="2.616584"
+     inkscape:cx="-12.565099"
      inkscape:cy="8.9009901"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,8 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 3 0 L 3 7 L 2 7 L 2 16 L 4 16 L 4 9 L 12 9 L 12 16 L 14 16 L 14 7 L 13 7 L 13 0 L 11 0 L 5 0 L 3 0 z M 5 2 L 11 2 L 11 7 L 5 7 L 5 2 z M 6 3 L 6 5 L 7 5 L 7 3 L 6 3 z M 9 3 L 9 5 L 10 5 L 10 3 L 9 3 z "
-       id="rect825" />
+       style="opacity:1;fill:#252627;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3,0 V 7 H 2 v 9 H 4 V 9 h 8 v 7 h 2 V 7 H 13 V 0 H 11 5 Z m 2,2 h 6 V 7 H 5 Z M 6,3 V 5 H 7 V 3 Z m 3,0 v 2 h 1 V 3 Z"
+       id="rect825"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

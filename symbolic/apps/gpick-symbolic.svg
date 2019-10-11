@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="gpick-symbolic2.svg">
+   sodipodi:docname="gpick-symbolic.svg">
   <title
      id="title4518">Boston Icons</title>
   <defs
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="-14.029208"
-     inkscape:cy="8.4504951"
+     inkscape:zoom="15.696216"
+     inkscape:cx="12.504951"
+     inkscape:cy="4.6212871"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -89,23 +89,13 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,5 11,4 16,1 V 0 H 9 L 8,1 7,4 Z"
-       id="path840"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 6,5 c 0,0 -4,5 -4,7 0,2 2,4 4,4 2,0 4,-2 4,-4 C 10,10 6,5 6,5 Z m 0,3 c 0,0 2,2 2,4 0,2 -2,2 -2,2 z"
-       id="path817"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssccscc" />
-    <path
-       sodipodi:nodetypes="cccccccc"
-       inkscape:connector-curvature="0"
-       id="path822"
-       d="M 8,5 12,4 16,1 V 0 H 9 L 8,1 7,4 Z"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g4769">
+      <path
+         inkscape:connector-curvature="0"
+         id="path817"
+         d="m 12,0 v 4 h -2 v 2 h 1 v 8 c 1,0 1,1 1,2 h 2 c 0,-1 0,-2 1,-2 V 6 h 1 V 4 H 14 V 0 Z M 4,5 c 0,0 -4,5 -4,7 0,2 2,4 4,4 2,0 4,-2 4,-4 C 8,10 4,5 4,5 Z m 0,3 c 0,0 2,2 2,4 0,2 -2,2 -2,2 z"
+         style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

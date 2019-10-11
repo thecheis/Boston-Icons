@@ -36,10 +36,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="8.4730197"
+     inkscape:cx="-6.7086636"
      inkscape:cy="8.0225248"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
@@ -91,7 +91,7 @@
      inkscape:groupmode="layer">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#252627;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 2,0 V 8 L 5,6 8,8 2,12 v 4 L 14,8 Z"
        id="path4142" />
   </g>

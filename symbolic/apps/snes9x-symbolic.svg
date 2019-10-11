@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="inkscape-symbolic.svg">
+   sodipodi:docname="snes9x-symbolic.svg">
   <title
-     id="title815">Boston Icons</title>
+     id="title4518">Boston Icons</title>
   <defs
      id="defs4161">
     <inkscape:perspective
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.696216"
-     inkscape:cx="-17.734765"
-     inkscape:cy="4.9862782"
+     inkscape:zoom="31.392433"
+     inkscape:cx="8.0371596"
+     inkscape:cy="5.7646981"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -63,7 +63,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Boston Icons</dc:title>
         <cc:license
-           rdf:resource="https://dribbble.com/chrisdiaz" />
+           rdf:resource="dribbble.com/chrisdiaz" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -76,12 +76,12 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,10 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#252627;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.94450116;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 7.9433597,0 7.1777347,0.97851562 1,8.7617188 7.9433597,16 15.001227,8.7617188 Z m 0,3.1542969 4.4934133,5.4863281 -4.4934133,4.53125 -4.3789066,-4.53125 z m 0,1.7734375 -2.7441406,3.4296875 H 6.3437503 L 6.572266,9.5 7.9433597,8.3105469 9.3164069,9.5 9.5449219,8.3574219 H 10.6875 Z"
-       id="path4150"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+       style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 8,1 A 2,2 0 0 0 6,3 2,2 0 0 0 8,5 2,2 0 0 0 10,3 2,2 0 0 0 8,1 Z M 3,6 A 2,2 0 0 0 1,8 2,2 0 0 0 3,10 2,2 0 0 0 5,8 2,2 0 0 0 3,6 Z m 10,0 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m -5,5 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+       id="path4953"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

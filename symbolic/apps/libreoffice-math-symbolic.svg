@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="libreoffice-smath-symbolic.svg">
+   sodipodi:docname="libreoffice-math-symbolic.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.696216"
-     inkscape:cx="2.1886138"
+     inkscape:cx="5.1192564"
      inkscape:cy="10.567822"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,7 +100,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 9.5,0 6,10.5 3.5,3 H 0 V 5 H 2 L 6,16 11,2 h 5 V 0 Z M 10,10 v 2 h 6 v -2 z m 0,4 v 2 h 6 v -2 z"
        id="path869"
        inkscape:connector-curvature="0" />
