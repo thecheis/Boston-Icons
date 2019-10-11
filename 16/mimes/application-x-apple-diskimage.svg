@@ -44,8 +44,8 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="11.56767"
+     inkscape:zoom="44.395604"
+     inkscape:cx="10.801828"
      inkscape:cy="7.7332799"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -109,7 +109,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g4793">
+       id="g4774">
       <path
          sodipodi:nodetypes="sssssssss"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
@@ -117,44 +117,21 @@
          id="rect851-3"
          inkscape:connector-curvature="0" />
       <path
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z M 3,1 H 13 V 14 H 3 Z M 4.5,2 A 0.5,0.5 0 0 0 4,2.5 0.5,0.5 0 0 0 4.5,3 0.5,0.5 0 0 0 5,2.5 0.5,0.5 0 0 0 4.5,2 Z m 7,0 A 0.5,0.5 0 0 0 11,2.5 0.5,0.5 0 0 0 11.5,3 0.5,0.5 0 0 0 12,2.5 0.5,0.5 0 0 0 11.5,2 Z m -7,10 A 0.5,0.5 0 0 0 4,12.5 0.5,0.5 0 0 0 4.5,13 0.5,0.5 0 0 0 5,12.5 0.5,0.5 0 0 0 4.5,12 Z m 7,0 A 0.5,0.5 0 0 0 11,12.5 0.5,0.5 0 0 0 11.5,13 0.5,0.5 0 0 0 12,12.5 0.5,0.5 0 0 0 11.5,12 Z"
+         inkscape:connector-curvature="0"
          id="rect851"
-         inkscape:connector-curvature="0" />
+         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z M 3,1 H 13 V 13 H 3 Z M 4.5,2 C 4.2238576,2 4,2.2238576 4,2.5 4,2.7761424 4.2238576,3 4.5,3 4.7761424,3 5,2.7761424 5,2.5 5,2.2238576 4.7761424,2 4.5,2 Z m 0,9 C 4.2238576,11 4,11.223858 4,11.5 4,11.776142 4.2238576,12 4.5,12 4.7761424,12 5,11.776142 5,11.5 5,11.223858 4.7761424,11 4.5,11 Z m 7,0 C 11.223858,11 11,11.223858 11,11.5 11,11.776142 11.223858,12 11.5,12 11.776142,12 12,11.776142 12,11.5 12,11.223858 11.776142,11 11.5,11 Z M 8,14 h 4 v 1 H 8 Z"
+         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
       <rect
-         y="4"
+         y="2"
          x="6"
          height="7"
          width="10"
          id="rect855"
          style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="5"
-         x="7"
-         height="1"
-         width="8"
+      <path
+         inkscape:connector-curvature="0"
          id="rect870"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="7"
-         x="7"
-         height="1"
-         width="3"
-         id="rect872"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="7"
-         x="12"
-         height="1"
-         width="3"
-         id="rect905"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="9"
-         x="7"
-         height="1"
-         width="4"
-         id="rect907"
+         d="m 7,3 v 1 h 8 V 3 Z m 0,2 v 1 h 3 V 5 Z m 5,0 v 1 h 3 V 5 Z M 7,7 v 1 h 4 V 7 Z"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>

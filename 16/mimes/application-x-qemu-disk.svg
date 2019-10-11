@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-x-trash.svg">
+   sodipodi:docname="application-x-qemu-disk.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -44,9 +44,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="44.395604"
-     inkscape:cx="7.9862352"
-     inkscape:cy="6.9223887"
+     inkscape:zoom="31.392433"
+     inkscape:cx="4.0311413"
+     inkscape:cy="7.7332799"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -109,18 +109,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g904">
+       id="g4801">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z"
+         id="rect851-3"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         id="rect853"
-         d="M 1,2 V 5 H 3 V 16 H 13 V 5 h 2 V 2 Z"
-         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect823"
-         d="M 6,0 V 1 2 H 1 v 1 2 h 1 v 0 11 h 1 10 1 V 5 h 1 V 4 3 2 H 10 V 1 0 Z M 7,1 H 9 V 2 H 7 Z M 2,3 H 14 V 4 H 2 Z M 3,5 H 13 V 15 H 3 Z m 1,1 v 8 H 5 V 6 Z m 3,0 v 8 H 9 V 6 Z m 4,0 v 8 h 1 V 6 Z"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+         id="rect851"
+         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z M 3,1 H 13 V 13 H 3 Z M 4.5,2 C 4.2238576,2 4,2.2238576 4,2.5 4,2.7761424 4.2238576,3 4.5,3 4.7761424,3 5,2.7761424 5,2.5 5,2.2238576 4.7761424,2 4.5,2 Z m 7,0 C 11.223858,2 11,2.2238576 11,2.5 11,2.7761424 11.223858,3 11.5,3 11.776142,3 12,2.7761424 12,2.5 12,2.2238576 11.776142,2 11.5,2 Z m -7,9 C 4.2238576,11 4,11.223858 4,11.5 4,11.776142 4.2238576,12 4.5,12 4.7761424,12 5,11.776142 5,11.5 5,11.223858 4.7761424,11 4.5,11 Z m 7,0 C 11.223858,11 11,11.223858 11,11.5 11,11.776142 11.223858,12 11.5,12 11.776142,12 12,11.776142 12,11.5 12,11.223858 11.776142,11 11.5,11 Z M 8,14 h 4 v 1 H 8 Z"
+         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>
