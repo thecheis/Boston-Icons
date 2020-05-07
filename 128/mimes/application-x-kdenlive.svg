@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="application-vnd.sqlite3.svg">
+   sodipodi:docname="text-x-xges.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -37,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="50.797156"
-     inkscape:cy="63.160651"
+     inkscape:zoom="7.919596"
+     inkscape:cx="53.920166"
+     inkscape:cy="60.839354"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -110,9 +110,29 @@
        id="guide3240"
        inkscape:locked="false" />
     <sodipodi:guide
+       position="21.695827,2.1166659"
+       orientation="0,1"
+       id="guide3246"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.404162,3.1749959"
+       orientation="0,1"
+       id="guide3248"
+       inkscape:locked="false" />
+    <sodipodi:guide
        position="29.63333,25.399991"
        orientation="0.70710678,0.70710678"
        id="guide850"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.987497,30.162491"
+       orientation="0,1"
+       id="guide843"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.162497,26.458325"
+       orientation="0,1"
+       id="guide845"
        inkscape:locked="false" />
     <sodipodi:guide
        position="8.9958299,20.637491"
@@ -181,7 +201,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -203,7 +223,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g4816">
+       id="g854">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
@@ -222,9 +242,10 @@
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         id="rect883-6"
-         d="m 93.6625,147.77501 v 3.175 h 11.64167 v -3.175 z m 0,4.23333 v 3.175 h 11.64167 v -3.175 z m 0,4.23334 v 3.175 h 11.64167 v -3.175 z"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         id="rect861"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+         d="m 36,42 c -1.107991,0 -2,0.891956 -2,2 v 48 2 H 94 V 92 44 c 0,-1.108044 -0.891994,-2 -2,-2 z m 6,2 h 8 l 4,6 -4,6 h -8 l 4,-6 z m 16,0 h 8 l 4,6 -4,6 h -8 l 4,-6 z m 16,0 h 8 l 4,6 -4,6 h -8 l 4,-6 z M 36,58 h 6 2 2 2 44 v 2 2 2 2 26 H 48 46 44 42 36 Z m 4,6 v 2 H 52 V 80 H 40 v 2 H 88 V 80 H 76 V 66 h 12 v -2 z m 14,2 H 74 V 80 H 54 Z m -12,2 v 2 h 6 v -2 z m 14,0 v 2 h 8 v -2 z m 22,0 v 2 h 6 v -2 z"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.00000143;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>
