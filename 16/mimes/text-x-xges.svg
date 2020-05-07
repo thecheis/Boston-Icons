@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    viewBox="0 0 16 16"
-   sodipodi:docname="model-stl.svg">
+   sodipodi:docname="text-x-xges.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -45,9 +45,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="3.7321771"
-     inkscape:cy="7.4124679"
-     inkscape:current-layer="layer1"
+     inkscape:cx="3.5410491"
+     inkscape:cy="6.8072265"
+     inkscape:current-layer="g932"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -67,9 +67,29 @@
        id="guide3096"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4,8"
+       position="12,8"
        orientation="0,1"
        id="guide3098"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,6"
+       orientation="-0.70710678,0.70710678"
+       id="guide867"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,1"
+       orientation="-0.70710678,0.70710678"
+       id="guide869"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20,0"
+       orientation="0.70710678,0.70710678"
+       id="guide871"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17,-1"
+       orientation="0.70710678,0.70710678"
+       id="guide875"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -108,29 +128,35 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1,4 v 8 l 7,4 7,-4 V 4 Z"
-       id="path4757"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
-    <path
-       style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 1,4 8,8 15,4 Z"
-       id="path4763-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 1,4 8,8 15,4 Z M 8,1 13,4 8,6.8 3,4 Z"
-       id="path4763"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
-    <path
-       style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1,4 v 8 l 7,4 7,-4 V 4 h -1 v 7.5 L 8.5,8.25 V 7 H 8 7.5 V 8.25 L 2,11.5 V 4 Z m 6.5,5.35 v 5.2 L 3,12 Z m 1,0 L 13,12 8.5,14.55 Z"
-       id="path4763-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    <g
+       id="g887">
+      <g
+         id="g932">
+        <g
+           id="g894">
+          <g
+             id="g860">
+            <rect
+               ry="1.92356e-05"
+               y="-0.013706106"
+               x="-0.08306355"
+               height="16.013706"
+               width="16.083063"
+               id="rect835"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+            <path
+               style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+               d="M 0,0 V 16 H 16 V 0 Z M 1,1 H 5 L 7,3 5,5 H 1 L 3,3 Z m 8,0 h 4 l 2,2 -2,2 H 9 L 11,3 Z M 1,6 h 14 v 9 H 1 Z"
+               id="rect853"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="rect881"
+             d="m 3,8 v 1 h 2 v 3 H 3 v 1 H 13 V 12 H 11 V 9 h 2 V 8 Z m 3,1 h 4 v 3 H 6 Z"
+             style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

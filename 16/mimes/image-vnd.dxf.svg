@@ -13,7 +13,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    viewBox="0 0 16 16"
    sodipodi:docname="model-stl.svg">
   <title
@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="-1.0141892"
-     inkscape:cy="5.4374697"
+     inkscape:cx="3.7321771"
+     inkscape:cy="7.4124679"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -88,8 +88,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -110,24 +110,25 @@
      inkscape:groupmode="layer">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,4 v 8 l 8,4 8,-4 V 4 Z"
+       d="m 1,4 v 8 l 7,4 7,-4 V 4 Z"
        id="path4757"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 0,4 8,8 16,4 Z"
+       d="M 8,0 1,4 8,8 15,4 Z"
        id="path4763-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 0,4 8,8 16,4 Z M 8,1 14,4 8,7 2,4 Z"
+       d="M 8,0 1,4 8,8 15,4 Z M 8,1 13,4 8,6.8 3,4 Z"
        id="path4763"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,4 v 8 l 8,4 8,-4 V 4 h -1 v 7.5 L 8.5,8.25 V 7 H 8 7.5 V 8.25 L 1,11.5 V 4 Z m 7.5,5.25 v 5.5 L 2,12 Z m 1,0 L 14,12 8.5,14.75 Z"
+       d="m 1,4 v 8 l 7,4 7,-4 V 4 h -1 v 7.5 L 8.5,8.25 V 7 H 8 7.5 V 8.25 L 2,11.5 V 4 Z m 6.5,5.35 v 5.2 L 3,12 Z m 1,0 L 13,12 8.5,14.55 Z"
        id="path4763-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccc" />

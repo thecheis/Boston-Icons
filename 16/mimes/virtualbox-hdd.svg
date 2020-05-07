@@ -13,9 +13,9 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="model-stl.svg">
+   sodipodi:docname="application-x-qemu-disk.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -45,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="3.7321771"
-     inkscape:cy="7.4124679"
+     inkscape:cx="4.0311413"
+     inkscape:cy="7.7332799"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -67,7 +67,7 @@
        id="guide3096"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4,8"
+       position="12,8"
        orientation="0,1"
        id="guide3098"
        inkscape:locked="false" />
@@ -88,8 +88,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
-        <dc:date>2020</dc:date>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -108,29 +108,19 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1,4 v 8 l 7,4 7,-4 V 4 Z"
-       id="path4757"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
-    <path
-       style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 1,4 8,8 15,4 Z"
-       id="path4763-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 1,4 8,8 15,4 Z M 8,1 13,4 8,6.8 3,4 Z"
-       id="path4763"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
-    <path
-       style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1,4 v 8 l 7,4 7,-4 V 4 h -1 v 7.5 L 8.5,8.25 V 7 H 8 7.5 V 8.25 L 2,11.5 V 4 Z m 6.5,5.35 v 5.2 L 3,12 Z m 1,0 L 13,12 8.5,14.55 Z"
-       id="path4763-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    <g
+       id="g4801">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z"
+         id="rect851-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect851"
+         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z M 3,1 H 13 V 13 H 3 Z M 4.5,2 C 4.2238576,2 4,2.2238576 4,2.5 4,2.7761424 4.2238576,3 4.5,3 4.7761424,3 5,2.7761424 5,2.5 5,2.2238576 4.7761424,2 4.5,2 Z m 7,0 C 11.223858,2 11,2.2238576 11,2.5 11,2.7761424 11.223858,3 11.5,3 11.776142,3 12,2.7761424 12,2.5 12,2.2238576 11.776142,2 11.5,2 Z m -7,9 C 4.2238576,11 4,11.223858 4,11.5 4,11.776142 4.2238576,12 4.5,12 4.7761424,12 5,11.776142 5,11.5 5,11.223858 4.7761424,11 4.5,11 Z m 7,0 C 11.223858,11 11,11.223858 11,11.5 11,11.776142 11.223858,12 11.5,12 11.776142,12 12,11.776142 12,11.5 12,11.223858 11.776142,11 11.5,11 Z M 8,14 h 4 v 1 H 8 Z"
+         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
