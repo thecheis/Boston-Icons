@@ -15,11 +15,21 @@
    version="1.1"
    id="svg2634"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="text-x-script.svg">
+   sodipodi:docname="text-x-xges.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
-     id="defs2628" />
+     id="defs2628">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5603">
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
+         id="path5605"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="48.654447"
-     inkscape:cy="66.755481"
+     inkscape:zoom="7.919596"
+     inkscape:cx="53.920166"
+     inkscape:cy="60.839354"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -164,6 +174,16 @@
        orientation="0,1"
        id="guide888"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,15.874991"
+       orientation="0,1"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,15.874991"
+       orientation="1,0"
+       id="guide848"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2631">
@@ -181,7 +201,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -193,7 +213,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -203,7 +223,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g880">
+       id="g854">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
@@ -220,24 +240,12 @@
          d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z m 0.52916,0.79375 5.55625,5.55625 H 104.775 Z"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
-      <rect
-         y="158.88751"
-         x="101.07083"
-         height="1.0583404"
-         width="5.2916622"
-         id="rect901"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         transform="matrix(1.0974588,0,0,1.0974588,26.71587,-17.065183)"
-         id="text853"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.70000076px;line-height:1.25;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Light';letter-spacing:0px;word-spacing:0px;fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         aria-label="$">
-        <path
-           inkscape:connector-curvature="0"
-           id="path855"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Light';fill:#96a5af;stroke-width:0.26458335"
-           d="m 60.17366,158.99303 c 0,0 0.8763,0.9906 2.4892,1.1176 v 1.1811 h 0.7112 v -1.1811 c 1.4605,-0.1397 2.3368,-1.1557 2.3368,-2.3876 0,-2.8829 -4.4831,-2.4003 -4.4831,-4.445 0,-0.7874 0.7239,-1.5367 1.8796,-1.5367 1.1557,0 1.9558,0.762 1.9558,0.762 l 0.4318,-0.7366 c 0,0 -0.7493,-0.7747 -2.1209,-0.8509 v -1.1811 h -0.7112 v 1.2065 c -1.4097,0.1778 -2.3368,1.1938 -2.3368,2.3622 0,2.7178 4.4958,2.2733 4.4958,4.445 0,0.9652 -0.8001,1.5494 -1.778,1.5494 -1.4097,0 -2.3368,-0.9779 -2.3368,-0.9779 z" />
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect861"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+         d="m 36,42 c -1.107991,0 -2,0.891956 -2,2 v 48 2 H 94 V 92 44 c 0,-1.108044 -0.891994,-2 -2,-2 z m 6,2 h 8 l 4,6 -4,6 h -8 l 4,-6 z m 16,0 h 8 l 4,6 -4,6 h -8 l 4,-6 z m 16,0 h 8 l 4,6 -4,6 h -8 l 4,-6 z M 36,58 h 6 2 2 2 44 v 2 2 2 2 26 H 48 46 44 42 36 Z m 4,6 v 2 H 52 V 80 H 40 v 2 H 88 V 80 H 76 V 66 h 12 v -2 z m 14,2 H 74 V 80 H 54 Z m -12,2 v 2 h 6 v -2 z m 14,0 v 2 h 8 v -2 z m 22,0 v 2 h 6 v -2 z"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.00000143;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>

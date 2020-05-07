@@ -14,12 +14,22 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="text-x-script.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="application-x-qemu-disk.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
-     id="defs2628" />
+     id="defs2628">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5603">
+      <path
+         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
+         id="path5605"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="48.654447"
-     inkscape:cy="66.755481"
+     inkscape:zoom="3.959798"
+     inkscape:cx="59.713851"
+     inkscape:cy="60.702449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -160,9 +170,19 @@
        id="guide886"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="16.404163,8.9958242"
+       position="22.224997,8.9958242"
        orientation="0,1"
        id="guide888"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,15.874991"
+       orientation="0,1"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,15.874991"
+       orientation="1,0"
+       id="guide848"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -203,7 +223,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g880">
+       id="g4794">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
@@ -220,24 +240,12 @@
          d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z m 0.52916,0.79375 5.55625,5.55625 H 104.775 Z"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
-      <rect
-         y="158.88751"
-         x="101.07083"
-         height="1.0583404"
-         width="5.2916622"
-         id="rect901"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         transform="matrix(1.0974588,0,0,1.0974588,26.71587,-17.065183)"
-         id="text853"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.70000076px;line-height:1.25;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Light';letter-spacing:0px;word-spacing:0px;fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         aria-label="$">
-        <path
-           inkscape:connector-curvature="0"
-           id="path855"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Light';fill:#96a5af;stroke-width:0.26458335"
-           d="m 60.17366,158.99303 c 0,0 0.8763,0.9906 2.4892,1.1176 v 1.1811 h 0.7112 v -1.1811 c 1.4605,-0.1397 2.3368,-1.1557 2.3368,-2.3876 0,-2.8829 -4.4831,-2.4003 -4.4831,-4.445 0,-0.7874 0.7239,-1.5367 1.8796,-1.5367 1.1557,0 1.9558,0.762 1.9558,0.762 l 0.4318,-0.7366 c 0,0 -0.7493,-0.7747 -2.1209,-0.8509 v -1.1811 h -0.7112 v 1.2065 c -1.4097,0.1778 -2.3368,1.1938 -2.3368,2.3622 0,2.7178 4.4958,2.2733 4.4958,4.445 0,0.9652 -0.8001,1.5494 -1.778,1.5494 -1.4097,0 -2.3368,-0.9779 -2.3368,-0.9779 z" />
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4781"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+         d="m 46,42 c -1.108005,0 -2,0.891989 -2,2 v 40 2 6 c 0,1.108011 0.891995,2 2,2 h 36 c 1.108005,0 2,-0.891989 2,-2 V 86 84 44 c 0,-1.108011 -0.891995,-2 -2,-2 z m 0,2 H 82 V 84 H 46 Z m 3,2 a 1.0000001,1.0000001 0 0 0 -1,1 1.0000001,1.0000001 0 0 0 1,1 1.0000001,1.0000001 0 0 0 1,-1 1.0000001,1.0000001 0 0 0 -1,-1 z m 30,0 a 1.0000001,1.0000001 0 0 0 -1,1 1.0000001,1.0000001 0 0 0 1,1 1.0000001,1.0000001 0 0 0 1,-1 1.0000001,1.0000001 0 0 0 -1,-1 z M 58.410156,57.560547 c -3.73333,0 -6.365234,2.724782 -6.365234,6.439453 0,3.714671 2.631904,6.439453 6.365234,6.439453 3.714667,0 6.365235,-2.724782 6.365235,-6.439453 0,-3.714671 -2.650568,-6.439453 -6.365235,-6.439453 z m 12.59961,0 c -2.743975,0 -4.53711,1.586228 -4.53711,3.658203 0,4.573342 7.244141,2.949183 7.244141,5.5625 0,0.84 -0.692388,1.716797 -2.484375,1.716797 -1.736013,0 -3.0975,-0.819692 -3.9375,-1.734375 L 66.0625,68.460938 c 1.119987,1.157329 2.7821,1.978515 5.078125,1.978515 3.341329,0 4.814453,-1.791306 4.814453,-3.863281 0,-4.629354 -7.242187,-3.192024 -7.242187,-5.525391 0,-0.914645 0.822442,-1.548828 2.091797,-1.548828 1.306658,0 2.631764,0.448171 3.621093,1.4375 l 1.232422,-1.625 c -1.138658,-1.120025 -2.725754,-1.753906 -4.648437,-1.753906 z m -12.59961,1.941406 c 2.501337,0 4.125,1.922034 4.125,4.498047 0,2.557342 -1.623663,4.498047 -4.125,4.498047 -2.52,0 -4.126953,-1.940705 -4.126953,-4.498047 0,-2.576013 1.606953,-4.498047 4.126953,-4.498047 z M 49,80 a 1.0000001,1.0000001 0 0 0 -1,1 1.0000001,1.0000001 0 0 0 1,1 1.0000001,1.0000001 0 0 0 1,-1 1.0000001,1.0000001 0 0 0 -1,-1 z m 30,0 a 1.0000001,1.0000001 0 0 0 -1,1 1.0000001,1.0000001 0 0 0 1,1 1.0000001,1.0000001 0 0 0 1,-1 1.0000001,1.0000001 0 0 0 -1,-1 z m -33,6 h 36 v 6 H 80 V 88 H 68 v 4 h -4 v -4 h -4 v 4 H 46 Z"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:7.99999963, 7.99999963;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>

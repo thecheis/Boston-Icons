@@ -14,7 +14,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="model-stl.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -37,9 +37,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="57.295005"
-     inkscape:cy="56.674972"
+     inkscape:zoom="3.959798"
+     inkscape:cx="8.3389523"
+     inkscape:cy="59.889258"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -181,7 +181,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -193,7 +193,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -224,19 +224,19 @@
          sodipodi:nodetypes="ccccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path4781"
-         d="m 92.604166,150.95001 4e-6,6.34999 6.879167,4.23333 L 106.3625,157.3 v -6.34999 h -0.52916 v 6.02443 l -6.350003,-3.90778 -6.35,3.90778 -4e-6,-6.02443 z m 6.879171,2.77811 5.714893,3.57188 -5.45031,3.40651 v -6.05235 h -0.529167 v 6.05235 L 93.76844,157.3 Z"
+         d="m 92.604166,150.42084 v 7.40834 l 6.879167,4.23333 6.879167,-4.23333 v -7.40834 h -0.52916 v 7.08278 l -6.350007,-3.90778 -6.35,3.90778 v -7.08278 z m 6.879167,3.83646 5.714897,3.57188 -5.450314,3.40651 4e-6,-7.1107 h -0.529167 l -4e-6,7.1107 -5.450313,-3.40651 z"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4781-6-5"
-         d="m 99.483333,146.71665 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z"
+         d="m 99.483333,146.18748 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z"
          style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccccccc"
          inkscape:connector-curvature="0"
          id="path4781-6"
-         d="m 99.483333,146.71663 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z m 0,0.66146 5.714997,3.57188 -5.715001,3.57188 -5.714997,-3.57188 z"
+         d="m 99.483333,146.18746 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z m 0,0.66146 5.714997,3.57188 -5.715001,3.57188 -5.714997,-3.57188 z"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
