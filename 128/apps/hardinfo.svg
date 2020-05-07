@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0186071"
-     inkscape:cx="47.627041"
-     inkscape:cy="68.507792"
+     inkscape:zoom="8.0372142"
+     inkscape:cx="58.723731"
+     inkscape:cy="89.566685"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -203,7 +203,7 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g5091">
+       id="g1115">
       <rect
          ry="0"
          y="141.425"
@@ -710,45 +710,11 @@
            id="tspan1043"
            sodipodi:role="line" /></text>
       <path
-         id="rect3339-7"
-         d="m 91.545833,145.08166 v 2.33218 0.33317 h 8.995567 v -0.33317 -1.99901 -0.33317 h -8.662398 z m 0.333169,0.33317 h 8.329228 v 1.99901 h -8.329228 z"
-         style="opacity:0.4;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.41646156;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <g
-         id="text8415-3-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.34208941px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.51024097px;word-spacing:0px;opacity:0.4;fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.0139801"
-         aria-label="BOSTON">
-        <path
-           inkscape:connector-curvature="0"
-           id="path4840"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.38268071px;fill:#96a5af;stroke-width:0.0139801"
-           d="m 92.932187,146.86125 c 0.171788,0 0.260365,-0.10737 0.260365,-0.24292 0,-0.11139 -0.07516,-0.20399 -0.171787,-0.21876 0.08455,-0.0174 0.15434,-0.0939 0.15434,-0.20534 0,-0.11944 -0.08724,-0.22815 -0.257681,-0.22815 h -0.471073 v 0.89517 z m -0.05637,-0.53952 h -0.238892 v -0.18789 h 0.238892 c 0.06442,0 0.104683,0.0389 0.104683,0.094 0,0.0577 -0.04026,0.0939 -0.104683,0.0939 z m 0.0081,0.37176 h -0.246945 v -0.204 h 0.246945 c 0.07382,0 0.114077,0.0456 0.114077,0.102 0,0.0644 -0.04295,0.102 -0.114077,0.102 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4842"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.38268071px;fill:#96a5af;stroke-width:0.0139801"
-           d="m 94.144279,146.87736 c 0.26976,0 0.467047,-0.19326 0.467047,-0.46302 0,-0.26976 -0.197287,-0.46302 -0.467047,-0.46302 -0.271102,0 -0.468389,0.19326 -0.468389,0.46302 0,0.26976 0.197287,0.46302 0.468389,0.46302 z m 0,-0.16911 c -0.166419,0 -0.272444,-0.12749 -0.272444,-0.29391 0,-0.16777 0.106025,-0.29392 0.272444,-0.29392 0.165077,0 0.271102,0.12615 0.271102,0.29392 0,0.16642 -0.106025,0.29391 -0.271102,0.29391 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4844"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.38268071px;fill:#96a5af;stroke-width:0.0139801"
-           d="m 95.447633,146.87736 c 0.240234,0 0.358337,-0.12348 0.358337,-0.28721 0,-0.33418 -0.51402,-0.23889 -0.51402,-0.37981 0,-0.0537 0.04563,-0.0886 0.126157,-0.0886 0.09126,0 0.187892,0.0309 0.260365,0.098 l 0.106025,-0.14226 c -0.08858,-0.0819 -0.206682,-0.12481 -0.348943,-0.12481 -0.210708,0 -0.339549,0.12347 -0.339549,0.27244 0,0.33687 0.515362,0.22816 0.515362,0.38384 0,0.0523 -0.04966,0.0993 -0.155682,0.0993 -0.123472,0 -0.221445,-0.0564 -0.284523,-0.12213 l -0.104683,0.14898 c 0.08455,0.0846 0.208024,0.14226 0.381154,0.14226 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4846"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.38268071px;fill:#96a5af;stroke-width:0.0139801"
-           d="m 96.697303,146.86125 v -0.72741 h 0.260365 v -0.16776 h -0.713991 v 0.16776 h 0.261707 v 0.72741 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4848"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.38268071px;fill:#96a5af;stroke-width:0.0139801"
-           d="m 97.855712,146.87736 c 0.26976,0 0.467047,-0.19326 0.467047,-0.46302 0,-0.26976 -0.197287,-0.46302 -0.467047,-0.46302 -0.271102,0 -0.468389,0.19326 -0.468389,0.46302 0,0.26976 0.197287,0.46302 0.468389,0.46302 z m 0,-0.16911 c -0.166419,0 -0.272444,-0.12749 -0.272444,-0.29391 0,-0.16777 0.106025,-0.29392 0.272444,-0.29392 0.165077,0 0.271102,0.12615 0.271102,0.29392 0,0.16642 -0.106025,0.29391 -0.271102,0.29391 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4850"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0.38268071px;fill:#96a5af;stroke-width:0.0139801"
-           d="m 99.640875,146.86125 v -0.89517 h -0.190576 v 0.56233 l -0.414706,-0.56233 h -0.195945 v 0.89517 h 0.190577 v -0.58381 l 0.426784,0.58381 z" />
-      </g>
+         inkscape:connector-curvature="0"
+         id="rect991"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+         d="m 34,34 v 10 h 2 4 v -2 -2 h -2 v 2 h -2 v -2 h 2 v -2 h -2 v -2 h 2 v 2 h 2 v -2 -2 h -4 z m 8,0 v 10 h 6 V 34 Z m 8,0 v 4 h 2 v -2 h 4 v -2 h -4 z m 2,4 v 2 h 2 v -2 z m 2,2 v 2 h -4 v 2 h 4 2 v -4 z m 4,-6 v 2 h 2 v 8 h 2 v -8 h 2 v -2 z m 8,0 v 10 h 6 V 34 Z m 8,0 v 10 h 2 v -6 h 2 v 6 h 2 V 34 h -2 v 2 h -2 v -2 z m -30,2 h 2 v 6 h -2 z m 24,0 h 2 v 6 h -2 z"
+         style="opacity:0.4;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
