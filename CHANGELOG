@@ -1,3 +1,53 @@
+ 07 May 2020 // v 0.7
+ --------------------
+
+ # Corrections, improvements and additions focused on production.
+
+ 1. Tested on GNOME 3.36.1
+ 2. Updated data and documentation
+ 3. App icons
+	Revised Hardinfo
+	New compatibility with PDF Arranger
+	lstopo (hwloc) prepared compatibility
+	48px & 16px: 
+		Checkers (FUILD - fltk game example)
+		Sudoku (FUILD - fltk game example)
+		Block Attack! (FUILD - fltk game example)
+		DOSBox
+		GRUB Customizer
+		PDF Arranger / PDF Shuffler
+		CUPS
+		Hardinfo
+		Xsensors
+		Snes9x
+		System-software-install
+		FLUID
+ 4. Symbolic icons
+	New Firefox
+	New compatibility with Inkscape
+	Pidgin
+ 5. Filetype icons:
+	Revised Model STL
+	Gcode (3D printers)
+	Pitivi/GES video project
+	Kdenlive project
+	iptables rules files
+	Audacity projects
+	Authors
+	Man pages
+	Shell script
+	Executable script
+	Inode directory
+	Audio playlists (m3u, pls)
+	Extended support for Virualbox files
+ 6. Legacy icons
+	All user places
+ 7. 16px folder saved search
+ 8. Places
+	Folder open
+
+ =====================================================================
+
  11 Oct 2019 // v 0.6
  --------------------
 

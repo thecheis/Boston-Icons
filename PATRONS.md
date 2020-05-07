@@ -4,8 +4,10 @@
  - Adolfo Silerio
  - Gustavo Costa
  - vince liuice
- - José Rodrí­guez 
- - Fran J. Clemente
+ - José Rodrí­guez ★
+ - Fran J. Clemente ★
+ - Danail Irinchev ★
+ - Fabián Alexis
 
 
 ---
