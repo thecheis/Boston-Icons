@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg2634"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="cups.svg">
+  <title
+     id="title3250">Boston Icons</title>
+  <defs
+     id="defs2628">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1007"
+       id="linearGradient1009"
+       x1="99.48333"
+       y1="153.06667"
+       x2="99.48333"
+       y2="136.13335"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1007">
+      <stop
+         style="stop-color:#b9d9f7;stop-opacity:1"
+         offset="0"
+         id="stop1003" />
+      <stop
+         style="stop-color:#7fb9ec;stop-opacity:1"
+         offset="1"
+         id="stop1005" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00ffed"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="7.2224855"
+     inkscape:cy="22.773013"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3182"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empspacing="4"
+       originx="-82.550004"
+       originy="-127.00001"
+       dotted="false" />
+    <sodipodi:guide
+       position="-4.268358e-06,27.516666"
+       orientation="1,0"
+       id="guide3216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.279157,-4.1479283e-06"
+       orientation="0,1"
+       id="guide3222"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.229163,0.52915746"
+       orientation="0,1"
+       id="guide3226"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.52916318,6.8791574"
+       orientation="1,0"
+       id="guide3228"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583298,6.8791574"
+       orientation="1,0"
+       id="guide3234"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.5874965,6.8791574"
+       orientation="1,0"
+       id="guide3236"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.3499965,7.9374908"
+       orientation="1,0"
+       id="guide3238"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.75833,1.0583241"
+       orientation="0,1"
+       id="guide3246"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5.8208298,12.170824"
+       orientation="0,1"
+       id="guide864"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.8791632,11.641657"
+       orientation="0,1"
+       id="guide866"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.17083,8.4666574"
+       orientation="1,0"
+       id="guide868"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.641663,8.4666574"
+       orientation="1,0"
+       id="guide870"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.112496,8.4666574"
+       orientation="1,0"
+       id="guide872"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.79374495,11.112488"
+       orientation="0,1"
+       inkscape:locked="false"
+       id="guide863" />
+    <sodipodi:guide
+       position="2.1166616,9.5249883"
+       orientation="0,1"
+       id="guide869"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2631">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.550003,-157.3)">
+    <g
+       id="g963">
+      <rect
+         ry="5.0894191e-06"
+         y="160.47501"
+         x="83.60833"
+         height="8.4666662"
+         width="10.583333"
+         id="rect889"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect910"
+         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
+         d="m 7,13 v 3 H 5 V 43 H 43 V 16 H 19 v -3 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+      <rect
+         ry="5.0894191e-06"
+         y="160.73959"
+         x="87.57708"
+         height="0.7937516"
+         width="3.1749971"
+         id="rect858-3"
+         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="5.0894191e-06"
+         y="161.79793"
+         x="85.989578"
+         height="0.79374641"
+         width="5.8208284"
+         id="rect875"
+         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         aria-label="CUPS"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text879">
+        <path
+           d="m 86.400928,166.07888 c 0.378178,0 0.612422,-0.20038 0.756355,-0.42616 l -0.282222,-0.14111 c -0.09031,0.15523 -0.273755,0.27376 -0.474133,0.27376 -0.372534,0 -0.649111,-0.28787 -0.649111,-0.68016 0,-0.39793 0.276577,-0.68015 0.649111,-0.68015 0.200378,0 0.383822,0.11571 0.474133,0.27375 l 0.2794,-0.14675 c -0.138289,-0.22578 -0.375355,-0.42051 -0.753533,-0.42051 -0.555978,0 -0.987778,0.39229 -0.987778,0.97366 0,0.57856 0.4318,0.97367 0.987778,0.97367 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';fill:#2d8cff;stroke-width:0.26458332"
+           id="path843"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 88.23537,166.07888 c 0.547511,0 0.815622,-0.31327 0.815622,-0.77893 v -1.13736 h -0.335844 v 1.12889 c 0,0.29916 -0.166511,0.49389 -0.479778,0.49389 -0.313267,0 -0.479778,-0.19473 -0.479778,-0.49389 v -1.12889 h -0.335844 v 1.13736 c 0,0.46566 0.270933,0.77893 0.815622,0.77893 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';fill:#2d8cff;stroke-width:0.26458332"
+           id="path845"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 89.781946,166.04501 v -0.70555 h 0.499533 c 0.392289,0 0.612422,-0.26811 0.612422,-0.58702 0,-0.32174 -0.217311,-0.58985 -0.612422,-0.58985 h -0.829733 v 1.88242 z m 0.454378,-0.99624 h -0.454378 v -0.59549 h 0.454378 c 0.186266,0 0.318911,0.11853 0.318911,0.29916 0,0.1778 -0.132645,0.29633 -0.318911,0.29633 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';fill:#2d8cff;stroke-width:0.26458332"
+           id="path847"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 91.816766,166.07888 c 0.505178,0 0.728133,-0.27093 0.728133,-0.5842 0,-0.69991 -1.095022,-0.4826 -1.095022,-0.83538 0,-0.13829 0.124178,-0.23424 0.316089,-0.23424 0.197556,0 0.397933,0.0677 0.547511,0.21731 l 0.186267,-0.24553 c -0.172156,-0.16934 -0.412045,-0.26529 -0.702733,-0.26529 -0.414867,0 -0.6858,0.23989 -0.6858,0.55315 0,0.69145 1.095022,0.44591 1.095022,0.84102 0,0.127 -0.104422,0.25965 -0.375356,0.25965 -0.262466,0 -0.468489,-0.12418 -0.595489,-0.26247 l -0.186266,0.25682 c 0.169333,0.17498 0.420511,0.29916 0.767644,0.29916 z"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';fill:#2d8cff;stroke-width:0.26458332"
+           id="path849"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
