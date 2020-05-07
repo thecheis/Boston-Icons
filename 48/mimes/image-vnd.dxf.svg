@@ -14,7 +14,7 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="model-stl.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -28,10 +28,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="19.164249"
-     inkscape:cy="27.177921"
+     inkscape:cx="12.735678"
+     inkscape:cy="18.829707"
      inkscape:document-units="px"
-     inkscape:current-layer="g4879"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -151,7 +151,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -163,7 +163,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -173,9 +173,9 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g4879">
+       id="g851">
       <g
-         id="g4796">
+         id="g4879">
         <path
            style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
@@ -194,9 +194,8 @@
            id="rect1133" />
         <path
            sodipodi:nodetypes="ccccccccccccccccccc"
-           style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38100001;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-           d="M 13.999981,20.000044 14,30 l 10,6 10,-6 -1.9e-5,-9.999956 h -1 L 33,29.400391 24,24 l -9,5.400391 -1.9e-5,-9.400347 z M 24,25.199219 32,30 24.5,34.5 V 25 h -1 v 9.5 L 16,30 Z"
-           transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
+           style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10080625;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="m 86.254165,162.59168 2e-6,2.91041 2.645833,1.5875 2.645833,-1.5875 -2e-6,-2.91041 h -0.264583 l 2e-6,2.75176 -2.38125,-1.42885 -2.38125,1.42885 -2e-6,-2.75176 z m 2.645835,1.6402 2.116667,1.27021 -1.984375,1.19062 v -2.51354 h -0.264584 v 2.51354 l -1.984375,-1.19062 z"
            id="rect4816"
            inkscape:connector-curvature="0" />
         <path
