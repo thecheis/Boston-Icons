@@ -14,8 +14,8 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="application-pdf.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="text-x-script.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="-0.94405167"
-     inkscape:cy="22.598901"
+     inkscape:cx="24.919255"
+     inkscape:cy="21.841287"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -203,44 +203,41 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g873">
+       id="g862">
       <path
          inkscape:connector-curvature="0"
          id="path1125"
          d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
-         style="fill:#af282e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
          id="path1127"
          d="m 84.931248,158.09376 h 5.688547 l 2.248958,2.24895 -5e-6,8.86355 h -7.9375 z"
-         style="fill:#d43838;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          id="rect1133"
-         d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 l -2.381255,-2.38124 5e-6,-1e-5 z"
-         style="opacity:1;fill:#af282e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccc" />
+         d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="5.0894191e-06"
+         y="166.03127"
+         x="89.693748"
+         height="0.26457575"
+         width="1.5874945"
+         id="rect852"
+         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
       <g
-         transform="matrix(0.4785079,0,0,0.4785079,58.790666,89.972677)"
-         id="text853"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         aria-label="PDF">
+         transform="matrix(1.1402159,0,0,1.1402159,-1.8691663,-22.308392)"
+         id="text845"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;line-height:1.25;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Light';letter-spacing:0px;word-spacing:0px;fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="$">
         <path
            inkscape:connector-curvature="0"
-           id="path856"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke-width:0.26458335"
-           d="m 57.426716,157.17107 v -1.86973 h 1.305278 c 0.938388,0 1.474611,-0.64911 1.474611,-1.41816 0,-0.76906 -0.529167,-1.41817 -1.474611,-1.41817 h -1.890889 v 4.70606 z m 1.234722,-2.39184 h -1.234722 v -1.79211 h 1.234722 c 0.557389,0 0.938389,0.36689 0.938389,0.89606 0,0.52916 -0.381,0.89605 -0.938389,0.89605 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path858"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke-width:0.26458335"
-           d="m 62.597666,157.17107 c 1.467556,0 2.413,-1.00895 2.413,-2.3495 0,-1.3335 -0.945444,-2.35656 -2.413,-2.35656 H 60.989 v 4.70606 z m 0,-0.52211 h -1.023055 v -3.66184 h 1.023055 c 1.164167,0 1.806222,0.81845 1.806222,1.83445 0,1.00894 -0.663222,1.82739 -1.806222,1.82739 z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path860"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';fill:#ffffff;stroke-width:0.26458335"
-           d="m 66.507988,157.17107 v -2.14489 h 2.448278 v -0.52211 h -2.448278 v -1.51695 h 2.497667 v -0.52211 h -3.083278 v 4.70606 z" />
+           id="path853"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Light';fill:#96a5af;fill-opacity:1;stroke-width:0.26458332"
+           d="m 77.567892,164.58087 c 0,0 0.316442,0.35771 0.898878,0.40357 v 0.42651 h 0.256822 v -0.42651 c 0.527403,-0.0504 0.843845,-0.41733 0.843845,-0.86218 0,-1.04105 -1.618898,-0.86678 -1.618898,-1.60514 0,-0.28434 0.261409,-0.55492 0.678745,-0.55492 0.417336,0 0.706261,0.27516 0.706261,0.27516 l 0.155928,-0.26599 c 0,0 -0.270581,-0.27975 -0.765881,-0.30727 v -0.42651 H 78.46677 v 0.43568 c -0.509058,0.0642 -0.843845,0.4311 -0.843845,0.85302 0,0.98143 1.623484,0.82091 1.623484,1.60514 0,0.34854 -0.288925,0.5595 -0.642056,0.5595 -0.509058,0 -0.843844,-0.35313 -0.843844,-0.35313 z" />
       </g>
     </g>
   </g>
