@@ -13,6 +13,8 @@ It is intended to be used with GNOME Shell 3.32 or higher and adapt well with it
 
 For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
+[Download the backgrounds](https://www.pling.com/p/1381664/).
+
 ## Support it
 
 **Do you like my work and do you want support it? [Become a patron](https://github.com/heychrisd/Boston-Icons/wiki/Sponsorship). Every little contribution is really appreciated.**  :heart:
@@ -21,12 +23,10 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
 </p>
 
-<p align="center">
-  <b>Bitcoin:</b> 1teQo5ScukQkVxa8jvGoCWudxqK2JBJTU
-</p>
-<p align="center">
-  <b>Ethereum:</b> 0x926A462F08b0e106fe834eC87049fa788093225D
-</p>
+Bitcoin                    |  Ethereum
+:-------------------------:|:-------------------------:
+![](https://i.ibb.co/gvW9msn/Bitcoin-direction.png)  |  ![](https://i.ibb.co/Q8F2djf/Ethereum-direction.png)
+1teQo5ScukQkVxa8jvGoCWudxqK2JBJTU | 0x926A462F08b0e106fe834eC87049fa788093225D
  
 **Thanks!**
 
