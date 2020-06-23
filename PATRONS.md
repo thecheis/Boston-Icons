@@ -1,14 +1,15 @@
 ## Special thanks to this patrons and supporters:
 
+ - José Rodrí­guez ★
+ - Fran J. Clemente ★
+ - Danail Irinchev ★
+ - Nick Bonczyk ★
+
  - Dmitry Zamyslov
  - Adolfo Silerio
  - Gustavo Costa
  - vince liuice
- - José Rodrí­guez ★
- - Fran J. Clemente ★
- - Danail Irinchev ★
  - Fabián Alexis
- - Nick Bonczyk ★
 
 
 ---
