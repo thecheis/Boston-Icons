@@ -17,7 +17,7 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 ## Support it
 
-**Do you like my work and do you want support it? [Become a patron](https://github.com/heychrisd/Boston-Icons/wiki/Sponsorship).** 
+**Do you like my work and do you want to support it? [Become a patron](https://github.com/heychrisd/Boston-Icons/wiki/Sponsorship).** 
 
 <p align="center">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
