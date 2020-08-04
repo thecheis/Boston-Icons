@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="text-x-qml.svg"
+   sodipodi:docname="text-x-tex.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg2634"
    version="1.1"
@@ -35,8 +35,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="19.628883"
-     inkscape:cx="10.250606"
+     inkscape:cy="22.699816"
+     inkscape:cx="30.614252"
      inkscape:zoom="15.839192"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -70,21 +70,6 @@
        position="13.229163,0.52915746" />
     <sodipodi:guide
        inkscape:locked="false"
-       id="guide3228"
-       orientation="1,0"
-       position="0.52916318,6.8791574" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide3234"
-       orientation="1,0"
-       position="1.0583298,6.8791574" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide3236"
-       orientation="1,0"
-       position="1.5874965,6.8791574" />
-    <sodipodi:guide
-       inkscape:locked="false"
        id="guide3238"
        orientation="1,0"
        position="6.3499965,7.9374908" />
@@ -102,17 +87,7 @@
        inkscape:locked="false"
        id="guide868"
        orientation="1,0"
-       position="12.17083,8.4666574" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide870"
-       orientation="1,0"
-       position="11.641663,8.4666574" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide872"
-       orientation="1,0"
-       position="11.112496,8.4666574" />
+       position="12.699995,7.1437383" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide1119"
@@ -175,7 +150,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -187,7 +162,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,7 +172,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <g
-       id="g863">
+       id="g906">
       <path
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
@@ -211,47 +186,14 @@
          sodipodi:nodetypes="cccccc" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="m 30,2 v 9 1 h 1 9 V 11 H 31 V 2 Z"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
+         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
          id="rect1133" />
-      <rect
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         id="rect1146"
-         width="0.79375297"
-         height="0.26459023"
-         x="85.989578"
-         y="159.41667"
-         ry="5.0894191e-06" />
       <path
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
-         d="m 13,11 v 1 h 6 v -1 z m 0,3 v 1 h 4 v -1 z m 4,6 v 1 h 8 v -1 z m 10,0 v 1 h 8 v -1 z m -10,3 v 1 h 18 v -1 z m 0,3 v 1 h 7 v -1 z m 0,7 v 1 h 17 v -1 z"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         id="rect1150" />
-      <rect
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         id="rect1154"
-         width="1.587502"
-         height="0.26458386"
-         x="87.047913"
-         y="161.79793"
-         ry="5.0894191e-06" />
-      <rect
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         id="rect889"
-         width="1.0583353"
-         height="0.26457667"
-         x="87.047913"
-         y="165.23752"
-         ry="5.0894191e-06" />
-      <rect
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         id="rect893"
-         width="0.79375297"
-         height="0.26458275"
-         x="85.989578"
-         y="166.82501"
-         ry="5.0894191e-06" />
+         id="rect1148"
+         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="m 13,8 v 1 h 6 V 8 Z m 0,3 v 1 h 3 v -1 z m 6,5 v 1 h 7 v -1 z m 9,0 v 7 h 2 v -1 h -1 v -5 h 1 v -1 z m 5,0 v 1 h 1 v 5 h -1 v 1 h 2 v -7 z m -20,3 v 1 h 13 v -1 z m 17,0 v 1 h 3 v -1 z m -17,3 v 1 h 13 v -1 z m 0,3 v 1 h 6 v -1 z m 0,5 v 1 h 22 v -1 z m 0,3 v 1 h 11 v -1 z"
+         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
     </g>
   </g>
 </svg>
