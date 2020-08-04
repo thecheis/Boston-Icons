@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="x-office-address-book.svg"
+   sodipodi:docname="image-x-xcursor.svg"
    viewBox="0 0 16 16"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    version="1.1"
@@ -47,10 +47,10 @@
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer1"
-     inkscape:cy="5.8862501"
-     inkscape:cx="10.081037"
-     inkscape:zoom="11.098901"
+     inkscape:current-layer="g932"
+     inkscape:cy="5.8502576"
+     inkscape:cx="7.1015111"
+     inkscape:zoom="7.8481083"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1"
@@ -70,6 +70,26 @@
        id="guide3098"
        orientation="0,1"
        position="12,8" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide867"
+       orientation="-0.70710678,0.70710678"
+       position="6,6" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide869"
+       orientation="-0.70710678,0.70710678"
+       position="3,1" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide871"
+       orientation="0.70710678,0.70710678"
+       position="20,0" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide875"
+       orientation="0.70710678,0.70710678"
+       position="17,-1" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -87,8 +107,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -108,19 +128,15 @@
      inkscape:label="Layer 1"
      id="layer1">
     <g
-       id="g838">
-      <path
-         style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 2,0 H 14 V 3 16 H 2 Z"
-         id="path839"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:#373b43;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 6,1 h 7 V 3.5 15 H 6 Z"
-         id="path841"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
+       id="g887">
+      <g
+         id="g932">
+        <path
+           sodipodi:nodetypes="cccccccc"
+           id="path882"
+           d="m 3.2038657,0 1.4816429,15.231435 3.120832,-4.726692 3.1662824,5.48416 2.193684,-1.266489 L 10,9.2382306 15.653866,8.8988565 Z"
+           style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:0.316628px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
     </g>
   </g>
 </svg>
