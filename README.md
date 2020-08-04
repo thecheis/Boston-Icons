@@ -1,5 +1,5 @@
 ![Boston Icons on desktop](https://github.com/heychrisd/Boston-Icons/blob/master/Pictures/Boston%20C.png)
-![Boston Icons](https://github.com/heychrisd/Boston-Icons/blob/master/Boston-Icons-Preview.png)
+![Boston Icons](https://github.com/heychrisd/Boston-Icons/blob/master/Pictures/Boston%20icons.png)
 
 <h1 align="center">
  BOSTON
