@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="text-x-csrc.svg"
+   sodipodi:docname="text-x-readme.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg2634"
    version="1.1"
@@ -35,8 +35,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="68.503266"
-     inkscape:cx="49.958354"
+     inkscape:cy="56.154598"
+     inkscape:cx="60.818218"
      inkscape:zoom="5.6"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -153,16 +153,6 @@
        id="guide845"
        orientation="0,1"
        position="30.162497,26.458325" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide848"
-       orientation="1,0"
-       position="8.9958299,19.579158" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide851"
-       orientation="1,0"
-       position="24.87083,19.579158" />
   </sodipodi:namedview>
   <metadata
      id="metadata2631">
@@ -180,7 +170,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -192,7 +182,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,31 +192,56 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <g
-       id="g868">
+       id="g923">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 20,4 v 120 h 88 V 28 L 84,4 Z"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
          id="rect851" />
       <path
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 20,4 v 120 h 88 V 28 l -2,-2 v 96 H 22 V 6 H 86 L 84,4 Z"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)"
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -0.52916,-0.52916 v 25.4 H 88.370836 v -30.69167 h 16.933334 l -0.52917,-0.52917 z"
          id="rect840"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccc" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 82,4 v 26 h 26 V 28 L 84,4 Z m 2,3 21,21 H 84 Z"
-         id="path863"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)" />
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z m 0.52916,0.79375 5.55625,5.55625 H 104.775 Z"
+         id="path863" />
       <path
-         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-         d="m 34,22 v 2 h 8 v -2 z m 0,6 v 2 h 20 v -2 z m 0,6 v 2 h 12 v -2 z m 8,8 v 2 h 12 v -2 z m 0,6 v 2 h 24 v -2 z m 28,0 v 2 h 24 v -2 z m -28,6 v 2 h 52 v -2 z m 0,6 v 2 h 24 v -2 z m 0,10 v 2 h 8 v -2 z m 0,6 v 2 h 52 v -2 z m 0,6 v 2 h 24 v -2 z m 28,0 v 2 h 24 v -2 z m -36,6 v 2 h 8 v -2 z"
+         id="rect892"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect892" />
+         d="m 34,42 v 2 h 60 v -2 z m 0,6 v 2 h 60 v -2 z m 0,6 v 2 h 60 v -2 z m 0,6 v 2 h 30 v -2 z m 0,10 v 2 h 60 v -2 z m 0,6 v 2 h 60 v -2 z m 0,6 v 2 h 60 v -2 z m 0,6 v 2 h 30 v -2 z"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
+      <rect
+         style="fill:#2d8cff;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round"
+         id="rect886"
+         width="11.641663"
+         height="4.2333412"
+         x="91.545837"
+         y="140.89581" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect908"
+         width="5.8208365"
+         height="0.52916217"
+         x="92.604164"
+         y="141.95416" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect910"
+         width="2.6458366"
+         height="0.52915823"
+         x="99.48333"
+         y="141.95416" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect912"
+         width="4.7625022"
+         height="0.52916437"
+         x="92.604164"
+         y="143.54166" />
     </g>
   </g>
 </svg>

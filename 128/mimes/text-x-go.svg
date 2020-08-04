@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="text-x-csrc.svg"
+   sodipodi:docname="text-x-go.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg2634"
    version="1.1"
@@ -35,9 +35,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="68.503266"
-     inkscape:cx="49.958354"
-     inkscape:zoom="5.6"
+     inkscape:cy="56.307468"
+     inkscape:cx="57.975547"
+     inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
@@ -180,7 +180,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -192,7 +192,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -222,11 +222,39 @@
          d="m 82,4 v 26 h 26 V 28 L 84,4 Z m 2,3 21,21 H 84 Z"
          id="path863"
          transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)" />
+      <rect
+         style="fill:#6fb7ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect892"
+         width="3.1750011"
+         height="0.52917272"
+         x="93.662498"
+         y="147.24583" />
       <path
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-         d="m 34,22 v 2 h 8 v -2 z m 0,6 v 2 h 20 v -2 z m 0,6 v 2 h 12 v -2 z m 8,8 v 2 h 12 v -2 z m 0,6 v 2 h 24 v -2 z m 28,0 v 2 h 24 v -2 z m -28,6 v 2 h 52 v -2 z m 0,6 v 2 h 24 v -2 z m 0,10 v 2 h 8 v -2 z m 0,6 v 2 h 52 v -2 z m 0,6 v 2 h 24 v -2 z m 28,0 v 2 h 24 v -2 z m -36,6 v 2 h 8 v -2 z"
+         d="m 34,28 v 2 h 20 v -2 z m 0,6 v 2 h 12 v -2 z m 8,14 v 2 h 24 v -2 z m 28,0 v 2 h 24 v -2 z m -28,6 v 2 h 52 v -2 z m 0,6 v 2 h 24 v -2 z m 0,16 v 2 h 52 v -2 z m 0,6 v 2 h 24 v -2 z m 28,0 v 2 h 24 v -2 z"
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect892" />
+         id="rect894" />
+      <rect
+         style="fill:#6fb7ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect900"
+         width="2.1166677"
+         height="0.52916563"
+         x="93.662498"
+         y="154.65417" />
+      <rect
+         style="fill:#6fb7ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect906"
+         width="2.1166699"
+         height="0.52916873"
+         x="91.54583"
+         y="159.41667" />
+      <rect
+         style="fill:#6fb7ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect908"
+         width="2.1166699"
+         height="0.52916253"
+         x="91.54583"
+         y="141.95418" />
     </g>
   </g>
 </svg>
