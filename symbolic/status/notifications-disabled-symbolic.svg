@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,9 +11,9 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-open-symbolic.svg">
+   sodipodi:docname="notifications-disabled-symbolic.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -36,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="-7.9229026"
-     inkscape:cy="6.4835144"
+     inkscape:cx="4.50173"
+     inkscape:cy="13.49901"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,8 +45,9 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:guide-bbox="true">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -63,14 +62,14 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Boston Icons</dc:title>
         <cc:license
-           rdf:resource="dribbble.com/chrisdiaz" />
+           rdf:resource="https://dribbble.com/chrisdiaz" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -90,9 +89,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 0,1 v 14 h 2 1 9 2 2 V 6 H 14 V 5 3 H 10 L 8,1 H 2 1 Z m 10,4 h 2 V 6 H 11 L 9,9 H 3 v 4 H 2 V 8 h 6 z"
-       id="rect4136"
-       inkscape:connector-curvature="0" />
+       d="M 3,0 1.5859375,1.4140625 14.585938,14.414062 16,13 13,10 V 7 C 12.999742,4.6242439 11.327756,2.5767137 9,2.1015625 V 0 H 7 V 2.1015625 C 6.5149401,2.2009783 6.0516385,2.38066 5.6171875,2.6171875 Z m 4.9472656,4 h 0.00195 C 7.966152,3.9998567 7.9830732,3.9998567 8,4 9.6568542,4 11,5.3431458 11,7 V 8 L 7.1347656,4.1347656 C 7.3987756,4.0548393 7.6710231,4.0050665 7.9472656,4 Z M 3.1132812,5.9414062 C 3.0379543,6.2892336 2.9999784,6.6441094 3,7 v 5 H 1 v 2 h 2 4 v 1 c 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 v -1 h 2.171875 l -2,-2 H 5 V 7.828125 Z"
+       style="fill:#252627;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round"
+       id="rect834" />
   </g>
 </svg>

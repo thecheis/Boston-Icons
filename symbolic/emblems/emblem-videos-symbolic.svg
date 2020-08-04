@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-open-symbolic.svg">
+   sodipodi:docname="folder-videos-symbolic.svg">
   <title
-     id="title815">Boston Icons</title>
+     id="title4518">Boston Icons</title>
   <defs
      id="defs4161">
     <inkscape:perspective
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="-7.9229026"
-     inkscape:cy="6.4835144"
+     inkscape:cx="4.7339106"
+     inkscape:cy="4.6438119"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -76,12 +76,12 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,9 +90,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 0,1 v 14 h 2 1 9 2 2 V 6 H 14 V 5 3 H 10 L 8,1 H 2 1 Z m 10,4 h 2 V 6 H 11 L 9,9 H 3 v 4 H 2 V 8 h 6 z"
-       id="rect4136"
+       style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,2 V 4 H 5 V 6 H 2 0 v 9 h 2 8 2 V 12.333984 L 14,15 h 1 1 V 6 H 15 14 L 12,8.6660156 V 6 H 10 7 V 2 H 5 Z m 2,6 h 8 v 5 H 2 Z"
+       id="rect4144"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
