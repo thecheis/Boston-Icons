@@ -1,3 +1,68 @@
+ 04 Aug 2020 // v 0.8
+ --------------------
+
+ # Corrections, improvements and additions. Better eBook,symbolics and code files support.
+
+ 1. Corrections
+ 2. App icons
+	Calibre e-Book Editor
+	Calibre e-Book Viewer
+	Calibre LRF Viewer
+	Removed PDF Arranger (new icon provided by the own app since v. 1.6)
+ 3. Filetype icons
+	RAW disk images
+	LRF Sony eBook
+	Topaz (TPZ) eBook
+	AZW3 (MOBI8) eBook
+	Cursor
+	Renewed office addressbook
+	Readme text
+	Install text
+	Java code
+	Perl code
+	C# code
+	Haskell code
+	Go code
+	SQL code
+	Ruby code
+	Rust code
+	SCSS code
+	Sass code
+	Scala code
+	Kotlin code
+	(La)TeX code / text
+	New partial download
+ 4. Symbolic icons
+	Removed Firefox (compatibility provided by the own app, tested since v. 78.0.1)
+	Phone (Android / compatible smartphones)
+	Apple iPhone
+	Calibre
+	Calibre e-Book Viewer
+	New PDF Arranger
+	Image generic
+	Video generic
+	Text generic
+	Office document
+	Office drawing
+	Office presentation
+	Office spredsheet
+	Calendar
+	Notifications
+	Notifications disabled
+	Optical drive improved design
+	Media removable
+	Legacy folder compatibility
+	Emblems folder compatibility
+		Emblem shared
+		Emblem music
+		Emblem photos
+		Emblem documents
+		Emblem videos
+ 5. Optional white folder
+ 6. Updated documentation & lowercase nomenclature
+
+ =====================================================================
+
  07 May 2020 // v 0.7
  --------------------
 

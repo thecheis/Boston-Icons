@@ -1,5 +1,5 @@
 #	==========
-#	  BOSTON       IT01
+#	  BOSTON    /   IT01
 #	==========
 
 [Icon Theme]
@@ -29,9 +29,9 @@ PanelSizes=16,22,32,48,64,128,256
 
 # --------------------------------------DIRECTORIES--------------------------------------
 
-Directories=legacy/128,legacy/48,legacy/16,symbolic/actions,scalable/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/devices,48/mimes,48/places,48/status,16/apps,16/devices,16/mimes,16/places,16/status,
+Directories=legacy/128,legacy/48,legacy/16,symbolic/actions,scalable/apps,symbolic/devices,symbolic/emblems,symbolic/legacy,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/devices,48/mimes,48/places,48/status,16/apps,16/devices,16/mimes,16/places,16/status,
 
-# ---------------------------------------------------------------------------------------
+# ----------------------------------------LEGACY-----------------------------------------
 
 [legacy/128]
 Context=Legacy
@@ -54,7 +54,7 @@ MinSize=8
 MaxSize=32
 Type=Scalable
 
-# ---------------------------------------------------------------------------------------
+# ---------------------------------------SYMBOLICS---------------------------------------
 
 [symbolic/actions]
 Context=Actions
@@ -98,7 +98,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-# ---------------------------------------------------------------------------------------
+# ----------------------------------------128--------------------------------------------
 
 [128/actions]
 Context=Actions
@@ -142,7 +142,7 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------48--------------------------------------------
 
 [48/actions]
 Context=Actions
@@ -186,7 +186,7 @@ MinSize=8
 MaxSize=48
 Type=Scalable
 
-# ---------------------------------------------------------------------------------------
+# -----------------------------------------16--------------------------------------------
 
 [16/apps]
 Context=Applications
