@@ -15,6 +15,10 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 [Download the backgrounds](https://www.pling.com/p/1381664/).
 
+## Download and vote
+
+Boston icons package is available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
+
 ## Support it
 
 **Do you like my work and do you want to support it? [Become a patron](https://github.com/heychrisd/Boston-Icons/wiki/Patrons).** 
@@ -29,11 +33,6 @@ Bitcoin                    |  Ethereum
 1teQo5ScukQkVxa8jvGoCWudxqK2JBJTU | 0x926A462F08b0e106fe834eC87049fa788093225D
  
 **Thanks!**
-
-
-## Download and vote
-
-Boston icons package are available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
 
 ## Wiki
 There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info about multiple things (installation, philosophy, production, FAQ, etc). Take a look!
