@@ -17,7 +17,7 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 ## Download and vote
 
-Boston icons package is available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
+Boston icons package for final use is available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
 
 ## Support it
 
