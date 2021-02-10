@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866667"
+   version="1.1"
+   id="svg2634"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="audacity.svg">
+  <title
+     id="title3250">Boston Icons</title>
+  <defs
+     id="defs2628" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00ffed"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6831688"
+     inkscape:cx="46.939853"
+     inkscape:cy="99.184567"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4770"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3182"
+       spacingx="0.52916667"
+       spacingy="0.52916667"
+       empspacing="4"
+       originx="-82.550004"
+       originy="-127.00001"
+       dotted="false" />
+    <sodipodi:guide
+       position="-4.268358e-06,27.516666"
+       orientation="1,0"
+       id="guide3216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.7041618,33.866666"
+       orientation="0,1"
+       id="guide3218"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.279157,-4.1479283e-06"
+       orientation="0,1"
+       id="guide3222"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.345829,32.808336"
+       orientation="0,1"
+       id="guide3224"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-4.7625023,1.0583259"
+       orientation="0,1"
+       id="guide3226"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583287,17.462496"
+       orientation="1,0"
+       id="guide3228"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.808327,20.108336"
+       orientation="1,0"
+       id="guide3230"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.874995,31.750006"
+       orientation="0,1"
+       id="guide3232"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.1166617,24.870836"
+       orientation="1,0"
+       id="guide3234"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.1749958,25.400006"
+       orientation="1,0"
+       id="guide3236"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,19.579158"
+       orientation="-1,-1.5118114e-08"
+       id="guide3238"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.691657,24.341666"
+       orientation="1,0"
+       id="guide3242"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31.749997,21.695836"
+       orientation="1,0"
+       id="guide3244"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.695827,2.1166659"
+       orientation="0,1"
+       id="guide3246"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.404162,3.1749959"
+       orientation="0,1"
+       id="guide3248"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.987497,30.162491"
+       orientation="0,1"
+       id="guide843"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.75833,16.933324"
+       orientation="0,1"
+       id="guide845"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="18.52083,7.4083242"
+       orientation="0,1"
+       id="guide4768"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.4083299,7.9374908"
+       orientation="1,0"
+       id="guide4770"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.45833,22.754158"
+       orientation="1,0"
+       id="guide4772"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.462497,26.458324"
+       orientation="0,1"
+       id="guide4774"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2631">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2020</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.550003,-136.13333)">
+    <g
+       id="g4770">
+      <g
+         id="g889">
+        <path
+           id="rect894"
+           style="fill:#2d8cff;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.99998, 7.99998"
+           d="M 64,12 A 51.999998,51.999998 0 0 0 12,64 v 14 c -2.2160164,0 -4,1.784025 -4,4 v 28 c 0,2.21597 1.7839836,4 4,4 v 2 h 12 8 c 2.215997,0 4,-1.78403 4,-4 V 80 c 0,-2.216013 -1.784003,-4 -4,-4 H 24 V 64.123047 A 40.000002,40.03336 0 0 1 24,64.033203 40.000002,40.03336 0 0 1 24,64 40.000002,40.03336 0 0 1 63.910156,24 40.000002,40.03336 0 0 1 64,24 40.000002,40.03336 0 0 1 104,64 V 64.0332 76 h -8 c -2.216013,0 -4,1.783987 -4,4 v 32 c 0,2.21601 1.783987,4 4,4 h 8 12 v -2 c 2.21601,0 4,-1.78403 4,-4 V 82 c 0,-2.215975 -1.78399,-4 -4,-4 V 64 A 51.999998,51.999998 0 0 0 64,12 Z"
+           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
+        <path
+           style="fill:#ffc61b;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 93.133325,161.53332 1.058333,-1.05833 h 1.587497 l 2.11667,-4.23334 3.175005,6.35002 1.05834,-2.11668 h 2.64583 l 1.05833,1.05833 v 0 l -1.05833,1.05835 h -1.5875 l -2.11667,4.23332 -3.175005,-6.35 -1.05833,2.11668 h -2.645837 z"
+           id="path995"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+        <path
+           id="rect981"
+           style="fill:#6fb7ff;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.99998, 7.99998"
+           d="M 63.947266,14 C 36.353611,14.029104 13.999965,36.40635 14,64 V 64.05273 114 h 4 V 64 c 2e-6,-25.405098 20.594902,-45.999998 46,-46 25.405098,2e-6 46,20.594902 46,46 v 50 h 4 V 64 c 2e-5,-27.614231 -22.385748,-49.999998 -50,-50 z m -39.94728,63.999964 v 0 l 1e-6,35.999996 c 0,0 -1.4e-5,-4e-5 0,0 L 32,114 c 1.107995,1e-5 2,-0.89199 2,-2 V 80 c 0,-1.108006 -0.892005,-2 -2,-2 z M 96,78 c -1.107968,5e-6 -2,0.891994 -2,2 v 32 c 0,1.10797 0.892032,2 2,2 l 7.99998,-4e-5 v 0 -35.999996 0 z"
+           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
+           sodipodi:nodetypes="cscccssscccscccccsssscssssccccs" />
+      </g>
+    </g>
+  </g>
+</svg>
