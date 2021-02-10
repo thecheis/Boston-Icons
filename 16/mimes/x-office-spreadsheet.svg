@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +11,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    viewBox="0 0 16 16"
    sodipodi:docname="x-office-spreadsheet.svg">
   <title
@@ -46,7 +44,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
      inkscape:cx="6.1212884"
-     inkscape:cy="6.3294043"
+     inkscape:cy="3.8143349"
      inkscape:current-layer="g887"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -54,10 +52,11 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -108,8 +107,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -130,22 +129,10 @@
      inkscape:groupmode="layer">
     <g
        id="g887">
-      <g
-         id="g919">
-        <rect
-           style="opacity:1;fill:#079f87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-           id="rect853"
-           width="16"
-           height="14"
-           x="0"
-           y="2"
-           ry="1.92356e-05" />
-        <path
-           style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-           d="m 4,6 v 4 H 9 V 6 Z m 6,0 v 4 h 5 V 6 Z m -6,5 v 4 h 5 v -4 z m 6,0 v 4 h 5 v -4 z"
-           id="rect851"
-           inkscape:connector-curvature="0" />
-      </g>
+      <path
+         id="rect851"
+         style="fill:#079f87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="M 0,0 V 4 H 7 V 0 Z m 9,0 v 4 h 7 V 0 Z M 0,6 v 4 H 7 V 6 Z m 9,0 v 4 h 7 V 6 Z m -9,6 v 4 h 7 v -4 z m 9,0 v 4 h 7 v -4 z" />
     </g>
   </g>
 </svg>
