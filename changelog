@@ -1,3 +1,41 @@
+ 10 Feb 2021 // v 0.9
+ --------------------
+
+ # Various improvements and additions, better coherence. 
+ # Designed with love in The Castles. 
+
+ 1. Tested on GNOME 3.38.3
+ 2. Design and file improvements
+ 3. Filetype icons
+	Geographic GML files
+	Geographic KML files
+	RPM Spec
+	Python 3
+	Translations (gettext) extended
+	XSL
+	Redesigned certificates
+	Glade projects
+	Lua code
+	Redesigned spreadsheet
+	Redesigned tables
+	RAM files (RealMedia, emulators)
+	Google Docs & Google Drive support
+	MS DOS program
+	Redesigned address book
+	MS Windows regedit
+	MS Windows help
+ 4. App icons
+	48px & 16px system software update
+	Audacity
+	ePSXe & symbolic (/usr/share/applications/epsxe.desktop -> change line to "Icon=epsxe")
+	Redesigned Calibre e-Book Editor
+ 5. Symbolic icons
+	Removed Color Picker (gColor 3). New one provided by the app
+ 6. Legacy icons
+	Dialog question
+
+ =====================================================================
+
  04 Aug 2020 // v 0.8
  --------------------
 

@@ -1,5 +1,6 @@
 ## Special thanks to this patrons and supporters:
 
+ - Justin Shepherd ★
  - José Rodrí­guez ★
  - Fran J. Clemente ★
  - Danail Irinchev ★
