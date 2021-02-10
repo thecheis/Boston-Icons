@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -11,9 +13,9 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="x-office-spreadsheet-template.svg">
+   sodipodi:docname="x-office-presentation.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -43,8 +45,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="8.6378179"
-     inkscape:cy="4.8003735"
+     inkscape:cx="9.1952775"
+     inkscape:cy="5.6604533"
      inkscape:current-layer="g887"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -52,11 +54,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:document-rotation="0">
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -107,8 +108,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
-        <dc:date>2020</dc:date>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -130,31 +131,63 @@
     <g
        id="g887">
       <g
-         id="g862">
+         id="g914">
+        <rect
+           y="7"
+           x="0"
+           height="9"
+           width="12"
+           id="rect858"
+           style="opacity:1;fill:#af282e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
         <path
-           id="rect851"
-           style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-           d="m 2e-7,-5e-7 v 4 h 7 v -4 z m 9,0 v 4 H 16 v -4 z m -9,6 v 4 h 7 v -4 z m 9,0 v 4 H 16 v -4 z M 2e-7,12 v 4 h 7 v -4 z"
-           sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+           id="rect854"
+           d="m 4,2 v 4 h 9 v 6 h 3 V 6 2 Z"
+           style="opacity:1;fill:#af282e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="rect861"
+           d="m 5,3 v 3 h 8 v 5 h 2 V 6 3 Z"
+           style="opacity:1;fill:#d43838;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <rect
+           y="8"
+           x="1"
+           height="7"
+           width="10"
+           id="rect866"
+           style="opacity:1;fill:#d43838;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+        <path
+           id="path878"
+           d="M 6.9453125,11 A 2.5,2.5 0 0 0 5,9.0507812 V 11 Z"
+           style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path876"
+           d="M 4,9.0546875 A 2.5,2.5 0 0 0 2,11.5 2.5,2.5 0 0 0 4.5,14 2.5,2.5 0 0 0 6.9492188,12 H 5 4 v -1 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <rect
+           y="9"
+           x="8"
+           height="1"
+           width="2"
+           id="rect880"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+        <rect
+           y="11"
+           x="8"
+           height="1"
+           width="1"
+           id="rect882"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+        <rect
+           y="13"
+           x="8"
+           height="1"
+           width="2"
+           id="rect884"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 16,4.9999998 3.9999988,16 H 16 Z M 12.999999,11.7 V 13 h -1.4 z"
-         id="path819-3"
-         sodipodi:nodetypes="cccccccc" />
-      <path
-         style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 16,5.0000003 3.9999983,16 H 16 Z M 15,7.2999998 V 15 H 6.5999988 Z"
-         id="path819"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccc" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 14,9.4999998 9.0999988,14 H 14 Z M 12.999999,11.7 V 13 h -1.4 z"
-         id="path838"
-         sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
 </svg>

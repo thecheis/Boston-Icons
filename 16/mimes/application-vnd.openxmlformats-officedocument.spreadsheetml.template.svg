@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +11,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    viewBox="0 0 16 16"
    sodipodi:docname="x-office-spreadsheet-template.svg">
   <title
@@ -54,10 +52,11 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -108,8 +107,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -131,42 +130,31 @@
     <g
        id="g887">
       <g
-         id="g849">
-        <g
-           id="g919">
-          <rect
-             ry="1.92356e-05"
-             y="2"
-             x="0"
-             height="14"
-             width="16"
-             id="rect853"
-             style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-          <path
-             style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-             d="m 4,6 v 4 H 9 V 6 Z m 6,0 v 4 h 5 V 6 Z m -6,5 v 4 h 5 v -4 z m 6,0 v 4 h 5 v -4 z"
-             id="rect851"
-             inkscape:connector-curvature="0" />
-        </g>
+         id="g862">
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 16,4.9999998 3.9999988,16 H 16 Z M 12.999999,11.7 V 13 h -1.4 z"
-           id="path819-3"
-           sodipodi:nodetypes="cccccccc" />
-        <path
-           style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 16,5.0000003 3.9999983,16 H 16 Z M 15,7.2999998 V 15 H 6.5999988 Z"
-           id="path819"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 14,9.4999998 9.0999988,14 H 14 Z M 12.999999,11.7 V 13 h -1.4 z"
-           id="path838"
-           sodipodi:nodetypes="cccccccc" />
+           id="rect851"
+           style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="m 2e-7,-5e-7 v 4 h 7 v -4 z m 9,0 v 4 H 16 v -4 z m -9,6 v 4 h 7 v -4 z m 9,0 v 4 H 16 v -4 z M 2e-7,12 v 4 h 7 v -4 z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccc" />
       </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 16,4.9999998 3.9999988,16 H 16 Z M 12.999999,11.7 V 13 h -1.4 z"
+         id="path819-3"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 16,5.0000003 3.9999983,16 H 16 Z M 15,7.2999998 V 15 H 6.5999988 Z"
+         id="path819"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#079f87;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 14,9.4999998 9.0999988,14 H 14 Z M 12.999999,11.7 V 13 h -1.4 z"
+         id="path838"
+         sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
 </svg>

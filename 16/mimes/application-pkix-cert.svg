@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +11,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    viewBox="0 0 16 16"
    sodipodi:docname="application-certificate.svg">
   <title
@@ -57,7 +55,8 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -108,8 +107,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -156,28 +155,11 @@
              height="4"
              width="10"
              id="rect851"
-             style="opacity:1;fill:#079f87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-          <rect
-             y="5"
-             x="4"
-             height="2"
-             width="8"
-             id="rect854"
-             style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-          <rect
-             y="9"
-             x="3"
-             height="1"
-             width="10"
-             id="rect856"
-             style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-          <rect
-             y="11"
-             x="3"
-             height="1"
-             width="5"
-             id="rect858"
-             style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+             style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+          <path
+             d="m 3,9 v 1 H 13 V 9 Z m 0,2 v 1 h 5 v -1 z"
+             style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+             id="rect856" />
           <path
              d="M 13,16 12.31117,14.662983 10.87868,15.12132 11.337017,13.68883 10,13 11.337017,12.31117 10.87868,10.87868 12.31117,11.337017 13,10 13.68883,11.337017 15.12132,10.87868 14.662983,12.31117 16,13 l -1.337017,0.68883 0.458337,1.43249 -1.43249,-0.458337 z"
              inkscape:randomized="1.25421e-15"
@@ -191,7 +173,7 @@
              sodipodi:cx="13"
              sodipodi:sides="8"
              id="path862"
-             style="opacity:1;fill:#079f87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+             style="opacity:1;fill:#ffa803;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
              sodipodi:type="star" />
           <path
              d="M 13,14 12.77039,13.554328 12.292893,13.707107 12.445672,13.22961 12,13 12.445672,12.77039 12.292893,12.292893 12.77039,12.445672 13,12 13.22961,12.445672 13.707107,12.292893 13.554328,12.77039 14,13 l -0.445672,0.22961 0.152779,0.477497 -0.477497,-0.152779 z"
@@ -206,7 +188,7 @@
              sodipodi:cx="13"
              sodipodi:sides="8"
              id="path864"
-             style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+             style="opacity:1;fill:#ffc61b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
              sodipodi:type="star" />
         </g>
       </g>
