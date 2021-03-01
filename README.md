@@ -7,9 +7,7 @@
 
 **Boston is a minimalist and functional icon theme focused on basic shapes, a reduced color palette and visual hierarchy.**
 
-An elegant look for your desktop.
-
-It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
+It is intended to be used with GNOME Shell desktop and adapt well with its default settings.
 
 For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
@@ -17,7 +15,7 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 ## Download and vote
 
-Boston icons package for final use is available on [OpenDesktop.org](https://www.opendesktop.org/p/1012402/) platform.
+Boston icons package for final use is available on [OpenDesktop](https://www.opendesktop.org/p/1012402/) platform.
 
 ## Support it
 
@@ -35,7 +33,7 @@ Bitcoin                    |  Ethereum
 **Thanks!**
 
 ## Wiki
-There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info about multiple things (installation, philosophy, production, FAQ, etc). Take a look!
+There is available a little [wiki](https://github.com/heychrisd/Boston-Icons/wiki) for more info about multiple things (how to install, philosophy, production, FAQ, etc). Take a look!
 
 ## License
 
