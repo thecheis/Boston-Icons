@@ -17,6 +17,8 @@ For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 1
 
 Boston icons package for final use is available on [OpenDesktop](https://www.opendesktop.org/p/1012402/) platform.
 
+[PGP signature check files.](https://github.com/heychrisd/Boston-Icons/tree/master/PGP-Signatures)
+
 ## Support it
 
 **Do you like my work and do you want to support it? [Become a patron](https://github.com/heychrisd/Boston-Icons/wiki/Patrons).** 
