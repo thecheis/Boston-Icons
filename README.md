@@ -7,7 +7,7 @@
 
 **Boston is a minimalist and functional icon theme focused on basic shapes, a reduced color palette and visual hierarchy.**
 
-It is intended to be used with GNOME Shell desktop and adapt well with its default settings.
+It's intended to be used with GNOME Shell desktop and adapt well with its default settings.
 
 For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
 
