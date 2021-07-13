@@ -54,6 +54,15 @@ MinSize=8
 MaxSize=32
 Type=Scalable
 
+# ---------------------------------------SCALABLE----------------------------------------
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 # ---------------------------------------SYMBOLICS---------------------------------------
 
 [symbolic/actions]
@@ -72,6 +81,20 @@ Type=Scalable
 
 [symbolic/devices]
 Context=Devices
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[symbolic/emblems]
+Context=Emblems
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[symbolic/legacy]
+Context=Legacy
 Size=16
 MinSize=8
 MaxSize=512
