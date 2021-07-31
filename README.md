@@ -15,13 +15,13 @@ For maximum enjoyment visualize Files/Nautilus content at 100-133%.
 
 ## Download and vote
 
-Boston package for final use is available on [OpenDesktop](https://www.opendesktop.org/p/1012402/) platform.
+Boston packages (classic and Cardboard) for final use are available on [OpenDesktop](https://www.opendesktop.org/p/1012402/) platform.
 
 [PGP signature check files.](https://github.com/heychrisd/Boston-Icons/tree/master/PGP-Signatures)
 
 ## Support it
 
-**Do you like my work and do you want to support it? [Become a patron or make a donation](https://github.com/heychrisd/Boston-Icons/wiki/Patrons).** 
+Do you like my work and do you want to support it? Share it on social media or [make a donation](https://github.com/heychrisd/Boston-Icons/wiki/Patrons). That helps me a lot and [show me love!](https://www.youtube.com/watch?v=Ps2Jc28tQrw) 
 
 <p align="center">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
