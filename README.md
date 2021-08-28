@@ -11,7 +11,7 @@ It's intended to be used with GNOME Shell desktop and its default settings.
 
 For maximum enjoyment visualize Files/Nautilus content at 100-133%.
 
-[Get the wallpapers](https://www.pling.com/p/1381664/).
+[Get Boston backgrounds](https://www.pling.com/p/1381664/).
 
 ## Download and vote
 
