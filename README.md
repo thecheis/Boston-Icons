@@ -23,16 +23,15 @@ Boston packages (classic and Cardboard) for final use are available on [OpenDesk
 
 Do you like my work and do you want to support it? Share it on social media / [make a donation](https://github.com/heychrisd/Boston-Icons/wiki/Patrons). That helps me a lot and [show me love!](https://www.youtube.com/watch?v=Ps2Jc28tQrw) 
 
-<p align="center">
+<p align="left">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
 </p>
 
-Bitcoin                    |  Ethereum
-:-------------------------:|:-------------------------:
-![](https://i.ibb.co/gvW9msn/Bitcoin-direction.png)  |  ![](https://i.ibb.co/Q8F2djf/Ethereum-direction.png)
-1teQo5ScukQkVxa8jvGoCWudxqK2JBJTU | 0x926A462F08b0e106fe834eC87049fa788093225D
+**BTC:** 3BRsHyvSd3EL4SN3bXwoRhXsAkV5vbn9xp
+
+**ETH:** 0xe8540961E02E3DF56D27c01fE0736C0149289DDC
  
-**Thanks!**
+Thanks!
 
 ## Wiki
 [More info](https://github.com/heychrisd/Boston-Icons/wiki) about how to install, philosophy, production, FAQ, etc.
