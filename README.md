@@ -27,9 +27,9 @@ Do you like my work and do you want to support it? Share it on social media / [m
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
 </p>
 
-**BTC:** 3BRsHyvSd3EL4SN3bXwoRhXsAkV5vbn9xp
+**Coinbase Wallet:** @christian_diaz
 
-**ETH:** 0xe8540961E02E3DF56D27c01fE0736C0149289DDC
+**ETH**: 0x299C11968Bb3D8aFD41b84F4e31b82B3d677A56d
  
 Thanks!
 
