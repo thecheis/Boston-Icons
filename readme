@@ -4,54 +4,44 @@
 
  Boston is a minimalist and functional icon theme focused on basic shapes, 
  a reduced color palette and visual hierarchy.
- An elegant look for your desktop.
  
- It is intended to be used with GNOME Shell 3.32 or higher and adapt well with its default settings.
- For maximum enjoyment, it's recommended to visualize Files/Nautilus content at 100-133%.
+ It's intended to be used with GNOME desktop and its default settings.
+ For maximum enjoyment visualize Files/Nautilus content at 100-133%.
 
  ---------------------------------------------------------------
 
- Download and vote: opendesktop.org/p/1012402/
+ Download and vote: pling.com/p/1012402/
 
- Download Boston backgrounds: pling.com/p/1381664/
+ Get Boston backgrounds: pling.com/p/1381664/
 
- Do you like my work and do you want to support it? Become a patron. <3
+ PGP signature check files: github.com/heychrisd/Boston-Icons/tree/master/PGP-Signatures
+
+ ---------------------------------------------------------------
+
+ Do you like my work and do you want to support it? Share it on social media / make a donation. 
+ That helps me a lot and show me love!
 
  Fund: paypal.me/ChrisDiaz
 
- BTC: 3BRsHyvSd3EL4SN3bXwoRhXsAkV5vbn9xp
+ Coinbase Wallet: @christian_diaz
 
- ETH: 0xe8540961E02E3DF56D27c01fE0736C0149289DDC
+ ETH: 0x299C11968Bb3D8aFD41b84F4e31b82B3d677A56d
  
  Thanks!
 
  ---------------------------------------------------------------
 
  Boston icons aren't affiliated with any project that isn't designed or released by the author.
- Any other use isn't officially supported.
 
  ---------------------------------------------------------------
 
  #/ WIKI
-
- There is available a little wiki for more info:
 
  github.com/heychrisd/Boston-Icons/wiki
 
  ---------------------------------------------------------------
 
  #/ HOW TO INSTALL
-
- - Automatic (user mode only):
-
- The bash script installer, provided in theme package/folder, 
- must be run into that Boston icons directory. 
- 
- Open a terminal on it (mouse right click on file manager blank area > Open in Terminal)
- To give permissions, " chmod +x ./install.sh "
- To run the script, " ./install.sh "
-
- - Manual:
 
  Copy entire icon theme folder into " /YOUR-HOME/.icons " directory
  For all users copy it into " /usr/share/icons " (root mode is needed)
@@ -67,11 +57,11 @@
  ---------------------------------------------------------------
 
  Licensed under Creative Commons Attribution - Share Alike 4.0 / International License.   
- Read "LICENSE" file for more info.
+ Read "license" file for more info.
 
  ---------------------------------------------------------------
  
- Dedicated with <3 to Bruxa
+ Dedicated with love to The Bug and Bruxa.
 
  -
  IT01
