@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="dialog-question.svg">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="dialog-question.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -26,8 +26,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="18.501385"
-     inkscape:cy="24.327193"
+     inkscape:cx="15.94147"
+     inkscape:cy="21.244771"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,12 +38,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -167,26 +168,26 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g890">
+       id="g17244">
       <path
          style="fill:#2d8cff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 88.899998,157.82918 -5.820833,5.82081 5.820834,5.82083 5.820832,-5.82083 z"
          id="path854" />
       <path
          id="path874"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 24,5 5,24 24,43 43,24 Z M 24,8 40,24 24,40 8,24 Z"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
-      <g
-         aria-label="?"
-         id="text881"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
-         transform="translate(0.0337215,-0.052145)">
-        <path
-           d="m 88.359331,164.57962 v -0.19843 q 0,-0.34107 0.124023,-0.56741 0.124024,-0.22634 0.434082,-0.46819 0.36897,-0.29145 0.47439,-0.45269 0.10852,-0.16123 0.10852,-0.38447 0,-0.26045 -0.173632,-0.39997 -0.173633,-0.13953 -0.499195,-0.13953 -0.294555,0 -0.545703,0.0837 -0.251147,0.0837 -0.489892,0.20153 l -0.26045,-0.5457 q 0.629419,-0.35037 1.348755,-0.35037 0.607715,0 0.964282,0.29766 0.356568,0.29766 0.356568,0.82166 0,0.23254 -0.06821,0.41547 -0.06821,0.17984 -0.207739,0.34417 -0.136426,0.16433 -0.47439,0.42788 -0.288355,0.22634 -0.387573,0.37517 -0.09612,0.14883 -0.09612,0.39998 v 0.13952 z m -0.127124,0.98909 q 0,-0.46819 0.455786,-0.46819 0.223242,0 0.341064,0.12403 0.117823,0.12092 0.117823,0.34416 0,0.22014 -0.120923,0.35037 -0.117823,0.12712 -0.337964,0.12712 -0.220142,0 -0.337964,-0.12402 -0.117822,-0.12713 -0.117822,-0.35347 z"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ffffff;stroke-width:0.264583"
-           id="path883" />
-      </g>
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.900003,158.62292 -5.027083,5.02708 5.027083,5.02708 5.027083,-5.02708 z m 0,0.79375 4.233333,4.23333 -4.233333,4.23333 L 84.66667,163.65 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+         x="87.039452"
+         y="166.00267"
+         id="text1594"><tspan
+           sodipodi:role="line"
+           id="tspan1592"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#ffffff;stroke-width:0.264583"
+           x="87.039452"
+           y="166.00267">?</tspan></text>
     </g>
   </g>
 </svg>

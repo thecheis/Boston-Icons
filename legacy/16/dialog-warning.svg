@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="16"
    height="16"
@@ -8,7 +6,7 @@
    version="1.1"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    viewBox="0 0 16 16"
-   sodipodi:docname="drive-harddisk-solidstate.svg"
+   sodipodi:docname="dialog-warning.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -45,9 +43,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.395604"
-     inkscape:cx="5.4059406"
-     inkscape:cy="8.0751238"
-     inkscape:current-layer="layer1"
+     inkscape:cx="7.7259902"
+     inkscape:cy="7.9399753"
+     inkscape:current-layer="g1298"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -56,22 +54,17 @@
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
+     inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
     <sodipodi:guide
-       position="8,9"
+       position="8,12"
        orientation="1,0"
-       id="guide3096"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="12,8"
-       orientation="0,1"
-       id="guide3098"
-       inkscape:locked="false" />
+       id="guide913" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -89,6 +82,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
         <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
@@ -101,7 +95,6 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,29 +103,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g919">
-      <rect
-         rx="1.39687e-05"
-         y="1"
-         x="3"
-         height="13"
-         width="10"
-         id="rect840"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         id="rect851"
-         d="M 3,0 C 2.446,0 2,0.446 2,1 v 14 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 1 C 14,0.446 13.554,0 13,0 Z M 3,1 H 13 V 14 H 3 Z"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect842"
-         style="opacity:1;fill:#cdd5d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="M 6 15 L 6 16 L 8 16 L 8 15 L 6 15 z M 9 15 L 9 16 L 12 16 L 12 15 L 9 15 z " />
-      <path
-         id="rect882"
-         d="M 6,2 V 4 H 5 3 V 5 H 5 V 6 H 3 V 7 H 5 V 8 H 3 v 1 h 2 v 1 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 2 V 9 H 11 V 8 h 2 V 7 H 11 V 6 h 2 V 5 H 11 V 4 2 H 10 V 4 H 9 V 2 H 8 V 4 H 7 V 2 Z m 0,3 h 4 V 9 H 6 Z M 7,6 V 8 H 9 V 6 Z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
+       id="g1298">
+      <g
+         id="g1777">
+        <path
+           style="fill:#ffa803;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 8,1 0,16 h 16 z"
+           id="path1047"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect1211"
+           style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round"
+           d="m 7,6 v 4 H 9 V 6 Z m 0,6 v 2 h 2 v -2 z"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
     </g>
   </g>
 </svg>
