@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   id="svg4159"
-   version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="application-vnd.ms-publisher.svg"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-vnd.ms-publisher.svg">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   version="1.1"
+   id="svg4159"
+   height="16"
+   width="16"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title815">Boston Icons</title>
   <defs
      id="defs4161">
     <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 8 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="16 : 8 : 1"
+       id="perspective4709"
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
-       id="perspective4709" />
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 8 : 1"
+       sodipodi:type="inkscape:persp3d" />
     <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath5603">
+       id="clipPath5603"
+       clipPathUnits="userSpaceOnUse">
       <path
-         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
+         inkscape:connector-curvature="0"
          id="path5605"
-         inkscape:connector-curvature="0" />
+         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
+         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </clipPath>
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#00fff6"
-     borderopacity="1"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="44.395604"
-     inkscape:cx="8.2903188"
-     inkscape:cy="7.1025867"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:guide-bbox="true"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showgrid="false"
+     inkscape:current-layer="g865"
+     inkscape:cy="8.3228961"
+     inkscape:cx="3.1872525"
+     inkscape:zoom="44.395604"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1"
+     bordercolor="#00fff6"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
-       type="xygrid"
-       id="grid4707" />
+       id="grid4707"
+       type="xygrid" />
     <sodipodi:guide
-       position="8,9"
-       orientation="1,0"
+       inkscape:locked="false"
        id="guide3096"
-       inkscape:locked="false" />
+       orientation="1,0"
+       position="8,9" />
     <sodipodi:guide
-       position="12,8"
-       orientation="0,1"
+       inkscape:locked="false"
        id="guide3098"
-       inkscape:locked="false" />
+       orientation="0,1"
+       position="12,8" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -88,8 +88,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -101,81 +100,65 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     id="layer1">
     <g
-       id="g874">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path839"
-         d="m 2,0 h 9 l 3,3 V 16 H 2 Z"
-         style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path841"
-         d="m 3,1 h 7.5 L 13,3.5 V 15 H 3 Z"
-         style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="rect843"
-         d="m 10,0 v 4 h 1 3 V 3 H 11 V 0 Z"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         y="4"
-         x="7"
-         height="1"
-         width="2"
-         id="rect867"
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="6"
-         x="5"
-         height="1"
-         width="2"
-         id="rect869"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="8"
-         x="5"
-         height="1"
-         width="2"
-         id="rect871"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="10"
-         x="5"
-         height="1"
-         width="6"
-         id="rect873"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="12"
-         x="5"
-         height="1"
-         width="3"
-         id="rect894"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="6"
-         x="8"
-         height="3"
-         width="3"
-         id="rect839"
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="4"
-         x="5"
-         height="1"
-         width="1"
-         id="rect841"
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+       id="g887">
+      <g
+         id="g865">
+        <g
+           id="g1296">
+          <path
+             style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2,0 h 9 l 3,3 V 16 H 2 Z"
+             id="path839"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 3,1 h 7.5 L 13,3.5 V 15 H 3 Z"
+             id="path841"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+             d="m 10,0 v 4 h 1 3 V 3 H 11 V 0 Z"
+             id="rect843"
+             sodipodi:nodetypes="cccccccc" />
+          <path
+             id="rect867"
+             style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+             d="m 9,7 v 2 h 2 V 7 Z m -4,3 v 2 h 2 v -2 z"
+             sodipodi:nodetypes="cccccccccc" />
+          <path
+             id="rect867-3"
+             style="fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+             d="M 5,4 V 5 H 6 V 4 Z M 7,4 V 5 H 9 V 4 Z" />
+          <rect
+             style="fill:#00c28e;stroke-linejoin:round"
+             id="rect1186"
+             width="3"
+             height="2"
+             x="5"
+             y="7"
+             ry="1.92356e-05" />
+          <rect
+             style="fill:#00c28e;stroke-linejoin:round"
+             id="rect1188"
+             width="3"
+             height="2"
+             x="8"
+             y="10"
+             ry="1.92356e-05" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>
