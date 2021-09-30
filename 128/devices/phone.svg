@@ -8,7 +8,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="sudoku.svg"
+   sodipodi:docname="phone.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,11 +27,11 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6831686"
-     inkscape:cx="84.635884"
-     inkscape:cy="61.145467"
+     inkscape:zoom="2.8"
+     inkscape:cx="61.428571"
+     inkscape:cy="101.96429"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3101"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -96,54 +96,19 @@
        id="guide3230"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15.874995,31.750006"
-       orientation="0,1"
-       id="guide3232"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.1166617,24.870836"
+       position="8.4666632,5.8208242"
        orientation="1,0"
-       id="guide3234"
+       id="guide851"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3.1749958,25.400006"
+       position="25.399997,6.8791575"
        orientation="1,0"
-       id="guide3236"
+       id="guide855"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="16.93333,19.579158"
-       orientation="1,0"
-       id="guide3238"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="30.691657,24.341666"
-       orientation="1,0"
-       id="guide3242"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="31.749997,21.695836"
-       orientation="1,0"
-       id="guide3244"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="21.695827,2.1166659"
+       position="-1.0583368,16.933324"
        orientation="0,1"
-       id="guide3246"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="16.404162,3.1749959"
-       orientation="0,1"
-       id="guide3248"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="26.987497,30.162491"
-       orientation="0,1"
-       id="guide843"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="13.75833,16.933324"
-       orientation="0,1"
-       id="guide845"
+       id="guide852"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -162,7 +127,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -174,7 +139,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -184,19 +149,61 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g5027">
-      <rect
-         y="138.24998"
-         x="84.666664"
-         height="29.633341"
-         width="29.633337"
-         id="rect4944"
-         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.10080626;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         id="rect4785"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.381;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="M 12 12 L 12 44 L 44 44 L 44 12 L 12 12 z M 48 12 L 48 44 L 80 44 L 80 12 L 48 12 z M 84 12 L 84 44 L 116 44 L 116 12 L 84 12 z M 12 48 L 12 80 L 44 80 L 44 48 L 12 48 z M 48 48 L 48 80 L 80 80 L 80 48 L 48 48 z M 84 48 L 84 80 L 116 80 L 116 48 L 84 48 z M 12 84 L 12 116 L 44 116 L 44 84 L 12 84 z M 48 84 L 48 116 L 80 116 L 80 84 L 48 84 z M 84 84 L 84 116 L 116 116 L 116 84 L 84 84 z "
-         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
+       id="g3101">
+      <g
+         id="g1341">
+        <rect
+           y="137.19167"
+           x="91.016663"
+           height="31.750006"
+           width="16.933334"
+           id="rect848"
+           style="fill:#252627;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           ry="1.5874885"
+           rx="1.5874972" />
+        <rect
+           y="138.77916"
+           x="92.074997"
+           height="28.575003"
+           width="14.816663"
+           id="rect873"
+           style="fill:#2d8cff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           ry="1.0583279"
+           rx="1.0583296" />
+        <rect
+           style="opacity:1;fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round"
+           id="rect2108"
+           width="12.699995"
+           height="1.5874859"
+           x="93.133331"
+           y="163.64999"
+           rx="0.79793"
+           ry="0.79374295" />
+        <circle
+           style="opacity:1;fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round"
+           id="path2270"
+           cx="94.720833"
+           cy="161.00417"
+           r="1.0583334" />
+        <circle
+           style="opacity:1;fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round"
+           id="path2272"
+           cx="97.895836"
+           cy="161.00417"
+           r="1.0583334" />
+        <circle
+           style="opacity:1;fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round"
+           id="path2274"
+           cx="101.07085"
+           cy="161.00417"
+           r="1.0583334" />
+        <circle
+           style="opacity:1;fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round"
+           id="path2276"
+           cx="104.24586"
+           cy="161.00417"
+           r="1.0583334" />
+      </g>
     </g>
   </g>
 </svg>

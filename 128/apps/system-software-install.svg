@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="system-software-install.svg">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="system-software-install.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="81.033143"
-     inkscape:cy="46.039591"
+     inkscape:cx="81.064741"
+     inkscape:cy="46.08821"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,11 +40,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     units="px">
+     units="px"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -193,13 +194,11 @@
            height="23.283335"
            x="84.666664"
            y="144.60001" />
-        <rect
-           style="fill:#ebb16d;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+        <path
            id="rect862"
-           width="28.575003"
-           height="22.225008"
-           x="85.195831"
-           y="145.12917" />
+           style="fill:#ebb16d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 10 34 L 10 118 L 118 118 L 118 34 L 10 34 z M 52 60 A 4.0000003 4.0000003 0 0 1 56 64 A 4.0000003 4.0000003 0 0 1 52 68 A 4.0000003 4.0000003 0 0 1 48 64 A 4.0000003 4.0000003 0 0 1 52 60 z M 64 60 A 4.0000003 4.0000003 0 0 1 68 64 A 4.0000003 4.0000003 0 0 1 64 68 A 4.0000003 4.0000003 0 0 1 60 64 A 4.0000003 4.0000003 0 0 1 64 60 z M 76 60 A 4.0000003 4.0000003 0 0 1 80 64 A 4.0000003 4.0000003 0 0 1 76 68 A 4.0000003 4.0000003 0 0 1 72 64 A 4.0000003 4.0000003 0 0 1 76 60 z M 52 72 A 4.0000003 4.0000003 0 0 1 56 76 A 4.0000003 4.0000003 0 0 1 52 80 A 4.0000003 4.0000003 0 0 1 48 76 A 4.0000003 4.0000003 0 0 1 52 72 z M 64 72 A 4.0000003 4.0000003 0 0 1 68 76 A 4.0000003 4.0000003 0 0 1 64 80 A 4.0000003 4.0000003 0 0 1 60 76 A 4.0000003 4.0000003 0 0 1 64 72 z M 76 72 A 4.0000003 4.0000003 0 0 1 80 76 A 4.0000003 4.0000003 0 0 1 76 80 A 4.0000003 4.0000003 0 0 1 72 76 A 4.0000003 4.0000003 0 0 1 76 72 z M 52 84 A 4.0000003 4.0000003 0 0 1 56 88 A 4.0000003 4.0000003 0 0 1 52 92 A 4.0000003 4.0000003 0 0 1 48 88 A 4.0000003 4.0000003 0 0 1 52 84 z M 64 84 A 4.0000003 4.0000003 0 0 1 68 88 A 4.0000003 4.0000003 0 0 1 64 92 A 4.0000003 4.0000003 0 0 1 60 88 A 4.0000003 4.0000003 0 0 1 64 84 z M 76 84 A 4.0000003 4.0000003 0 0 1 80 88 A 4.0000003 4.0000003 0 0 1 76 92 A 4.0000003 4.0000003 0 0 1 72 88 A 4.0000003 4.0000003 0 0 1 76 84 z "
+           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
         <rect
            style="opacity:1;fill:#a57b50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
            id="rect905"
@@ -255,14 +254,7 @@
            id="rect953" />
         <g
            id="g900"
-           transform="translate(2.1166709,1.0583261)">
-          <path
-             style="opacity:1;fill:#a57b50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-             d="m 52,60 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 12,0 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 12,0 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z M 52,72 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 12,0 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 12,0 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z M 52,84 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 12,0 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z m 12,0 a 4.0000002,4.0000002 0 0 0 -4,4 4.0000002,4.0000002 0 0 0 4,4 4.0000002,4.0000002 0 0 0 4,-4 4.0000002,4.0000002 0 0 0 -4,-4 z"
-             transform="matrix(0.26458334,0,0,0.26458334,80.433332,135.075)"
-             id="path873"
-             inkscape:connector-curvature="0" />
-        </g>
+           transform="translate(2.1166709,1.0583261)" />
       </g>
     </g>
   </g>

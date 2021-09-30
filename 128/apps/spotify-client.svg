@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="spotify-client.svg">
   <title
      id="title3250">Boston Icons</title>
@@ -27,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0093035"
-     inkscape:cx="-82.529685"
-     inkscape:cy="55.884217"
+     inkscape:zoom="5.6831685"
+     inkscape:cx="55.284049"
+     inkscape:cy="58.48044"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,9 +40,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     units="px">
+     units="px"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -171,7 +170,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -183,7 +182,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,19 +192,18 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g838">
+       id="g861">
       <ellipse
-         ry="15.875006"
-         rx="15.875"
-         cy="153.06667"
-         cx="99.48333"
-         id="path884"
-         style="opacity:1;fill:#1db954;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#1db954;stroke-width:0.1;stroke-linejoin:round"
+         id="path857"
+         cx="99.483337"
+         cy="153.06665"
+         rx="14.816667"
+         ry="14.816665" />
       <path
-         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          id="rect888"
-         d="M 55.171875 36.677734 C 45.049058 36.703805 35.458229 37.993925 27.775391 40.326172 C 24.907466 41.19758 23.291526 44.226487 24.160156 47.09375 C 25.028654 49.960295 28.059822 51.575718 30.925781 50.707031 C 48.773137 45.290288 79.6134 46.311285 98.306641 57.414062 L 98.308594 57.414062 C 100.87811 58.945527 104.21667 58.09601 105.74023 55.517578 C 107.27102 52.943191 106.42721 49.61303 103.84375 48.083984 C 90.392742 40.098835 72.043236 36.634283 55.171875 36.677734 z M 54.048828 56.646484 C 46.142087 56.665652 38.295363 57.740467 31.054688 59.9375 C 28.667217 60.664757 27.318677 63.185949 28.039062 65.578125 C 28.764879 67.965917 31.290024 69.313208 33.681641 68.589844 C 52.121884 62.992515 75.888229 65.768936 91.478516 75.353516 C 93.604201 76.661371 96.387992 75.989307 97.697266 73.861328 C 99.005076 71.738221 98.33476 68.953974 96.208984 67.644531 C 84.459782 60.424434 69.143515 56.609892 54.048828 56.646484 z M 56.568359 75.576172 C 49.194468 75.440751 41.351533 76.319305 33.066406 78.212891 C 31.115962 78.656191 29.902379 80.595504 30.347656 82.541016 C 30.790934 84.486452 32.730273 85.705624 34.675781 85.261719 C 54.864827 80.648919 72.0074 82.533578 85.625 90.851562 C 87.328849 91.898227 89.558891 91.358713 90.597656 89.654297 C 91.6433 87.950486 91.104239 85.728381 89.400391 84.681641 C 79.845296 78.842176 68.858178 75.801874 56.568359 75.576172 z "
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 96.826291,145.82929 c -2.678329,0.007 -5.215902,0.34824 -7.248653,0.96531 -0.758805,0.23056 -1.186356,1.03196 -0.956531,1.79059 0.22979,0.75844 1.031786,1.18586 1.790071,0.95602 4.722113,-1.43318 12.881932,-1.16305 17.827852,1.77456 h 5.3e-4 c 0.67985,0.4052 1.56318,0.18044 1.96629,-0.50177 0.40502,-0.68114 0.18176,-1.56225 -0.50178,-1.96681 -3.55892,-2.11274 -8.4139,-3.0294 -12.877779,-3.0179 z m -0.29714,5.2834 c -2.091992,0.005 -4.168104,0.28945 -6.083866,0.87074 -0.631685,0.19242 -0.988486,0.85949 -0.797884,1.49242 0.192039,0.63177 0.86015,0.98824 1.492932,0.79685 4.878981,-1.48096 11.167157,-0.74637 15.292087,1.78955 0.56243,0.34604 1.29897,0.16822 1.64538,-0.3948 0.34603,-0.56174 0.16867,-1.29841 -0.39377,-1.64486 -3.10865,-1.91032 -7.16107,-2.91959 -11.154879,-2.9099 z m 0.666626,5.00848 c -1.951008,-0.0358 -4.026118,0.19662 -6.218225,0.69763 -0.516055,0.11729 -0.837149,0.6304 -0.719336,1.14515 0.117284,0.51473 0.630401,0.8373 1.14515,0.71985 5.341685,-1.22047 9.877324,-0.72182 13.480314,1.47898 0.45081,0.27693 1.04084,0.13418 1.31568,-0.31678 0.27666,-0.4508 0.13404,-1.03873 -0.31677,-1.31568 -2.52812,-1.54502 -5.43513,-2.34944 -8.686813,-2.40915 z"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

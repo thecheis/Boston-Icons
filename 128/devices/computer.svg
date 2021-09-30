@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="128"
    height="128"
@@ -8,7 +6,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="drive-harddisk-solidstate.svg"
+   sodipodi:docname="computer.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="30.052038"
-     inkscape:cy="72.604714"
+     inkscape:zoom="5.6"
+     inkscape:cx="60.982143"
+     inkscape:cy="68.839286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,6 +43,7 @@
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
+     inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -66,7 +65,7 @@
        id="guide3218"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="33.866657,24.870836"
+       position="33.866663,-3.1749907"
        orientation="1,0"
        id="guide3220"
        inkscape:locked="false" />
@@ -146,10 +145,14 @@
        id="guide843"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="30.162497,26.458325"
+       position="6.3499966,26.458324"
        orientation="0,1"
        id="guide845"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.93333,20.637509"
+       orientation="1,0"
+       id="guide1726" />
   </sodipodi:namedview>
   <metadata
      id="metadata2631">
@@ -167,7 +170,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -179,7 +182,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,56 +192,49 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g867">
+       id="g3106">
       <rect
-         rx="0.529167"
-         ry="0.52917367"
-         y="137.19167"
-         x="87.841667"
-         height="31.750008"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linejoin:round"
+         id="rect2461"
          width="23.283333"
-         id="rect910"
-         style="opacity:1;fill:#373b43;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         height="0.5291574"
+         x="87.841667"
+         y="167.35414"
+         rx="8.5529211e-07" />
       <path
-         id="rect908"
-         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
-         d="m 22,6 v 116 h 28 v -6 h 48 v 6 h 8 V 6 Z"
-         style="opacity:1;fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect1007"
-         style="opacity:1;fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 52 118 L 52 122 L 64 122 L 64 118 L 52 118 z M 68 118 L 68 122 L 96 122 L 96 118 L 68 118 z "
+         id="rect858"
+         style="fill:#2f3744;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8 14 L 8 88 L 52 88 L 52 104 L 40 104 L 40 108 L 88 108 L 88 104 L 76 104 L 76 88 L 120 88 L 120 14 L 8 14 z "
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
-      <circle
-         r="0.5291667"
-         cy="139.30833"
-         cx="89.958336"
-         id="path851"
-         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="0.5291667"
-         cy="139.30833"
-         cx="109.00833"
-         id="path853"
-         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="0.5291667"
-         cy="165.2375"
-         cx="109.00833"
-         id="path855"
-         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="0.5291667"
-         cy="165.2375"
-         cx="89.958336"
-         id="path857"
-         style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.11666679;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         rx="8.5529211e-07"
+         y="140.36665"
+         x="85.195831"
+         height="17.991667"
+         width="28.575003"
+         id="rect860"
+         style="fill:#2d8cff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         id="rect848"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 50 36 L 50 44 L 46 44 L 46 48 L 38 48 L 38 52 L 46 52 L 46 56 L 38 56 L 38 60 L 46 60 L 46 64 L 38 64 L 38 68 L 46 68 L 46 72 L 38 72 L 38 76 L 46 76 L 46 80 L 50 80 L 50 88 L 54 88 L 54 80 L 58 80 L 58 88 L 62 88 L 62 80 L 66 80 L 66 88 L 70 88 L 70 80 L 74 80 L 74 88 L 78 88 L 78 80 L 82 80 L 82 76 L 90 76 L 90 72 L 82 72 L 82 68 L 90 68 L 90 64 L 82 64 L 82 60 L 90 60 L 90 56 L 82 56 L 82 52 L 90 52 L 90 48 L 82 48 L 82 44 L 78 44 L 78 36 L 74 36 L 74 44 L 70 44 L 70 36 L 66 36 L 66 44 L 62 44 L 62 36 L 58 36 L 58 44 L 54 44 L 54 36 L 50 36 z M 48 46 L 80 46 L 80 78 L 48 78 L 48 46 z M 52 50 L 52 74 L 76 74 L 76 50 L 52 50 z M 54 52 L 74 52 L 74 72 L 54 72 L 54 52 z M 56 54 L 56 58 L 64 58 L 64 54 L 56 54 z M 56 60 L 56 62 L 60 62 L 60 60 L 56 60 z M 62 60 L 62 62 L 64 62 L 64 60 L 62 60 z M 66 60 L 66 62 L 70 62 L 70 60 L 66 60 z M 56 64 L 56 66 L 58 66 L 58 64 L 56 64 z M 60 64 L 60 66 L 64 66 L 64 64 L 60 64 z M 66 64 L 66 66 L 68 66 L 68 64 L 66 64 z "
-         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
+         id="rect2027"
+         style="fill:#2f3744;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linejoin:round"
+         d="m 87.84167,167.35415 v 0.52917 l -4e-6,1.05832 H 111.125 v -1.05832 -0.52917 h -1.05833 v 0.52917 h -0.52917 v -0.52917 h -1.05833 v 0.52917 H 107.95 v -0.52917 h -1.05833 v 0.52917 h -0.52917 v -0.52917 h -1.05833 v 0.52917 H 104.775 v -0.52917 h -1.05833 v 0.52917 h -0.52917 v -0.52917 h -1.05833 v 0.52917 H 101.6 v -0.52917 h -4.23333 v 0.52917 h -0.529167 v -0.52917 H 95.77917 v 0.52917 h -0.529167 v -0.52917 H 94.19167 v 0.52917 h -0.529167 v -0.52917 H 92.60417 v 0.52917 h -0.529167 v -0.52917 H 91.01667 v 0.52917 h -0.529167 v -0.52917 H 89.42917 v 0.52917 h -0.529167 v -0.52917 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         style="fill:#252627;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect2727"
+         width="6.3500004"
+         height="0.5291667"
+         x="96.308334"
+         y="159.41666"
+         rx="8.5529211e-07" />
+      <rect
+         style="fill:none;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect3075"
+         width="33.866669"
+         height="33.86668"
+         x="82.549995"
+         y="136.13332"
+         rx="8.5529211e-07" />
     </g>
   </g>
 </svg>
