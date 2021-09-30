@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="x-office-drawing-template.svg">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="x-office-drawing-template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="9.6163297"
-     inkscape:cy="81.406748"
+     inkscape:cx="62.881995"
+     inkscape:cy="59.220193"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,11 +40,12 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     units="px">
+     units="px"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -190,16 +191,6 @@
        id="guide885"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="17.991663,16.404158"
-       orientation="0.70710678,0.70710678"
-       id="guide894"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="22.754163,10.054158"
-       orientation="-0.70710678,0.70710678"
-       id="guide896"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="11.641663,16.404158"
        orientation="0,1"
        id="guide921"
@@ -221,7 +212,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -233,7 +224,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -243,100 +234,39 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g4828">
+       id="g1235">
       <g
-         id="g4815">
+         id="g911">
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect851"
            d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
-           id="rect851" />
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
         <path
-           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-           d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -0.52916,-0.52916 v 25.4 H 88.370836 v -30.69167 h 16.933334 l -0.52917,-0.52917 z"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:connector-curvature="0"
            id="rect840"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccc" />
+           d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -0.52916,-0.52916 v 25.4 H 88.370836 v -30.69167 h 16.933334 l -0.52917,-0.52917 z"
+           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         <path
-           inkscape:connector-curvature="0"
-           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path863"
            d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z m 0.52916,0.79375 5.55625,5.55625 H 104.775 Z"
-           id="path863" />
-        <rect
-           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
            id="rect908"
-           width="2.1166701"
-           height="0.52916473"
-           x="96.308334"
-           y="-144.07085"
-           transform="scale(1,-1)" />
-        <rect
-           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect910"
-           width="2.1166666"
-           height="0.52916664"
-           x="99.48333"
-           y="-144.07085"
-           transform="scale(1,-1)" />
-        <rect
-           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect912"
-           width="5.2916732"
-           height="0.52917457"
-           x="96.308334"
-           y="-142.48335"
-           transform="scale(1,-1)" />
-        <rect
-           style="opacity:1;fill:#623ea4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect885"
-           width="1.0583366"
-           height="1.0583365"
-           x="107.42083"
-           y="165.2375" />
+           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 34 22 L 34 24 L 54 24 L 54 22 L 34 22 z M 34 28 L 34 30 L 42 30 L 42 28 L 34 28 z M 46 28 L 46 30 L 54 30 L 54 28 L 46 28 z M 77 42 L 64 68 L 65 68 L 90 68 L 77 42 z M 65 68 C 57.820285 68 52 73.820296 52 81 C 52 88.179704 57.820285 94 65 94 C 72.179666 94 78 88.179704 78 81 C 78 73.820296 72.179666 68 65 68 z M 64 68 L 64 44 L 40 44 L 40 68 L 64 68 z M 86 110 L 86 114 L 94 114 L 94 110 L 86 110 z "
+           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-           x="79.904167"
+           id="text872"
            y="155.18333"
-           id="text872"><tspan
-             sodipodi:role="line"
-             id="tspan870"
-             x="79.904167"
-             y="161.9743"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Bold';stroke-width:0.26458335" /></text>
-        <g
-           aria-label="D"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.40556622px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';letter-spacing:0px;word-spacing:0px;fill:#7e86c4;fill-opacity:1;stroke:none;stroke-width:0.28958389"
-           id="text4569-3"
-           transform="translate(4.2187503e-7,-1.6578125e-5)">
-          <path
-             d="m 92.732362,145.12918 c 0.991155,0 1.658278,-0.65283 1.658278,-1.59158 0,-0.9292 -0.667123,-1.58679 -1.663043,-1.58679 h -1.181761 v 3.17837 z m -0.0048,-0.49082 h -0.624237 v -2.19674 h 0.629002 c 0.705245,0 1.086458,0.48605 1.086458,1.09598 0,0.60518 -0.400275,1.10076 -1.091223,1.10076 z"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Semi-Bold';fill:#96a5af;stroke-width:0.25527668"
-             id="path4593-6"
-             inkscape:connector-curvature="0" />
-        </g>
-        <path
-           style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 93.133333,148.30417 v 6.35 h 6.35 v -6.35 z"
-           id="rect846"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 99.74792,154.65417 c -1.899633,0 -3.439587,1.53995 -3.439587,3.43958 0,1.89963 1.539954,3.43958 3.439587,3.43958 1.89962,0 3.43957,-1.53995 3.43957,-3.43958 0,-1.89963 -1.53995,-3.43958 -3.43957,-3.43958 z"
-           id="path848"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssss" />
-        <path
-           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 102.92291,147.775 -3.439577,6.87917 h 6.879157 z"
-           id="path850"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccc" />
+           x="79.904167"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve" />
       </g>
       <g
-         id="g880"
-         transform="translate(-4.01e-6,8.71e-6)">
+         id="g880">
         <path
            style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 108,64 -88,60 h 88 z M 94,90.999999 V 110 H 65 Z"
