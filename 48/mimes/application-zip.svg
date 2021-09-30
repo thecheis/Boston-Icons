@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="inode-directory.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="application-zip.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -28,8 +26,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="19.382302"
-     inkscape:cy="32.924659"
+     inkscape:cx="21.794627"
+     inkscape:cy="24.766683"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,10 +40,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:pagecheckerboard="0">
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -71,39 +69,9 @@
        id="guide3226"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0.52916318,6.8791574"
-       orientation="1,0"
-       id="guide3228"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1.0583298,6.8791574"
-       orientation="1,0"
-       id="guide3234"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1.5874965,6.8791574"
-       orientation="1,0"
-       id="guide3236"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="6.3499965,7.9374908"
        orientation="1,0"
        id="guide3238"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="13.75833,1.0583241"
-       orientation="0,1"
-       id="guide3246"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="16.404162,3.1749959"
-       orientation="0,1"
-       id="guide3248"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="5.2916632,10.054157"
-       orientation="0,1"
-       id="guide862"
        inkscape:locked="false" />
     <sodipodi:guide
        position="5.8208298,12.170824"
@@ -111,24 +79,44 @@
        id="guide864"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="6.8791632,11.641657"
+       position="2.1166616,12.170822"
+       orientation="1,0"
+       id="guide1119"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10.583328,11.112488"
+       orientation="1,0"
+       id="guide1121"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.493745,6.879155"
+       orientation="0.70710678,0.70710678"
+       id="guide1123"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.9374949,9.7895716"
+       orientation="1,0"
+       id="guide1129"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.4395782,8.2020716"
+       orientation="1,0"
+       id="guide1138"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.2604115,7.1437383"
+       orientation="1,0"
+       id="guide1140"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.7624949,8.466655"
        orientation="0,1"
-       id="guide866"
+       id="guide1152"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="12.17083,8.4666574"
-       orientation="1,0"
-       id="guide868"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="11.641663,8.4666574"
-       orientation="1,0"
-       id="guide870"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="11.112496,8.4666574"
-       orientation="1,0"
-       id="guide872"
+       position="5.2916616,3.704155"
+       orientation="0,1"
+       id="guide849"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -147,7 +135,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -159,7 +147,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,31 +157,34 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g843">
+       id="g912">
       <path
-         sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
-         id="path881"
-         d="m 83.079166,159.94584 4.762499,1e-5 1.058333,1.05833 h 5.820835 v 8.46666 H 83.079166 Z"
-         style="fill:#2d8cff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path1125"
+         d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
+         style="fill:#a57b50;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
-         id="path906"
-         d="m 83.343748,160.21043 h 4.365627 l 0.793753,0.79375 -0.661463,0.79375 h -4.497917 v -1.5875"
-         style="fill:#6fb7ff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path1127"
+         d="m 84.931248,158.09376 h 5.688547 l 2.248958,2.24895 -5e-6,8.86355 h -7.9375 z"
+         style="fill:#ebb16d;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="ccccccc"
+         id="rect1133"
+         d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 l -2.381255,-2.38124 5e-6,-1e-5 z"
+         style="fill:#a57b50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         id="path908"
-         d="m 83.079166,162.06251 h 4.7625 l 1.058333,-1.05833 h 5.820834 v 8.46666 H 83.079166 Z"
-         style="fill:#2d8cff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         sodipodi:nodetypes="ccccccccc" />
       <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path910"
-         d="m 83.343748,162.06251 h 4.64344 l 0.661463,-0.79375 h 5.807597 v 7.9375 h -11.1125 z"
-         style="fill:#6fb7ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="rect868"
+         style="fill:#a57b50;stroke-width:0.500001;stroke-linejoin:round"
+         d="m 13,3 v 2 h 2 V 3 Z m 2,2 v 2 h 2 V 5 Z m 0,2 h -2 v 2 h 2 z m 0,2 v 2 h 2 V 9 Z m 0,2 h -2 v 2 h 2 z m 0,2 v 2 h 2 v -2 z m 0,2 h -2 v 2 h 2 z m 0,2 v 2 h 2 v -2 z m 0,2 h -2 v 2 h 2 z m 0,2 v 2 h 2 v -2 z m 0,2 h -2 v 2 h 2 z m -2,3 v 8 h 4 v -8 z m 1,4 h 2 v 3 h -2 z"
+         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
+      <path
+         id="rect895"
+         style="fill:#a57b50;stroke-width:0.500001;stroke-linejoin:round"
+         d="m 26,39 v 4 h 2 v -4 z m 3,0 v 4 h 1 v -4 z m 2,0 v 4 h 1 v -4 z m 2,0 v 4 h 2 v -4 z m 3,0 v 4 h 1 v -4 z"
+         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
     </g>
   </g>
 </svg>
