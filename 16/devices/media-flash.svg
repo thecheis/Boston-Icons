@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="16"
    height="16"
@@ -8,7 +6,7 @@
    version="1.1"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    viewBox="0 0 16 16"
-   sodipodi:docname="dosbox.svg"
+   sodipodi:docname="media-flash.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -17,7 +15,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title815">Boston Icons</title>
+     id="title4518">Boston Icons</title>
   <defs
      id="defs4161">
     <inkscape:perspective
@@ -27,15 +25,6 @@
        inkscape:vp_z="16 : 8 : 1"
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
        id="perspective4709" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath5603">
-      <path
-         style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 61.912499,165.76667 -6.879168,6.87917 6.879168,6.87916 6.879167,-6.87916 z"
-         id="path5605"
-         inkscape:connector-curvature="0" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -44,10 +33,10 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="44.395604"
-     inkscape:cx="5.2707921"
-     inkscape:cy="7.3993813"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="34.869203"
+     inkscape:cx="7.3560614"
+     inkscape:cy="7.9869907"
+     inkscape:current-layer="g2347"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -58,20 +47,11 @@
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
+     inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
-    <sodipodi:guide
-       position="1,1"
-       orientation="-0.70710678,0.70710678"
-       id="guide833"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3,13"
-       orientation="0.70710678,0.70710678"
-       id="guide835"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -89,19 +69,19 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,28 +90,32 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g871">
-      <rect
-         y="0"
-         x="0"
-         height="16"
-         width="16"
-         id="rect827"
-         style="opacity:1;fill:#ea5b2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         ry="1"
-         rx="1" />
-      <rect
-         y="2"
-         x="2"
-         height="12"
-         width="12"
-         id="rect831"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect837"
-         d="M 4,0 V 2 L 8,6 12,2 V 0 Z M 0,4 v 8 H 2 L 6,8 2,4 Z m 14,0 -4,4 4,4 h 2 V 4 Z m -6,6 -4,4 v 2 h 8 v -2 z"
-         style="opacity:1;fill:#ea5b2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       id="g2347">
+      <g
+         id="g2539">
+        <path
+           id="rect1434"
+           style="fill:#373b43;stroke-linejoin:round"
+           d="M 6,0 2,4 V 16 H 14 V 0 Z"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           id="path1519"
+           style="fill:#252627;stroke-linejoin:round"
+           d="M 6,0 2,4 V 16 H 14 V 0 Z M 6.5,1 H 13 V 15 H 3 V 4.5 Z"
+           sodipodi:nodetypes="cccccccccccc" />
+        <rect
+           style="fill:#ffffff;stroke-width:0.5;stroke-linejoin:round"
+           id="rect1316"
+           width="1"
+           height="4"
+           x="13"
+           y="-8"
+           transform="rotate(90)" />
+        <path
+           id="rect1316-3"
+           style="fill:#ffc61b;stroke-width:0.5;stroke-linejoin:round"
+           d="M 7 2 L 7 6 L 8 6 L 8 2 L 7 2 z M 9 2 L 9 6 L 10 6 L 10 2 L 9 2 z M 11 2 L 11 6 L 12 6 L 12 2 L 11 2 z M 5 4 L 5 8 L 6 8 L 6 4 L 5 4 z " />
+      </g>
     </g>
   </g>
 </svg>
