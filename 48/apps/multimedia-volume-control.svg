@@ -8,7 +8,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
-   sodipodi:docname="dosbox.svg"
+   sodipodi:docname="multimedia-volume-control.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="18.561553"
-     inkscape:cy="24.780304"
+     inkscape:cx="17.141026"
+     inkscape:cy="24.085825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -101,7 +101,7 @@
        id="guide1140"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4.7624949,8.466655"
+       position="1.5874949,8.7312617"
        orientation="0,1"
        id="guide1152"
        inkscape:locked="false" />
@@ -111,7 +111,7 @@
        id="guide849"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-0.5291717,6.3499883"
+       position="2.9104116,5.820845"
        orientation="0,1"
        id="guide837"
        inkscape:locked="false" />
@@ -121,15 +121,21 @@
        id="guide839"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.1166616,2.116655"
-       orientation="-0.70710678,0.70710678"
-       id="guide842"
-       inkscape:locked="false" />
+       position="2.3812449,8.202095"
+       orientation="1,0"
+       id="guide1075" />
     <sodipodi:guide
-       position="1.0583283,11.641655"
-       orientation="0.70710678,0.70710678"
-       id="guide844"
-       inkscape:locked="false" />
+       position="10.318745,8.995845"
+       orientation="1,0"
+       id="guide1077" />
+    <sodipodi:guide
+       position="1.3229116,9.789595"
+       orientation="0,-1"
+       id="guide1079" />
+    <sodipodi:guide
+       position="4.7624949,6.8791783"
+       orientation="0,-1"
+       id="guide1081" />
   </sodipodi:namedview>
   <metadata
      id="metadata2631">
@@ -147,7 +153,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2019</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -159,7 +165,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,29 +175,115 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g877">
+       id="g2442">
       <rect
          y="157.82918"
          x="83.079163"
          height="11.641666"
          width="11.641666"
          id="rect841"
-         style="opacity:1;fill:#ea5b2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          ry="0.52914387"
          rx="0.52916074" />
       <rect
-         y="158.88751"
-         x="84.137497"
-         height="9.5249996"
-         width="9.5249996"
-         id="rect837"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect839"
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
-         d="M 12,2 V 6 L 24,18 36,6 V 2 Z M 2,12 V 36 H 6 L 18,24 6,12 Z m 40,0 -12,12 12,12 h 4 V 12 Z M 24,30 12,42 v 4 h 24 v -4 z"
-         style="opacity:1;fill:#ea5b2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#ffffff;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect1145"
+         width="11.1125"
+         height="11.1125"
+         x="83.34375"
+         y="158.09373"
+         rx="0.26458856"
+         ry="0.26458699" />
+      <rect
+         style="fill:#2d8cff;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect1271"
+         width="7.9375"
+         height="1.0583565"
+         x="84.931252"
+         y="160.21039"
+         rx="0.52917033"
+         ry="0.52917826" />
+      <rect
+         style="fill:#cdd5d9;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect1669"
+         width="5.8208447"
+         height="1.0583521"
+         x="87.047913"
+         y="160.21039"
+         rx="0.52917796"
+         ry="0.52917606" />
+      <circle
+         style="fill:#2d8cff;stroke-width:0.264583;stroke-linejoin:round"
+         id="path1563"
+         cx="87.047913"
+         cy="160.73955"
+         r="1.0583333" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.264583;stroke-linejoin:round"
+         id="path1587"
+         cx="87.047913"
+         cy="160.73955"
+         r="0.79374999" />
+      <rect
+         style="fill:#2d8cff;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect2019"
+         width="7.9375"
+         height="1.0583565"
+         x="84.931252"
+         y="163.12082"
+         rx="0.52917033"
+         ry="0.52917826" />
+      <rect
+         style="fill:#cdd5d9;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect2021"
+         width="2.116678"
+         height="1.058347"
+         x="90.752083"
+         y="163.12082"
+         rx="0.52917796"
+         ry="0.5291692" />
+      <circle
+         style="fill:#2d8cff;stroke-width:0.264583;stroke-linejoin:round"
+         id="circle2023"
+         cx="90.752083"
+         cy="163.64998"
+         r="1.0583333" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.264583;stroke-linejoin:round"
+         id="circle2025"
+         cx="90.752083"
+         cy="163.64998"
+         r="0.79374999" />
+      <rect
+         style="fill:#2d8cff;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect2027"
+         width="7.9375"
+         height="1.0583565"
+         x="84.931252"
+         y="166.03123"
+         rx="0.52917033"
+         ry="0.52917826" />
+      <rect
+         style="fill:#cdd5d9;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect2029"
+         width="3.9687612"
+         height="1.058346"
+         x="88.900002"
+         y="166.03123"
+         rx="0.52917796"
+         ry="0.52917022" />
+      <circle
+         style="fill:#2d8cff;stroke-width:0.264583;stroke-linejoin:round"
+         id="circle2031"
+         cx="88.900002"
+         cy="166.56039"
+         r="1.0583333" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.264583;stroke-linejoin:round"
+         id="circle2033"
+         cx="88.900002"
+         cy="166.56039"
+         r="0.79374999" />
     </g>
   </g>
 </svg>
