@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    viewBox="0 0 16 16"
-   sodipodi:docname="audacity-symbolic.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="phone-symbolic.svg">
   <title
      id="title4518">Boston Icons</title>
   <defs
      id="defs4161">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1004">
-      <stop
-         style="stop-color:#1a1a1a;stop-opacity:1;"
-         offset="0"
-         id="stop1000" />
-      <stop
-         style="stop-color:#1a1a1a;stop-opacity:0"
-         offset="1"
-         id="stop1002" />
-    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 8 : 1"
@@ -40,15 +25,6 @@
        inkscape:vp_z="16 : 8 : 1"
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
        id="perspective4709" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1004"
-       id="linearGradient1006"
-       x1="15"
-       y1="6"
-       x2="11"
-       y2="6"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,21 +33,21 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="14.010396"
-     inkscape:cy="7.3655941"
+     inkscape:zoom="31.392433"
+     inkscape:cx="9.8265813"
+     inkscape:cy="9.0659017"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -92,7 +68,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -104,7 +81,6 @@
           </rdf:Bag>
         </dc:subject>
         <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,9 +89,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       id="path1155"
-       style="fill:#252627;stroke-width:0.5;stroke-linejoin:round"
-       d="M 8,0 C 3.581722,0 0,3.581722 0,8 v 8 H 2 3 V 13 10 H 2 V 8 C 2,4.6862915 4.6862915,2 8,2 c 3.313708,0 6,2.6862915 6,6 v 2 h -1 v 2 4 h 1 2 V 8 C 16,3.581722 12.418278,0 8,0 Z m 4,12 H 8 V 9 l -4,4 h 4 v 3 z"
-       sodipodi:nodetypes="ssccccccsssccccccssccccccc" />
+       d="M 4,0 C 3.446,0 3,0.446 3,1 v 14 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 1 C 13,0.446 12.554,0 12,0 Z m 1,2 h 6 V 14 H 5 Z m 1,10 v 1 h 4 v -1 z"
+       style="fill:#252627;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
+       id="rect834" />
   </g>
 </svg>

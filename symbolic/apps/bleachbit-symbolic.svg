@@ -8,10 +8,9 @@
    version="1.1"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    viewBox="0 0 16 16"
-   sodipodi:docname="audacity-symbolic.svg"
+   sodipodi:docname="bleachbit-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -21,18 +20,6 @@
      id="title4518">Boston Icons</title>
   <defs
      id="defs4161">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1004">
-      <stop
-         style="stop-color:#1a1a1a;stop-opacity:1;"
-         offset="0"
-         id="stop1000" />
-      <stop
-         style="stop-color:#1a1a1a;stop-opacity:0"
-         offset="1"
-         id="stop1002" />
-    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 8 : 1"
@@ -40,15 +27,6 @@
        inkscape:vp_z="16 : 8 : 1"
        inkscape:persp3d-origin="8 : 5.3333333 : 1"
        id="perspective4709" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1004"
-       id="linearGradient1006"
-       x1="15"
-       y1="6"
-       x2="11"
-       y2="6"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="14.010396"
-     inkscape:cy="7.3655941"
+     inkscape:zoom="44.395604"
+     inkscape:cx="10.654208"
+     inkscape:cy="12.062005"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -69,7 +47,7 @@
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -113,9 +91,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       id="path1155"
-       style="fill:#252627;stroke-width:0.5;stroke-linejoin:round"
-       d="M 8,0 C 3.581722,0 0,3.581722 0,8 v 8 H 2 3 V 13 10 H 2 V 8 C 2,4.6862915 4.6862915,2 8,2 c 3.313708,0 6,2.6862915 6,6 v 2 h -1 v 2 4 h 1 2 V 8 C 16,3.581722 12.418278,0 8,0 Z m 4,12 H 8 V 9 l -4,4 h 4 v 3 z"
-       sodipodi:nodetypes="ssccccccsssccccccssccccccc" />
+       id="path824"
+       style="opacity:1;fill:#252627;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2 0 L 2 16 L 6 16 L 6 14 L 4 14 L 4 12 L 6 12 L 6 11 L 4 11 L 4 2 L 12 2 L 12 6 L 14 6 L 14 0 L 2 0 z M 5 3 L 5 4 L 7 4 L 7 3 L 5 3 z M 9 7 L 9 11 L 8 11 C 7.446 11 7 11.446 7 12 L 7 16 L 8 16 L 8 14 L 9 14 L 9 16 L 10 16 L 10 14 L 11 14 L 11 16 L 12 16 L 12 14 L 13 14 L 13 16 L 14 16 L 14 12 C 14 11.446 13.554 11 13 11 L 12 11 L 12 7 L 9 7 z " />
   </g>
 </svg>
