@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   sodipodi:docname="application-vnd.ms-publisher.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="text-x-rpm-spec.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg2634"
    version="1.1"
    viewBox="0 0 12.7 12.7"
    height="48"
-   width="48"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   width="48">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -22,9 +22,9 @@
      inkscape:document-rotation="0"
      units="px"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
+     inkscape:window-y="27"
      inkscape:window-x="0"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -35,16 +35,15 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="21.919643"
-     inkscape:cx="4.4196429"
-     inkscape:zoom="11.2"
+     inkscape:cy="28.052378"
+     inkscape:cx="32.057497"
+     inkscape:zoom="15.839192"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
      bordercolor="#00ffed"
      pagecolor="#ffffff"
-     id="base"
-     inkscape:pagecheckerboard="0">
+     id="base">
     <inkscape:grid
        dotted="false"
        originy="-127.00001"
@@ -171,7 +170,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2020</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -193,13 +192,12 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <g
-       id="g1431">
+       id="g883">
       <path
          style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
          id="path1125"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
+         inkscape:connector-curvature="0" />
       <path
          style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 84.931248,158.09376 h 5.688547 l 2.248958,2.24895 -5e-6,8.86355 h -7.9375 z"
@@ -210,33 +208,13 @@
          inkscape:connector-curvature="0"
          style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
          d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
-         id="rect1133"
-         sodipodi:nodetypes="ccccccccc" />
+         id="rect1133" />
       <path
          id="rect1146"
-         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="m 90.22292,162.0625 v 1.5875 h 1.5875 v -1.5875 z m -4.233334,2.11667 v 1.5875 h 1.5875 v -1.5875 z"
-         sodipodi:nodetypes="cccccccccc" />
-      <path
-         id="rect1148"
-         style="fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="m 85.989581,159.41666 v 0.26458 h 1.5875 v -0.26458 z m 0,0.79375 v 0.26458 h 0.529167 v -0.26458 z m 1.058334,0 v 0.26458 h 0.529166 v -0.26458 z m 3.704166,7.9375 v 0.52916 h 1.058334 v -0.52916 z" />
-      <rect
-         style="fill:#00c28e;stroke-width:0.264583;stroke-linejoin:round"
-         id="rect1299"
-         width="3.175"
-         height="1.5875"
-         x="85.989578"
-         y="162.06248"
-         ry="5.0894191e-06" />
-      <rect
-         style="fill:#00c28e;stroke-width:0.264583;stroke-linejoin:round"
-         id="rect1323"
-         width="3.175"
-         height="1.5875"
-         x="88.635414"
-         y="164.17915"
-         ry="5.0894191e-06" />
+         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         d="m 13,8 v 1 h 8 V 8 Z m 10,0 v 1 h 4 V 8 Z m -10,3 v 1 h 6 v -1 z m 0,5 v 1 l 12.999981,-4.4e-5 v -1 z m 0,3 v 1 l 10.999981,-4.4e-5 v -1 z m 0,3 v 1 l 5.999981,-4.4e-5 v -1 z m 0,5 v 1 l 5.999981,-4.4e-5 v -1 z m 0,3 v 1 l 8.999981,-4.4e-5 v -1 z m 0,3 v 1 l 2.999981,-4.4e-5 v -1 z m 4.999981,-4.4e-5 v 1 h 3 v -1 z M 13,36 v 1 l 4.999981,-4.4e-5 v -1 z"
+         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
   </g>
 </svg>

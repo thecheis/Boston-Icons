@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="x-office-spreadsheet-template.svg">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="x-office-spreadsheet-template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -26,8 +26,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="17.60436"
-     inkscape:cy="23.865155"
+     inkscape:cx="20.897531"
+     inkscape:cy="26.611206"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,12 +38,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3182"
@@ -150,7 +151,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2020</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -172,63 +173,34 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g912">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1125"
-         d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path1127"
-         d="m 84.931248,158.09376 h 5.688547 l 2.248958,2.24895 -5e-6,8.86355 h -7.9375 z"
-         style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="rect1133"
-         d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
-         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         ry="5.0894191e-06"
-         y="159.41667"
-         x="88.106247"
-         height="0.26458076"
-         width="1.5874929"
-         id="rect1148"
-         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="5.0894191e-06"
-         y="160.21043"
-         x="89.164581"
-         height="0.26457772"
-         width="0.52916723"
-         id="rect1150"
-         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="5.0894191e-06"
-         y="160.21043"
-         x="88.106247"
-         height="0.26457772"
-         width="0.52916622"
-         id="rect891"
-         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         ry="5.0894191e-06"
-         y="168.14793"
-         x="91.810417"
-         height="0.52916521"
-         width="0.52916986"
-         id="rect911"
-         style="fill:#06aa8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="m 85.989581,162.32707 v 1.05833 h 2.645833 v -1.05833 z m 3.175001,-1e-5 v 1.05833 h 2.645833 v -1.05833 z m -3.175,1.58751 v 1.05833 h 2.645833 v -1.05833 z m 3.175,-1e-5 v 1.05833 h 2.645833 v -1.05833 z m -3.175001,1.58751 v 1.05834 h 2.645833 v -1.05834 z m 3.175001,-1e-5 v 1.05834 h 2.645832 v -1.05834 z"
-         id="rect941-0"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+       id="g1237">
       <g
-         id="g911">
+         id="g1050">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1125"
+           d="m 84.666665,157.82918 h 6.085416 l 2.38125,2.38125 v 9.26041 h -8.466666 z"
+           style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path1127"
+           d="m 84.931248,158.09376 h 5.688547 l 2.248958,2.24895 -5e-6,8.86355 h -7.9375 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           id="rect1133"
+           d="m 90.487503,157.82917 v 2.38125 0.26458 h 0.264583 2.38125 v -0.26458 h -2.38125 v -2.38125 z"
+           style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="rect1148"
+           style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+           d="M 13 8 L 13 9 L 19 9 L 19 8 L 13 8 z M 13 11 L 13 12 L 15 12 L 15 11 L 13 11 z M 17 11 L 17 12 L 19 12 L 19 11 L 17 11 z M 13 18 L 13 22 L 23 22 L 23 18 L 13 18 z M 25 18 L 25 22 L 35 22 L 35 18 L 25 18 z M 13 24 L 13 28 L 23 28 L 23 24 L 13 24 z M 25 24 L 25 28 L 35 28 L 35 24 L 25 24 z M 13 30 L 13 34 L 23 34 L 23 30 L 13 30 z M 25 30 L 25 34 L 35 34 L 35 30 L 25 30 z M 31 41 L 31 43 L 35 43 L 35 41 L 31 41 z "
+           transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
+      </g>
+      <g
+         id="g911"
+         transform="translate(-4.4999997e-7,-2.507e-5)">
         <path
            sodipodi:nodetypes="cccccccc"
            inkscape:connector-curvature="0"
@@ -254,17 +226,6 @@
            transform="matrix(0.26458333,0,0,0.26458333,82.550008,157.3)"
            id="rect865"
            inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="matrix(0.40102613,0,0,0.40102613,54.625829,93.784337)"
-         id="text849"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';letter-spacing:0px;word-spacing:0px;fill:#06aa8f;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         aria-label="X">
-        <path
-           inkscape:connector-curvature="0"
-           id="path851"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova Bold';fill:#96a5af;stroke-width:0.264583"
-           d="m 81.537574,166.95981 -1.195211,-1.69404 1.121127,-1.6002 h -0.84455 l -0.745772,1.12607 -0.75565,-1.12607 h -0.834672 l 1.121128,1.60514 -1.195211,1.6891 h 0.834672 l 0.829733,-1.20509 0.824795,1.20509 z" />
       </g>
     </g>
   </g>
