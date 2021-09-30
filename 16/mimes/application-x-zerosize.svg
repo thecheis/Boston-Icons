@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -11,9 +13,9 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    viewBox="0 0 16 16"
-   sodipodi:docname="text-x-changelog.svg">
+   sodipodi:docname="gtk-file.svg">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -42,21 +44,20 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="5.8564568"
-     inkscape:cy="6.9189595"
-     inkscape:current-layer="g904"
+     inkscape:zoom="22.197802"
+     inkscape:cx="14.878809"
+     inkscape:cy="6.0664481"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:document-rotation="0">
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -87,8 +88,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
-        <dc:date>2021</dc:date>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -109,28 +110,23 @@
      inkscape:groupmode="layer">
     <g
        id="g884">
-      <g
-         id="g904">
-        <g
-           id="g857">
-          <path
-             id="path839"
-             style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 2,0 v 16 h 2 l 2,-2 2,2 2,-2 2,2 h 2 V 0 Z" />
-          <path
-             id="path841"
-             style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 3,1 v 13.5 h 1 l 2,-2 2,2 2,-2 2,2 h 1 V 1 Z" />
-          <path
-             id="path848"
-             style="fill:#556e81;stroke-width:0.5;stroke-linejoin:round"
-             d="M 4.4882812,3 A 0.5,0.5 0 0 0 4,3.5 0.5,0.5 0 0 0 4.5,4 0.5,0.5 0 0 0 5,3.5 0.5,0.5 0 0 0 4.5,3 0.5,0.5 0 0 0 4.4882812,3 Z M 6,3 v 1 h 4 V 3 Z m 5.488281,0 A 0.5,0.5 0 0 0 11,3.5 0.5,0.5 0 0 0 11.5,4 0.5,0.5 0 0 0 12,3.5 0.5,0.5 0 0 0 11.5,3 0.5,0.5 0 0 0 11.488281,3 Z M 4.4882812,6 A 0.5,0.5 0 0 0 4,6.5 0.5,0.5 0 0 0 4.5,7 0.5,0.5 0 0 0 5,6.5 0.5,0.5 0 0 0 4.5,6 0.5,0.5 0 0 0 4.4882812,6 Z M 11.488281,6 A 0.5,0.5 0 0 0 11,6.5 0.5,0.5 0 0 0 11.5,7 0.5,0.5 0 0 0 12,6.5 0.5,0.5 0 0 0 11.5,6 0.5,0.5 0 0 0 11.488281,6 Z M 4.4882812,9 A 0.5,0.5 0 0 0 4,9.5 0.5,0.5 0 0 0 4.5,10 0.5,0.5 0 0 0 5,9.5 0.5,0.5 0 0 0 4.5,9 0.5,0.5 0 0 0 4.4882812,9 Z M 11.488281,9 A 0.5,0.5 0 0 0 11,9.5 0.5,0.5 0 0 0 11.5,10 0.5,0.5 0 0 0 12,9.5 0.5,0.5 0 0 0 11.5,9 0.5,0.5 0 0 0 11.488281,9 Z" />
-          <path
-             id="rect864"
-             style="fill:#d43838;stroke-width:0.5;stroke-linejoin:round"
-             d="M 6,6 V 7 H 8 V 6 Z m 0,3 v 1 H 8 V 9 Z" />
-        </g>
-      </g>
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path839"
+         d="m 2,0 h 9 l 3,3 V 16 H 2 Z"
+         style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path841"
+         d="m 3,1 h 7.5 L 13,3.5 V 15 H 3 Z"
+         style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect843"
+         d="m 10,0 v 4 h 1 3 V 3 H 11 V 0 Z"
+         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
     </g>
   </g>
 </svg>
