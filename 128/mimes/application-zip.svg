@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="model-stl.svg">
+   sodipodi:docname="application-x-zip.svg">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="8.3389523"
-     inkscape:cy="59.889258"
+     inkscape:zoom="5.6"
+     inkscape:cx="85.54652"
+     inkscape:cy="51.991326"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -180,7 +180,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2020</dc:date>
+        <dc:date>2021</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -202,41 +202,34 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g4789">
+       id="g967">
       <path
          id="rect851"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -6.35,-6.35 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ebb16d;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
          id="rect840"
          d="m 87.84167,137.19166 v 31.75 H 111.125 v -25.4 l -0.52916,-0.52916 v 25.4 H 88.370836 v -30.69167 h 16.933334 l -0.52917,-0.52917 z"
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#a57b50;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
       <path
          id="path863"
-         d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z m 0.52916,0.79375 5.55625,5.55625 H 104.775 Z"
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccccccccccccccccccc"
+         d="m 104.24584,137.19166 v 6.87917 h 6.87916 v -0.52917 l -6.35,-6.35 z"
+         style="fill:#a57b50;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         id="path4781"
-         d="m 92.604166,150.42084 v 7.40834 l 6.879167,4.23333 6.879167,-4.23333 v -7.40834 h -0.52916 v 7.08278 l -6.350007,-3.90778 -6.35,3.90778 v -7.08278 z m 6.879167,3.83646 5.714897,3.57188 -5.450314,3.40651 4e-6,-7.1107 h -0.529167 l -4e-6,7.1107 -5.450313,-3.40651 z"
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         sodipodi:nodetypes="cccccc" />
       <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path4781-6-5"
-         d="m 99.483333,146.18748 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z"
-         style="fill:#cdd5d9;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="rect870"
+         style="fill:#a57b50;stroke-width:0.500001;stroke-linejoin:round"
+         d="m 38,6 v 4 h 4 V 6 Z m 4,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m 0,4 v 4 h 4 v -4 z m 0,4 h -4 v 4 h 4 z m -4,6 v 20 h 8 V 68 Z m 2,10 h 4 v 8 h -4 z"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
       <path
-         sodipodi:nodetypes="cccccccccc"
-         inkscape:connector-curvature="0"
-         id="path4781-6"
-         d="m 99.483333,146.18746 -6.879167,4.23333 6.879163,4.23335 6.879171,-4.23335 z m 0,0.66146 5.714997,3.57188 -5.715001,3.57188 -5.714997,-3.57188 z"
-         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="rect882"
+         style="fill:#a57b50;stroke-width:0.500001;stroke-linejoin:round"
+         d="m 74,106 v 12 h 4 v -12 z m 6,0 v 12 h 2 v -12 z m 4,0 v 12 h 2 v -12 z m 4,0 v 12 h 4 v -12 z m 6,0 v 12 h 2 v -12 z m 4,0 v 12 h 4 v -12 z"
+         transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
     </g>
   </g>
 </svg>
