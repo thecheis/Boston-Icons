@@ -1,5 +1,83 @@
 
 
+ 30 Sep 2021 // v 1.0
+ --------------------
+
+ # Design improvements, additions, optimization, corrections. Maintenance.
+ # Styled in The Lion Herder studio.
+
+ 1. Tested on GNOME 40.4 & 41 RC
+ 2. Revised folders
+	Composition and color improvements
+	Explicit blue folder added
+	New optional folder style: Cardboard
+	Adaptations for Cardboard
+ 3. Updated documentation
+ 4. Filetype icons
+	RDF files
+	Gradle
+	New chagelog
+	New compressed files: ZIP, RAR, 7zip, tar.gz, tar.xz, tar.bz2
+	Adobe Flash files
+	.UNX
+	Renewed office icons
+	Renewed PDF
+	Java class
+	Empty file / format
+	Google Drive shortcuts
+	X.509 Certificate (PEM format)
+	Core / program crash data
+ 5. App icons
+	Spotify improved
+	System software update improved
+	Minigalaxy (& symbolic)
+	Pavucontrol (multimedia volume control)
+	Soundconverter (& symbolic)
+	Revised DOSBox (& symbolic)
+	BleachBit (& symbolic)
+ 6. Device icons
+	Phone
+	Media removable
+	Renewed drive hard disk
+	Renewed hard disk USB / removable drive
+	Media flash
+	Revised 16px drives
+	Hard drives revised
+	Drive optical
+	Drive multidisk
+	Audio card
+	Computer
+	System drive
+ 7. Legacy icons
+	Document open
+	Folder new
+	Folder visiting
+	Dialog warning
+	Dialog error
+	Dialog information
+	Help about (& symbolic)
+	Revised dialog question
+	Image missing
+ 8. Symbolic icons
+	Min (web browser) / minbrowser.org
+	DOSBox Staging
+	New Audacity
+	Smartphone
+	GSConnect
+	Raspberry Pi Imager
+	Office calendar
+	Nyxt browser (https://nyxt.atlas.engineer/)
+ 9. Renewed desktop
+ 10. Fixed size warnings when launching apps on command line 
+	(thanks to Michael Alexandre Salim || michel@michel-slm.name ||)
+ 11. Improved size rules on index
+ 12. KDE activities folder
+ 13. Renewed image loading
+ 14. Initial Raspberry Pi OS desktop compatibility
+ 15. Start here icon
+
+ =====================================================================
+
  2 Sep 2021 // v 0.9.1
  ---------------------
 

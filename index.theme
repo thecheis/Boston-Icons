@@ -1,49 +1,54 @@
-#	==========
-#	  BOSTON    /   IT01
-#	==========
+# ------------------
+# 	BOSTON    
+# ------------------
 
 [Icon Theme]
-Name=Boston
+Name=Boston (cardboard)
 Comment=Minimalist and functional icon theme.
 Comment[es]=Tema de iconos minimalista y funcional.
 Comment[gl]=Tema de iconas minimalista e funcional.
 Comment[it]=Tema di icone minimalista e funzionale.
+Comment[de]=Minimalistisches und funktionales Symbolthema.
 
 Example=folder
 
-Inherits=Adwaita,gnome,hicolor,breeze,
+Inherits=Adwaita,gnome,hicolor,breeze,PiXflat,
 
 # KDE COMPATIBILITY
 # -----------------
+
 DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
 DesktopDefault=48
-DesktopSizes=16,22,32,48,64,128,256
+DesktopSizes=16,22,32,48,64,72,96,128
 ToolbarDefault=22
 ToolbarSizes=16,22,32,48
 MainToolbarDefault=22
 MainToolbarSizes=16,22,32,48
 SmallDefault=16
 SmallSizes=16
-PanelDefault=48
-PanelSizes=16,22,32,48,64,128,256
+PanelDefault=32
+PanelSizes=16,22,32,48,64,72,96,128
 
-# --------------------------------------DIRECTORIES--------------------------------------
+# -----------DIRECTORIES----------
 
 Directories=legacy/128,legacy/48,legacy/16,symbolic/actions,scalable/apps,symbolic/devices,symbolic/emblems,symbolic/legacy,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/devices,48/mimes,48/places,48/status,16/apps,16/devices,16/mimes,16/places,16/status,
 
-# ----------------------------------------LEGACY-----------------------------------------
+# -------------LEGACY-------------
 
 [legacy/128]
 Context=Legacy
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [legacy/48]
 Context=Legacy
 Size=48
-MinSize=16
+MinSize=24
 MaxSize=48
 Type=Scalable
 
@@ -51,10 +56,10 @@ Type=Scalable
 Context=Legacy
 Size=16
 MinSize=8
-MaxSize=32
+MaxSize=18
 Type=Scalable
 
-# ---------------------------------------SCALABLE----------------------------------------
+# ------------SCALABLE------------
 
 [scalable/apps]
 Context=Applications
@@ -63,7 +68,7 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-# ---------------------------------------SYMBOLICS---------------------------------------
+# ------------SYMBOLICS------------
 
 [symbolic/actions]
 Context=Actions
@@ -121,129 +126,128 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-# ----------------------------------------128--------------------------------------------
+# -------------128-------------
 
 [128/actions]
 Context=Actions
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [128/apps]
 Context=Applications
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [128/devices]
 Context=Devices
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [128/mimes]
 Context=Mimetypes
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [128/places]
 Context=Places
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
 [128/status]
 Context=Status
 Size=128
-MinSize=16
+MinSize=48
 MaxSize=512
 Type=Scalable
 
-# -----------------------------------------48--------------------------------------------
+# -------------48-------------
 
 [48/actions]
 Context=Actions
 Size=48
-MinSize=8
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/apps]
 Context=Applications
 Size=48
-MinSize=8
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/devices]
 Context=Devices
 Size=48
-MinSize=8
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/mimes]
 Context=Mimetypes
 Size=48
-MinSize=8
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/places]
 Context=Places
 Size=48
-MinSize=8
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/status]
 Context=Status
 Size=48
-MinSize=8
+MinSize=24
 MaxSize=48
 Type=Scalable
 
-# -----------------------------------------16--------------------------------------------
+# -------------16-------------
 
 [16/apps]
 Context=Applications
 Size=16
 MinSize=8
-MaxSize=16
+MaxSize=18
 Type=Scalable
 
 [16/devices]
 Context=Devices
 Size=16
 MinSize=8
-MaxSize=16
+MaxSize=18
 Type=Scalable
 
 [16/mimes]
 Context=Mimetypes
 Size=16
 MinSize=8
-MaxSize=16
+MaxSize=18
 Type=Scalable
 
 [16/places]
 Context=Places
 Size=16
 MinSize=8
-MaxSize=16
+MaxSize=18
 Type=Scalable
 
 [16/status]
 Context=Status
 Size=16
 MinSize=8
-MaxSize=16
+MaxSize=18
 Type=Scalable
 
-# 42 6f 73 74 6f 6e 20 69 63 6f 6e 73 20 64 65 73 69 67 6e 65 64 20 62 79 20 43 68 72 69 73 20 44
