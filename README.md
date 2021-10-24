@@ -55,3 +55,7 @@ Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [
   
 <sub>*IT01*<sub>
 
+<p align="left">
+ <img alt="size" name="size" src="https://img.shields.io/github/repo-size/heychrisd/Boston-Icons?color=2d8cff&style=for-the-badge">
+ <img alt="maintenance" name="maintenance" src="https://img.shields.io/maintenance/yes/2022?color=00c28e&style=for-the-badge">
+</p>
