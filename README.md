@@ -1,5 +1,10 @@
-![Boston Icons on desktop](https://github.com/heychrisd/Boston-Icons/blob/master/Pictures/Boston%20A.png)
-![Boston Icons](https://github.com/heychrisd/Boston-Icons/blob/master/Boston-icons-preview.png)
+<p align="right">
+ <img alt="size" name="size" src="https://img.shields.io/github/repo-size/heychrisd/Boston-Icons?color=2d8cff&style=for-the-badge">
+ <img alt="maintenance" name="maintenance" src="https://img.shields.io/maintenance/yes/2022?style=for-the-badge">
+</p>
+
+![Boston Icons on desktop](https://github.com/thecheis/Boston-Icons/blob/master/Pictures/Boston%20A.png)
+![Boston Icons](https://github.com/thecheis/Boston-Icons/blob/master/Boston-icons-preview.png)
 
 <h1 align="center">
  BOSTON
@@ -17,7 +22,7 @@ For maximum enjoyment visualize Files/Nautilus content at 100-133%.
 
 Boston packages (classic and Cardboard) for final use are available on [OpenDesktop](https://www.opendesktop.org/p/1012402/) platform.
 
-[PGP signature check files.](https://github.com/heychrisd/Boston-Icons/tree/master/PGP-Signatures)
+[PGP signature check files.](https://github.com/thecheis/Boston-Icons/tree/master/PGP-Signatures)
 
 ## Support it
 
@@ -34,7 +39,7 @@ Do you like my work and do you want to support it? Share it on social media / [m
 Thanks!
 
 ## Wiki
-[More info](https://github.com/heychrisd/Boston-Icons/wiki) about how to install, philosophy, production, FAQ, etc.
+[More info](https://github.com/thecheis/Boston-Icons/wiki) about how to install, philosophy, production, FAQ, etc.
 
 ## License
 
@@ -45,7 +50,7 @@ Read "LICENSE" file for more info.
 
 ---
 
-Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
+Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
 
 *christiandiaz.design@gmail.com*
 
@@ -54,8 +59,3 @@ Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [
 <sub>Dedicated with love to The Bug and Bruxa.<sub>
   
 <sub>*IT01*<sub>
-
-<p align="left">
- <img alt="size" name="size" src="https://img.shields.io/github/repo-size/heychrisd/Boston-Icons?color=2d8cff&style=for-the-badge">
- <img alt="maintenance" name="maintenance" src="https://img.shields.io/maintenance/yes/2022?style=for-the-badge">
-</p>
