@@ -52,7 +52,9 @@ Read "LICENSE" file for more info.
 
 ---
 
-Designed by Christian D Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
+Designed by Christian Diaz 
+
+Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
 
 *christiandiaz.design@gmail.com*
 
