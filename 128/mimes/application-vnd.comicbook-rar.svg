@@ -8,7 +8,7 @@
    version="1.1"
    id="svg2634"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="application-epub+zip.svg"
+   sodipodi:docname="application-vnd.comicbook-rar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="81.001607"
-     inkscape:cy="46.656421"
+     inkscape:cx="91.039999"
+     inkscape:cy="71.278889"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -204,12 +204,12 @@
      id="layer1"
      transform="translate(-82.550003,-136.13333)">
     <g
-       id="g990">
+       id="g1069">
       <rect
          style="fill:#96a5af;stroke-width:0.529167;stroke-linejoin:round"
          id="rect976"
          width="27.516661"
-         height="4.7625003"
+         height="2.1166654"
          x="85.724998"
          y="142.48332"
          rx="8.5529211e-07" />
@@ -237,21 +237,32 @@
          x="86.254166"
          y="143.01248"
          rx="8.5529211e-07" />
-      <path
+      <rect
+         style="fill:#cdd5d9;stroke-width:1.32292;stroke-linejoin:round"
          id="rect1313"
-         style="fill:#cdd5d9;stroke-width:5.00001;stroke-linejoin:round"
-         d="M 62 26 L 62 106 L 14 106 L 14 110 L 62 110 L 66 110 L 114 110 L 114 106 L 66 106 L 66 26 L 62 26 z "
+         width="26.458334"
+         height="1.0583334"
+         x="86.254166"
+         y="164.17915"
+         rx="8.5529211e-07" />
+      <rect
+         style="fill:#cdd5d9;stroke-width:1.32292;stroke-linejoin:round"
+         id="rect1073"
+         height="22.225"
+         x="98.954163"
+         y="143.01248"
+         rx="8.5529211e-07"
+         width="1.0583307" />
+      <path
+         id="rect2287"
+         style="fill:#96a5af;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+         d="M 22 44 L 22 56 L 42 56 L 42 44 L 22 44 z M 46 44 L 46 56 L 54 56 L 54 44 L 46 44 z M 22 60 L 22 72 L 54 72 L 54 60 L 22 60 z M 22 76 L 22 88 L 36 88 L 36 76 L 22 76 z M 40 76 L 40 88 L 54 88 L 54 76 L 40 76 z "
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
       <path
-         id="rect1449"
-         style="fill:#96a5af;stroke-width:5.00001;stroke-linejoin:round"
-         d="M 30 38 L 34 46 L 38 38 L 35.734375 38 L 34 42 L 32.265625 38 L 30 38 z M 40 38 L 40 46 L 42 46 L 42 38 L 40 38 z M 46 38 L 46 46 L 48 46 L 48 38 L 46 38 z M 22 58 L 22 60 L 56 60 L 56 58 L 22 58 z M 22 64 L 22 66 L 56 66 L 56 64 L 22 64 z M 22 70 L 22 72 L 56 72 L 56 70 L 22 70 z M 22 76 L 22 78 L 38 78 L 38 76 L 22 76 z M 22 82 L 22 84 L 56 84 L 56 82 L 22 82 z M 22 88 L 22 90 L 38 90 L 38 88 L 22 88 z "
+         id="rect2767"
+         style="fill:#96a5af;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+         d="M 74 44 L 74 56 L 106 56 L 106 44 L 74 44 z M 74 60 L 74 72 L 88 72 L 88 60 L 74 60 z M 92 60 L 92 72 L 106 72 L 106 60 L 92 60 z M 74 76 L 74 88 L 82 88 L 82 76 L 74 76 z M 86 76 L 86 88 L 106 88 L 106 76 L 86 76 z "
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
-      <path
-         style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 109.5375,142.4833 h -3.175 l 0,9.52502 1.5875,-2.11665 1.5875,2.11665 z"
-         id="path6257"
-         sodipodi:nodetypes="cccccc" />
     </g>
   </g>
 </svg>
