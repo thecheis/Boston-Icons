@@ -7,7 +7,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="media-removable.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="53.75"
-     inkscape:cy="56.339286"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="45.267461"
+     inkscape:cy="36.049819"
      inkscape:document-units="px"
      inkscape:current-layer="g3101"
      showgrid="false"
@@ -42,7 +42,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="0">
@@ -127,7 +127,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -151,16 +151,16 @@
     <g
        id="g3101">
       <g
-         id="g3356">
+         id="g1215">
         <rect
            y="147.77499"
            x="92.074997"
            height="21.166677"
-           width="14.816669"
+           width="14.816667"
            id="rect848"
            style="fill:#556e81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           ry="0"
-           rx="0" />
+           ry="1.058327"
+           rx="1.0583267" />
         <rect
            y="137.19167"
            x="93.133331"
@@ -176,7 +176,9 @@
            width="13.758335"
            height="20.108334"
            x="92.604164"
-           y="148.30415" />
+           y="148.30415"
+           ry="0.52916741"
+           rx="0.52917004" />
         <rect
            style="fill:#cdd5d9;stroke-width:0.132292;stroke-linejoin:round"
            id="rect1150"
@@ -186,9 +188,8 @@
            y="137.72083" />
         <path
            id="rect1196"
-           style="fill:#7a8e9e;stroke-width:0.500001;stroke-linejoin:round"
-           d="M 46 20 L 46 32 L 58 32 L 58 20 L 46 20 z M 70 20 L 70 32 L 82 32 L 82 20 L 70 20 z "
-           transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
+           style="fill:#7a8e9e;stroke-width:0.132292;stroke-linejoin:round"
+           d="m 94.720837,141.425 v 3.175 h 3.175 v -3.175 z m 6.350003,0 v 3.175 h 3.175 v -3.175 z" />
         <path
            id="rect1037"
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

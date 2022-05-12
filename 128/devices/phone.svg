@@ -7,7 +7,7 @@
    viewBox="0 0 33.866667 33.866667"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="phone.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="61.428571"
-     inkscape:cy="101.96429"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="53.096143"
+     inkscape:cy="41.35312"
      inkscape:document-units="px"
      inkscape:current-layer="g3101"
      showgrid="false"
@@ -42,7 +42,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="0">
@@ -127,7 +127,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -159,8 +159,8 @@
            width="16.933334"
            id="rect848"
            style="fill:#252627;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           ry="1.5874885"
-           rx="1.5874972" />
+           ry="1.0583218"
+           rx="1.0583307" />
         <rect
            y="138.77916"
            x="92.074997"
@@ -168,8 +168,8 @@
            width="14.816663"
            id="rect873"
            style="fill:#2d8cff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           ry="1.0583279"
-           rx="1.0583296" />
+           ry="0.52916127"
+           rx="0.52916294" />
         <rect
            style="opacity:1;fill:#ffffff;stroke-width:0.132292;stroke-linejoin:round"
            id="rect2108"
