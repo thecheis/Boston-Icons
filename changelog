@@ -1,4 +1,83 @@
 
+ 12 May 2022 // v 2.0
+ --------------------
+
+ # Revamped folders. Design improvements for better visual integration on GNOME 42 and libadwaita.
+
+ 1. Tested on GNOME 42, 42.1 & 43 Alpha
+ 2. Revised data, metadata, documentation
+ 3. Some SVG cleanup
+ 4. Revamped folders, places and desktop icons
+ 5. Removed activities folder
+ 6. Filetype icons
+	Extended Gzip support
+	Inode directory
+	Snap packages
+	GIF image
+	RAW image
+	XPI (Firefox themes)
+	CBR comic files
+	Revamped video
+		audio
+		eBook
+	VDI & VBOX images
+	Revised addressbook
+		Winhelp
+		Office drawing
+		BMP image
+		Changelog
+		AppImage
+ 7. App icons
+	Revamped system software install
+		Audacity
+	Revised Calibre viewer
+		Sound Converter
+		Bleachbit
+	Chrome Canary & Dev
+ 8. Action icons
+ 	Revamped document-open
+ 9. Symbolic icons
+	Status - image generic
+	Telegram Desktop
+	Tor Browser
+	Spotify (Flatpak support)
+	Revised edit-paste
+		Epsxe
+		DOSBox
+		Bleachbit
+		Brave browser / Brave Beta
+		Drive-harddisk
+		Drive-harddisk-usb
+		Drive-harddisk-solidstate
+		Drive-multidisk
+		Drive-removable-media
+		Media-zip
+		Emblem-photos
+		System-software-install
+	Revamped inode directory
+		folder
+		folder pictures
+		folder videos
+		folder games
+		folder-visiting
+		folder-open
+		folder-drag
+		Pidgin
+		VirtualBox
+	Removed Transmission
+ 10. Devices icons
+ 	Revised drive-harddisk
+ 		Drive-harddisk-solidstate
+ 		Drive-harddisk-system
+ 		Drive-harddisk-usb
+ 		Drive-optical
+ 		Drive-multidisk
+ 		media-removable
+ 		128px phone
+ 11. Legacy icons
+ 	Removed help-about
+ 12. Inherits Arc icons
+ 13. Removed install.sh (K.I.S.S.)
 
  30 Sep 2021 // v 1.0
  --------------------
