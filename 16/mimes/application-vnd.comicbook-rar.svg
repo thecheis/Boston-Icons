@@ -8,7 +8,7 @@
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-vnd.snap.svg"
+   sodipodi:docname="application-vnd.comicbook-rar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -44,9 +44,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="10.113902"
-     inkscape:cy="5.5586644"
+     inkscape:zoom="22.197802"
+     inkscape:cx="1.1487624"
+     inkscape:cy="5.6987624"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -110,34 +110,45 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g1314">
+       id="g1859">
       <rect
-         y="12"
-         x="12"
-         height="4"
-         width="4"
-         id="rect823"
-         style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         id="rect853"
+         width="16"
+         height="14"
+         x="0"
+         y="2"
+         ry="1.92356e-05" />
       <rect
-         y="6"
-         x="6"
-         height="4"
-         width="4"
-         id="rect823-3"
-         style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         id="rect855"
+         width="14"
+         height="12"
+         x="1"
+         y="3"
+         ry="1.92356e-05" />
       <rect
-         y="12"
-         x="6"
-         height="4"
-         width="4"
-         id="rect823-6"
-         style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="fill:#cdd5d9;stroke-width:2;stroke-linejoin:round"
+         id="rect1040"
+         width="2"
+         height="12"
+         x="7"
+         y="3"
+         rx="1.5916199e-05"
+         ry="6.00044e-06" />
+      <rect
+         style="fill:#96a5af;stroke-width:2;stroke-linejoin:round"
+         id="rect1064"
+         width="14"
+         height="2"
+         x="1"
+         y="13"
+         rx="1.5916199e-05"
+         ry="6.00044e-06" />
       <path
-         style="fill:#ff7a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-         d="M 0,0 V 1 H 1 V 0 Z M 3,0 V 1 H 4 V 0 Z m 3,0 v 4 h 4 V 0 Z m 6,0 v 4 h 4 V 0 Z M 0,2 V 4 H 1 V 2 Z M 3,2 V 4 H 4 V 2 Z M 0,5 V 8 H 1 V 5 Z M 3,5 V 8 H 4 V 5 Z m 9,1 v 4 h 4 V 6 Z M 0,9 v 4 H 4 V 9 Z"
-         id="rect825"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
+         id="rect1759"
+         style="fill:#96a5af;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round"
+         d="M 2 5 L 2 7 L 4 7 L 4 5 L 2 5 z M 5 5 L 5 7 L 6 7 L 6 5 L 5 5 z M 10 5 L 10 7 L 14 7 L 14 5 L 10 5 z M 2 8 L 2 10 L 6 10 L 6 8 L 2 8 z M 10 8 L 10 10 L 11 10 L 11 8 L 10 8 z M 12 8 L 12 10 L 14 10 L 14 8 L 12 8 z " />
     </g>
   </g>
 </svg>
