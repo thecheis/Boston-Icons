@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="drive-harddisk-solidstate-symbolic.svg">
+   sodipodi:docname="drive-harddisk-solidstate-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title4518">Boston Icons</title>
   <defs
@@ -36,19 +36,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="5.0943064"
-     inkscape:cy="5.9277227"
+     inkscape:cx="5.1356436"
+     inkscape:cy="5.92401"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -90,9 +91,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
+       id="path852"
        style="opacity:1;fill:#252627;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 2,0 V 16 H 14 V 0 Z m 2,2 h 8 V 12 H 4 Z M 7,4 V 5 H 6 5 V 6 H 6 V 7 H 5 v 1 h 1 v 1 1 H 7 V 9 h 1 v 1 H 9 V 9 h 1 1 V 8 H 10 V 7 h 1 V 6 H 10 V 5 4 H 9 V 5 H 8 V 4 Z M 7,6 H 9 V 8 H 7 Z m -3,7 h 3 v 1 H 4 Z m 7,0 h 1 v 1 h -1 z"
-       id="rect905"
-       inkscape:connector-curvature="0" />
+       d="M 3 0 C 2.965375 0 2.9321362 0.0024575195 2.8984375 0.005859375 C 2.8647388 0.0092612305 2.8314355 0.012892578 2.7988281 0.01953125 C 2.7336133 0.032808594 2.6692344 0.052890625 2.609375 0.078125 C 2.5495156 0.10335938 2.4926367 0.13405077 2.4394531 0.16992188 C 2.3862695 0.20579296 2.3381562 0.24778125 2.2929688 0.29296875 C 2.2477813 0.33815625 2.205793 0.38626954 2.1699219 0.43945312 C 2.1340508 0.49263672 2.1033594 0.54951562 2.078125 0.609375 C 2.0528906 0.66923438 2.0328086 0.73361329 2.0195312 0.79882812 C 2.0128926 0.83143555 2.0092612 0.86473877 2.0058594 0.8984375 C 2.0024575 0.93213623 2 0.965375 2 1 L 2 15 C 2 15.034625 2.0024575 15.067865 2.0058594 15.101562 C 2.0092612 15.135262 2.0128926 15.168564 2.0195312 15.201172 C 2.0328087 15.266387 2.0528906 15.330766 2.078125 15.390625 C 2.1033594 15.450484 2.1340508 15.507363 2.1699219 15.560547 C 2.205793 15.61373 2.2477813 15.661844 2.2929688 15.707031 C 2.3381561 15.752219 2.3862695 15.794207 2.4394531 15.830078 C 2.4926367 15.865949 2.5495156 15.896641 2.609375 15.921875 C 2.6692344 15.947109 2.7336133 15.967191 2.7988281 15.980469 C 2.8314355 15.987107 2.8647388 15.990739 2.8984375 15.994141 C 2.9321362 15.997542 2.965375 16 3 16 L 13 16 C 13.034625 16 13.067865 15.997542 13.101562 15.994141 C 13.135262 15.990739 13.168564 15.987107 13.201172 15.980469 C 13.266387 15.967191 13.330766 15.947109 13.390625 15.921875 C 13.450484 15.896641 13.507363 15.865949 13.560547 15.830078 C 13.61373 15.794207 13.661844 15.752219 13.707031 15.707031 C 13.752219 15.661844 13.794207 15.61373 13.830078 15.560547 C 13.865949 15.507363 13.896641 15.450484 13.921875 15.390625 C 13.947109 15.330766 13.967191 15.266387 13.980469 15.201172 C 13.987107 15.168564 13.990739 15.135261 13.994141 15.101562 C 13.997542 15.067865 14 15.034625 14 15 L 14 1 C 14 0.965375 13.997542 0.93213623 13.994141 0.8984375 C 13.990739 0.86473877 13.987107 0.83143555 13.980469 0.79882812 C 13.967191 0.73361329 13.947109 0.66923438 13.921875 0.609375 C 13.896641 0.54951562 13.865949 0.49263672 13.830078 0.43945312 C 13.794207 0.38626954 13.752219 0.33815625 13.707031 0.29296875 C 13.661844 0.24778125 13.61373 0.20579296 13.560547 0.16992188 C 13.507363 0.13405078 13.450484 0.10335938 13.390625 0.078125 C 13.330766 0.052890625 13.266387 0.032808594 13.201172 0.01953125 C 13.168564 0.012892578 13.135261 0.0092612305 13.101562 0.005859375 C 13.067865 0.0024575195 13.034625 0 13 0 L 3 0 z M 4 2 L 12 2 L 12 12 L 4 12 L 4 2 z M 7 4 L 7 5 L 6 5 L 5 5 L 5 6 L 6 6 L 6 7 L 5 7 L 5 8 L 6 8 L 6 9 L 6 10 L 7 10 L 7 9 L 8 9 L 8 10 L 9 10 L 9 9 L 10 9 L 11 9 L 11 8 L 10 8 L 10 7 L 11 7 L 11 6 L 10 6 L 10 5 L 10 4 L 9 4 L 9 5 L 8 5 L 8 4 L 7 4 z M 7 6 L 9 6 L 9 8 L 7 8 L 7 6 z M 4 13 L 7 13 L 7 14 L 4 14 L 4 13 z M 11 13 L 12 13 L 12 14 L 11 14 L 11 13 z " />
   </g>
 </svg>

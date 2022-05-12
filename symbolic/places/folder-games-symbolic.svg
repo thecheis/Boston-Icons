@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="folder-games-symbolic.svg">
+   sodipodi:docname="folder-games-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title820">Boston Icons</title>
   <defs
@@ -35,18 +35,19 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.197802"
-     inkscape:cx="0.27400987"
-     inkscape:cy="8.180198"
+     inkscape:zoom="31.392433"
+     inkscape:cx="-1.8635064"
+     inkscape:cy="8.170759"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -67,8 +68,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -80,6 +80,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +91,6 @@
     <path
        id="path4144"
        style="opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 10,11.5 A 0.5,0.5 0 0 1 9.5,12 0.5,0.5 0 0 1 9,11.5 0.5,0.5 0 0 1 9.5,11 0.5,0.5 0 0 1 10,11.5 Z m 1,-2 A 0.5,0.5 0 0 1 10.5,10 0.5,0.5 0 0 1 10,9.5 0.5,0.5 0 0 1 10.5,9 0.5,0.5 0 0 1 11,9.5 Z M 5,10 h 3 v 1 H 5 Z M 6,9 h 1 v 3 H 6 Z M 5,3 h 6 V 8 H 5 Z M 2,16 V 14 2 0 h 12 v 2 12 l -2,2 z m 2,-2 h 7 l 1,-1 V 2 H 4 Z"
-       inkscape:connector-curvature="0" />
+       d="M 3 0 C 2.965375 0 2.9321362 0.0024575195 2.8984375 0.005859375 C 2.8647388 0.0092612305 2.8314355 0.012892578 2.7988281 0.01953125 C 2.7336133 0.032808594 2.6692344 0.052890625 2.609375 0.078125 C 2.5495156 0.10335938 2.4926367 0.13405075 2.4394531 0.16992188 C 2.3862695 0.20579295 2.3381562 0.24778125 2.2929688 0.29296875 C 2.2477813 0.33815625 2.205793 0.38626954 2.1699219 0.43945312 C 2.1340508 0.49263672 2.1033594 0.54951562 2.078125 0.609375 C 2.0528906 0.66923438 2.0328086 0.73361329 2.0195312 0.79882812 C 2.0128926 0.83143555 2.0092612 0.86473877 2.0058594 0.8984375 C 2.0024575 0.93213623 2 0.965375 2 1 L 2 2 L 2 3 L 2 14 L 2 15 C 2 15.034625 2.0024575 15.067865 2.0058594 15.101562 C 2.0092612 15.135262 2.0128926 15.168564 2.0195312 15.201172 C 2.0328087 15.266387 2.0528906 15.330766 2.078125 15.390625 C 2.1033594 15.450484 2.1340508 15.507363 2.1699219 15.560547 C 2.205793 15.61373 2.2477813 15.661844 2.2929688 15.707031 C 2.3381561 15.752219 2.3862695 15.794207 2.4394531 15.830078 C 2.4926367 15.865949 2.5495156 15.896641 2.609375 15.921875 C 2.6692344 15.947109 2.7336133 15.967191 2.7988281 15.980469 C 2.8314355 15.987107 2.8647388 15.990739 2.8984375 15.994141 C 2.9321362 15.997542 2.965375 16 3 16 L 12 16 L 14 14 L 14 3 L 14 2 L 14 1 C 14 0.965375 13.997542 0.93213623 13.994141 0.8984375 C 13.990739 0.86473877 13.987107 0.83143555 13.980469 0.79882812 C 13.967191 0.73361329 13.947109 0.66923438 13.921875 0.609375 C 13.896641 0.54951562 13.865949 0.49263672 13.830078 0.43945312 C 13.794207 0.38626956 13.752219 0.33815625 13.707031 0.29296875 C 13.661844 0.24778125 13.61373 0.20579296 13.560547 0.16992188 C 13.507363 0.13405078 13.450484 0.10335938 13.390625 0.078125 C 13.330766 0.052890625 13.266387 0.032808594 13.201172 0.01953125 C 13.168564 0.012892578 13.135261 0.0092612305 13.101562 0.005859375 C 13.067865 0.0024575195 13.034625 0 13 0 L 3 0 z M 4 2 L 12 2 L 12 4 L 12 13 L 11 14 L 4 14 L 4 13 L 4 4 L 4 2 z M 5 3 L 5 4 L 5 8 L 11 8 L 11 4 L 11 3 L 5 3 z M 6 9 L 6 10 L 5 10 L 5 11 L 6 11 L 6 12 L 7 12 L 7 11 L 8 11 L 8 10 L 7 10 L 7 9 L 6 9 z M 10.5 9 A 0.5 0.5 0 0 0 10 9.5 A 0.5 0.5 0 0 0 10.5 10 A 0.5 0.5 0 0 0 11 9.5 A 0.5 0.5 0 0 0 10.5 9 z M 9.5 11 A 0.5 0.5 0 0 0 9 11.5 A 0.5 0.5 0 0 0 9.5 12 A 0.5 0.5 0 0 0 10 11.5 A 0.5 0.5 0 0 0 9.5 11 z " />
   </g>
 </svg>
