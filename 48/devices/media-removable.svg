@@ -7,7 +7,7 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="media-removable.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="26.200831"
+     inkscape:cx="21.93925"
      inkscape:cy="23.643883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -42,7 +42,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="0">
@@ -127,7 +127,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -149,7 +149,7 @@
      id="layer1"
      transform="translate(-82.550003,-157.3)">
     <g
-       id="g847">
+       id="g956">
       <rect
          y="157.82918"
          x="86.783333"
@@ -165,14 +165,18 @@
          width="5.2916656"
          height="7.4083366"
          x="86.254166"
-         y="162.06248" />
+         y="162.06248"
+         ry="0.52917027"
+         rx="0.52916527" />
       <rect
          style="fill:#2d8cff;stroke-width:0.132292;stroke-linejoin:round"
          id="rect1000"
          width="4.7624998"
          height="6.8791666"
          x="86.518745"
-         y="162.32707" />
+         y="162.32707"
+         ry="0.26458284"
+         rx="0.26457784" />
       <rect
          style="fill:#cdd5d9;stroke-width:0.132292;stroke-linejoin:round"
          id="rect1046"
@@ -182,9 +186,8 @@
          y="158.09373" />
       <path
          id="rect1092"
-         style="fill:#7a8e9e;stroke-width:0.500001;stroke-linejoin:round"
-         d="M 19 9 L 19 12 L 22 12 L 22 9 L 19 9 z M 26 9 L 26 12 L 29 12 L 29 9 L 26 9 z "
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
+         style="fill:#7a8e9e;stroke-width:0.132292;stroke-linejoin:round"
+         d="m 87.577086,159.68125 v 0.79375 h 0.79375 v -0.79375 z m 1.852084,0 v 0.79375 h 0.79375 v -0.79375 z" />
       <path
          id="rect950"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5875;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"

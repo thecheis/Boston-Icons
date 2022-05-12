@@ -7,7 +7,7 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="start-here.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,10 +28,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="29.641664"
-     inkscape:cy="24.780304"
+     inkscape:cx="21.213203"
+     inkscape:cy="14.678779"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2480"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -42,7 +42,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="0">
@@ -137,7 +137,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -160,25 +160,32 @@
      transform="translate(-82.550003,-157.3)">
     <g
        id="g2480">
-      <rect
-         y="157.82918"
-         x="83.079163"
-         height="11.641666"
-         width="11.641666"
-         id="rect841"
-         style="fill:#7a8e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="fill:#96a5af;stroke-width:0.264583;stroke-linejoin:round"
-         id="rect1044"
-         width="11.1125"
-         height="11.1125"
-         x="83.34375"
-         y="158.09373" />
-      <path
-         id="path1738"
-         style="fill:#ffffff;stroke-width:0.999999;stroke-linejoin:round"
-         d="M 14 11 A 3 3 0 0 0 11 14 A 3 3 0 0 0 14 17 A 3 3 0 0 0 17 14 A 3 3 0 0 0 14 11 z M 24 11 A 3 3 0 0 0 21 14 A 3 3 0 0 0 24 17 A 3 3 0 0 0 27 14 A 3 3 0 0 0 24 11 z M 34 11 A 3 3 0 0 0 31 14 A 3 3 0 0 0 34 17 A 3 3 0 0 0 37 14 A 3 3 0 0 0 34 11 z M 14 21 A 3 3 0 0 0 11 24 A 3 3 0 0 0 14 27 A 3 3 0 0 0 17 24 A 3 3 0 0 0 14 21 z M 24 21 A 3 3 0 0 0 21 24 A 3 3 0 0 0 24 27 A 3 3 0 0 0 27 24 A 3 3 0 0 0 24 21 z M 34 21 A 3 3 0 0 0 31 24 A 3 3 0 0 0 34 27 A 3 3 0 0 0 37 24 A 3 3 0 0 0 34 21 z M 14 31 A 3 3 0 0 0 11 34 A 3 3 0 0 0 14 37 A 3 3 0 0 0 17 34 A 3 3 0 0 0 14 31 z M 24 31 A 3 3 0 0 0 21 34 A 3 3 0 0 0 24 37 A 3 3 0 0 0 27 34 A 3 3 0 0 0 24 31 z M 34 31 A 3 3 0 0 0 31 34 A 3 3 0 0 0 34 37 A 3 3 0 0 0 37 34 A 3 3 0 0 0 34 31 z "
-         transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
+      <g
+         id="g946">
+        <rect
+           y="157.82918"
+           x="83.079163"
+           height="11.641666"
+           width="11.641666"
+           id="rect841"
+           style="fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           ry="0.52914387"
+           rx="0.52916074" />
+        <rect
+           style="fill:#373b43;stroke-width:0.264583;stroke-linejoin:round"
+           id="rect1044"
+           width="11.1125"
+           height="11.1125"
+           x="83.34375"
+           y="158.09373"
+           ry="0.26458699"
+           rx="0.26458856" />
+        <path
+           id="path1738"
+           style="fill:#ffffff;stroke-width:0.999999;stroke-linejoin:round"
+           d="M 14 11 A 3 3 0 0 0 11 14 A 3 3 0 0 0 14 17 A 3 3 0 0 0 17 14 A 3 3 0 0 0 14 11 z M 24 11 A 3 3 0 0 0 21 14 A 3 3 0 0 0 24 17 A 3 3 0 0 0 27 14 A 3 3 0 0 0 24 11 z M 34 11 A 3 3 0 0 0 31 14 A 3 3 0 0 0 34 17 A 3 3 0 0 0 37 14 A 3 3 0 0 0 34 11 z M 14 21 A 3 3 0 0 0 11 24 A 3 3 0 0 0 14 27 A 3 3 0 0 0 17 24 A 3 3 0 0 0 14 21 z M 24 21 A 3 3 0 0 0 21 24 A 3 3 0 0 0 24 27 A 3 3 0 0 0 27 24 A 3 3 0 0 0 24 21 z M 34 21 A 3 3 0 0 0 31 24 A 3 3 0 0 0 34 27 A 3 3 0 0 0 37 24 A 3 3 0 0 0 34 21 z M 14 31 A 3 3 0 0 0 11 34 A 3 3 0 0 0 14 37 A 3 3 0 0 0 17 34 A 3 3 0 0 0 14 31 z M 24 31 A 3 3 0 0 0 21 34 A 3 3 0 0 0 24 37 A 3 3 0 0 0 27 34 A 3 3 0 0 0 24 31 z M 34 31 A 3 3 0 0 0 31 34 A 3 3 0 0 0 34 37 A 3 3 0 0 0 37 34 A 3 3 0 0 0 34 31 z "
+           transform="matrix(0.26458333,0,0,0.26458333,82.550003,157.3)" />
+      </g>
     </g>
   </g>
 </svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg2634"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="drive-optical.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -54,9 +54,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="8.0180858"
-     inkscape:cy="28.094867"
+     inkscape:zoom="31.678384"
+     inkscape:cx="29.436476"
+     inkscape:cy="32.687905"
      inkscape:document-units="px"
      inkscape:current-layer="g981"
      showgrid="false"
@@ -69,7 +69,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="0">
@@ -174,7 +174,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -198,7 +198,7 @@
     <g
        id="g981">
       <g
-         id="g2817">
+         id="g1086">
         <rect
            style="fill:#252627;stroke-width:0.264583;stroke-linejoin:round"
            id="rect2015"
@@ -224,7 +224,7 @@
              cy="164.9729"
              r="3.175" />
           <circle
-             style="fill:url(#linearGradient2591);stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1.0"
+             style="fill:url(#linearGradient2591);fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
              id="path2479"
              cx="88.900002"
              cy="164.9729"
@@ -243,8 +243,8 @@
            height="7.672894"
            x="84.666664"
            y="157.82918"
-           ry="0.26458389"
-           rx="0.26458347" />
+           ry="0.52914387"
+           rx="0.52916682" />
         <rect
            style="fill:#373b43;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5875;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
            id="rect909"
@@ -252,8 +252,8 @@
            height="7.143723"
            x="84.931252"
            y="158.09377"
-           rx="3.6958788e-06"
-           ry="0" />
+           rx="0.26457939"
+           ry="0.26455647" />
         <rect
            style="fill:#252627;stroke-width:0.264583;stroke-linejoin:round"
            id="rect1629"
@@ -261,8 +261,8 @@
            height="0.79374999"
            x="84.666664"
            y="168.67708"
-           rx="0.26458347"
-           ry="0.26457667" />
+           rx="1.3882811e-07"
+           ry="0" />
         <rect
            style="fill:#373b43;stroke-width:0.264583;stroke-linejoin:round"
            id="rect1653"
