@@ -6,9 +6,9 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="dosbox-symbolic.svg"
+   sodipodi:docname="telegram-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,23 +36,27 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="3.5995936"
-     inkscape:cy="6.7850746"
-     inkscape:current-layer="g4839"
+     inkscape:cx="7.2628968"
+     inkscape:cy="6.2594702"
+     inkscape:current-layer="g4778"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     showguides="true"
+     inkscape:window-width="1613"
+     inkscape:window-height="941"
+     inkscape:window-x="218"
+     inkscape:window-y="49"
+     inkscape:window-maximized="0"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
+    <sodipodi:guide
+       position="9,9"
+       orientation="0.70710678,-0.70710678"
+       id="guide1810" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -91,11 +95,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g4839">
+       id="g4778">
       <path
-         id="path1439"
-         style="opacity:1;fill:#252627;stroke-linejoin:round"
-         d="M 1 0 C 0.446 0 0 0.446 0 1 L 0 15 C 0 15.554 0.446 16 1 16 L 15 16 C 15.554 16 16 15.554 16 15 L 16 1 C 16 0.446 15.554 0 15 0 L 1 0 z M 2 2 L 4 2 L 8 6 L 12 2 L 14 2 L 14 4 L 10 8 L 14 12 L 14 14 L 12 14 L 8 10 L 4 14 L 2 14 L 2 12 L 6 8 L 2 4 L 2 2 z " />
+         style="fill:#252627;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16,0 -16,8 5,2 7,-6 -5,7 5,5 z"
+         id="path940"
+         sodipodi:nodetypes="ccccccc" />
     </g>
   </g>
 </svg>

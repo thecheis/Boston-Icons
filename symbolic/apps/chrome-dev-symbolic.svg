@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4159"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   viewBox="0 0 16 16"
+   sodipodi:docname="chromium-symbolic.svg">
+  <title
+     id="title4518">Boston Icons</title>
+  <defs
+     id="defs4161">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective4709" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00fff6"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.197802"
+     inkscape:cx="6.4007425"
+     inkscape:cy="6.4908416"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4707" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.48605824;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 7.5789983,1.0107995 c -2.061956,0.1138378 -4.086781,1.1157213 -5.397462,3.0512348 a 0.74268452,0.74352246 0 0 0 -0.04835,0.08325 c -2.88006596,4.422444 0.034,10.4125567 5.312371,10.8400167 a 0.74268452,0.74352246 0 0 0 0.0039,0 0.74268452,0.74352246 0 0 0 0.08509,0 C 12.866023,15.325294 16.643615,9.701879 14.281844,4.8809888 a 0.74268452,0.74352246 0 0 0 -0.0019,-0.00389 c -0.01077,-0.021683 -0.02387,-0.040448 -0.03482,-0.061954 a 0.74268452,0.74352246 0 0 0 -0.01161,-0.01548 C 13.034467,2.4587734 10.78865,1.1734482 8.4627983,1.0166077 8.1686813,0.9967747 7.8735803,0.9945367 7.5790153,1.0107977 Z m 0.350032,1.4849599 c 1.6097641,-0.047459 3.2149637,0.6203661 4.3183557,1.9689761 h -4.2893467 -0.0039 a 0.74268452,0.74352246 0 0 0 -0.0116,0 c -0.0053,7.42e-5 -0.01015,0.00182 -0.01547,0.00192 a 0.74268452,0.74352246 0 0 0 -0.06769,0.0058 C 6.4718963,4.5264675 5.3995373,5.4148206 4.8599433,6.573108 L 3.7344243,4.6176845 c 1.094051,-1.3744019 2.643784,-2.076203 4.194587,-2.1219251 z m 0.02901,3.4558722 C 9.7163929,5.9656706 10.647391,7.9027584 9.561229,9.2874684 8.5066603,10.557667 6.5524993,10.19327 6.0260953,8.6272706 5.6114123,7.2946074 6.5639133,5.9747536 7.9580403,5.9516316 Z m 2.6861607,0 h 2.384475 C 14.371688,9.3231173 12.259409,12.94182 8.8321553,13.450003 l 1.9474177,-3.318412 a 0.74268452,0.74352246 0 0 0 0.01739,-0.03097 c 0.970239,-1.3346071 0.72775,-2.9667261 -0.152765,-4.1489894 z m -7.8109437,0.075506 1.833319,3.1828874 c 0.592005,1.576386 2.153859,2.292714 3.666638,2.154839 l -1.169997,1.994143 C 3.6361653,12.796761 1.6072413,9.2182529 2.8332573,6.0271376 Z"
+       id="path39" />
+  </g>
+</svg>

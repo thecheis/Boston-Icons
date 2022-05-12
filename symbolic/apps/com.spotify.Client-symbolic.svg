@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4159"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   viewBox="0 0 16 16"
+   sodipodi:docname="spotify-client-symbolic.svg">
+  <title
+     id="title815">Boston Icons</title>
+  <defs
+     id="defs4161">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective4709" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00fff6"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.395603"
+     inkscape:cx="2.4861712"
+     inkscape:cy="8.0832612"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4707" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <cc:license
+           rdf:resource="https://dribbble.com/chrisdiaz" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Christian Díaz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GNOME icon Theme</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#252627;stroke-width:0.09552979"
+       d="M 7.9999525,3.8282796e-4 C 3.5817944,3.8282796e-4 0,3.5820814 0,8.0002394 0,12.418586 3.5817944,16 7.9999525,16 12.418585,16 16,12.418586 16,8.0002394 16,3.5823681 12.418585,7.6435032e-4 7.9998565,7.6435032e-4 Z M 11.668676,11.538469 c -0.14329,0.235004 -0.450899,0.30952 -0.685904,0.165267 C 9.1044678,10.556427 6.7399141,10.296586 3.9552204,10.932813 3.6868768,10.993952 3.4193938,10.825818 3.3582548,10.557382 3.2968264,10.288943 3.4642881,10.021458 3.7333054,9.9603189 6.7807052,9.263812 9.3946869,9.5638703 11.503409,10.852571 c 0.235005,0.144246 0.30952,0.4509 0.165267,0.685898 z M 12.647857,9.3599155 C 12.46731,9.6536691 12.083274,9.7463332 11.790005,9.565781 9.6396257,8.2437443 6.361712,7.8609567 3.8182299,8.6330278 3.4883668,8.7326636 3.1399691,8.5467679 3.0398535,8.217474 2.9405016,7.8876096 3.1264929,7.5398815 3.4557901,7.4395744 6.3611385,6.5580261 9.973024,6.9850441 12.442467,8.5025343 c 0.293277,0.1805523 0.385946,0.5645819 0.20539,0.857476 z M 12.73195,7.0916544 C 10.153579,5.560217 5.8996358,5.4194066 3.4379294,6.1665443 3.0426267,6.2864343 2.6245887,6.063271 2.5047935,5.6679747 2.3849988,5.2724808 2.6079713,4.8547295 3.0035544,4.7345528 5.8294218,3.8766954 10.527097,4.0424393 13.495589,5.8046773 c 0.356326,0.2110255 0.472877,0.670237 0.261752,1.0253214 -0.210162,0.3555629 -0.670616,0.4727778 -1.025031,0.2616557 z"
+       id="path2" />
+  </g>
+</svg>
