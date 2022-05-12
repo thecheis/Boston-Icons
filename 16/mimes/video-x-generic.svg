@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="video-x-generic.svg">
+   sodipodi:docname="video-x-generic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -45,19 +45,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="8.9404391"
-     inkscape:cy="8.2088382"
+     inkscape:cx="6.801002"
+     inkscape:cy="8.2026137"
      inkscape:current-layer="g893"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -108,8 +109,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -121,6 +121,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,20 +136,29 @@
         <g
            id="g893">
           <g
-             id="g837">
+             id="g1840">
             <rect
-               style="opacity:1;fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-               id="rect839"
-               width="14"
+               style="fill:#252627;stroke-width:5;stroke-linejoin:round"
+               id="rect883"
+               width="12"
                height="16"
-               x="1"
+               x="2"
                y="0" />
+            <rect
+               style="fill:#373b43;stroke-width:5;stroke-linejoin:round"
+               id="rect1111"
+               width="10"
+               height="14"
+               x="3"
+               y="1" />
             <path
-               sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-               inkscape:connector-curvature="0"
-               style="opacity:1;fill:#373b43;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
-               d="M 1,0 V 16 H 15 V 0 Z M 2,1 H 4 V 3 H 2 Z m 3,0 h 6 V 7 H 5 Z m 7,0 h 2 V 3 H 12 Z M 2,5 H 4 V 7 H 2 Z m 10,0 h 2 V 7 H 12 Z M 2,9 h 2 v 2 H 2 Z m 3,0 h 6 v 6 H 5 Z m 7,0 h 2 v 2 H 12 Z M 2,13 h 2 v 2 H 2 Z m 10,0 h 2 v 2 h -2 z"
-               id="rect853" />
+               id="rect1179"
+               style="fill:#ffffff;stroke-width:5;stroke-linejoin:round"
+               d="M 4 3 L 4 4 L 5 4 L 5 3 L 4 3 z M 11 3 L 11 4 L 12 4 L 12 3 L 11 3 z M 4 6 L 4 7 L 5 7 L 5 6 L 4 6 z M 11 6 L 11 7 L 12 7 L 12 6 L 11 6 z M 4 9 L 4 10 L 5 10 L 5 9 L 4 9 z M 11 9 L 11 10 L 12 10 L 12 9 L 11 9 z M 4 12 L 4 13 L 5 13 L 5 12 L 4 12 z M 11 12 L 11 13 L 12 13 L 12 12 L 11 12 z " />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+               d="M 7,7 V 9 L 9,8 Z"
+               id="path1495" />
           </g>
         </g>
       </g>
