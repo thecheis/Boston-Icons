@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="text-x-changelog.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    id="svg2634"
    version="1.1"
    viewBox="0 0 33.866667 33.866667"
    height="128"
-   width="128">
+   width="128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3250">Boston Icons</title>
   <defs
@@ -35,15 +35,16 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="59.586872"
-     inkscape:cx="68.088087"
+     inkscape:cy="59.472731"
+     inkscape:cx="51.138972"
      inkscape:zoom="3.959798"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
      bordercolor="#00ffed"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        dotted="false"
        originy="-127.00001"
@@ -144,7 +145,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -191,7 +192,7 @@
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)" />
       <path
          id="rect1015"
-         style="fill:#d43838;stroke:none;stroke-width:0.500001;stroke-linejoin:round"
+         style="fill:#f866a7;stroke:none;stroke-width:0.500001;stroke-linejoin:round"
          d="m 38,38 v 2 l 3.999986,-3.6e-5 v -2 z m 0,6 v 2 l 3.999986,-3.6e-5 v -2 z m 0,6 v 2 l 3.999986,-3.6e-5 v -2 z m 0,6 v 2 l 3.999986,-3.6e-5 v -2 z m 0,10 v 2 l 3.999986,-3.6e-5 v -2 z m 0,6 v 2 l 3.999986,-3.6e-5 v -2 z m 0,6 v 2 l 3.999986,-3.6e-5 v -2 z m 0,6 v 2 l 3.999986,-3.6e-5 v -2 z"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
