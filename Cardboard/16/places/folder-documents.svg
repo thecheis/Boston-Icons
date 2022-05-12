@@ -8,7 +8,7 @@
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="user-bookmarks.svg"
+   sodipodi:docname="folder-documents.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -17,7 +17,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title4140">Boston Icons</title>
+     id="title815">Boston Icons</title>
   <defs
      id="defs4161">
     <inkscape:perspective
@@ -35,9 +35,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="-0.15927405"
-     inkscape:cy="6.2594702"
+     inkscape:zoom="44.395604"
+     inkscape:cx="7.5007426"
+     inkscape:cy="7.3543317"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,8 +47,6 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -70,19 +68,19 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:date>2019</dc:date>
         <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,16 +89,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:#ebb16d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 7.9999999,0 -2,6 h -6 l 5,3.5996094 -2,6.4003906 5,-4 L 13,16 11,9.5996094 16,6 h -6 z"
-       id="path819-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       d="m 2,0 h 9 l 3,3 V 16 H 2 Z"
+       id="rect819"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:#a57b50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8,0 6,6 H 0 L 5,9.5996094 3,16 8,12 13,16 11,9.5996094 16,6 h -6 z m 0,4.2 1,3 h 3 L 9.5,9.0007812 10.5,12.2 8,10.2 5.5,12.2 6.5,9.0007812 4,7.2 h 3 z"
-       id="path819"
+       style="opacity:1;fill:#a57b50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2,0 v 2 12 2 H 14 V 14 3 L 11,0 Z m 1,1 h 7 v 3 h 3 V 15 H 3 Z M 4,4 V 5 H 8 V 4 Z M 4,6 V 7 H 7 V 6 Z m 4,0 v 1 h 2 V 6 Z m 3,0 v 1 h 1 V 6 Z M 4,8 V 9 H 8 V 8 Z m 6,0 v 1 h 2 V 8 Z m -6,2 v 1 h 2 v -1 z m 3,0 v 1 h 3 v -1 z m 4,0 v 1 h 1 v -1 z"
+       id="rect4149"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>

@@ -6,7 +6,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
    sodipodi:docname="user-bookmarks.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="4.4278186"
-     inkscape:cy="9.6360801"
+     inkscape:cx="-0.15927405"
+     inkscape:cy="6.2594702"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -45,7 +45,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -70,19 +70,19 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:date>2021</dc:date>
+        <dc:date>2019</dc:date>
         <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
