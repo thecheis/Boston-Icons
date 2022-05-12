@@ -14,7 +14,7 @@
 
  Get Boston backgrounds: pling.com/p/1381664/
 
- PGP signature check files: github.com/heychrisd/Boston-Icons/tree/master/PGP-Signatures
+ PGP signature check files: github.com/thecheis/Boston-Icons/tree/master/PGP-Signatures
 
  ---------------------------------------------------------------
 
@@ -23,8 +23,7 @@
 
  Fund: paypal.me/ChrisDiaz
 
- Coinbase Wallet: @christian_diaz
-
+ BTC: 1HSqFCBT4mBQeo11cB9Tqyjb8inUry51L1
  ETH: 0x299C11968Bb3D8aFD41b84F4e31b82B3d677A56d
  
  Thanks!
@@ -37,22 +36,28 @@
 
  #/ WIKI
 
- github.com/heychrisd/Boston-Icons/wiki
+ github.com/thecheis/Boston-Icons/wiki
 
  ---------------------------------------------------------------
 
  #/ HOW TO INSTALL
 
- Copy entire icon theme folder into " /YOUR-HOME/.icons " directory
+ Copy entire icon theme folder into " /YOUR-HOME/.icons " directory.
  For all users copy it into " /usr/share/icons " (root mode is needed)
+ 
+ ---------------------------------------------------------------
+ 
+ #/ VISUALIZATION TIPS AND RECOMMENDATIONS
+ 
+ github.com/thecheis/Boston-Icons/wiki/Visualization-tips-and-recommendations
 
  ---------------------------------------------------------------
 
- #/ DESIGNED BY CHRIS D | 2019 - 2021
+ #/ DESIGNED BY CHRISTIAN DÍAZ | 2019 - 2022
  
  christiandiaz.design@gmail.com
 
- dribbble.com/chrisdiaz | twitter.com/hey_chris_d
+ dribbble.com/chrisdiaz | twitter.com/the_cheis
 
  ---------------------------------------------------------------
 

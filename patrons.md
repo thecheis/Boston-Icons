@@ -1,6 +1,7 @@
 ## Special thanks to this patrons and supporters:
 
  - Justin Shepherd ★
+ - Daniel Evertsson ★
  - Ángel Álvarez ★
  - José Rodrí­guez ★
  - Fran J. Clemente ★
@@ -16,4 +17,4 @@
 
 
 ---
-*(If finally you don't want to appear in this list, please, contact me to christiandiaz.design@gmail.com)*
+*(If you don't want to appear in this list, please, contact me to christiandiaz.design@gmail.com)*

@@ -3,7 +3,7 @@
 # ------------------
 
 [Icon Theme]
-Name=Boston (cardboard)
+Name=Boston
 Comment=Minimalist and functional icon theme.
 Comment[es]=Tema de iconos minimalista y funcional.
 Comment[gl]=Tema de iconas minimalista e funcional.
@@ -12,7 +12,7 @@ Comment[de]=Minimalistisches und funktionales Symbolthema.
 
 Example=folder
 
-Inherits=Adwaita,gnome,hicolor,breeze,PiXflat,
+Inherits=Adwaita,gnome,hicolor,breeze,Arc,PiXflat,
 
 # KDE COMPATIBILITY
 # -----------------
