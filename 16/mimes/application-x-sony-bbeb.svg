@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="application-epub+zip.svg">
+   sodipodi:docname="application-epub+zip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title815">Boston Icons</title>
   <defs
@@ -44,23 +44,34 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="5.3752951"
-     inkscape:cy="6.6130915"
+     inkscape:zoom="22.197802"
+     inkscape:cx="1.1487624"
+     inkscape:cy="5.6987624"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
+    <sodipodi:guide
+       position="8,9"
+       orientation="1,0"
+       id="guide3096"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12,8"
+       orientation="0,1"
+       id="guide3098"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4164">
@@ -78,8 +89,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -91,6 +101,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,76 +110,50 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g874">
+       id="g1528">
       <rect
-         y="2"
-         x="0"
-         height="12"
-         width="16"
-         id="rect839"
-         style="opacity:1;fill:#00c28e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccccc"
-         inkscape:connector-curvature="0"
+         style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
          id="rect853"
-         d="m 0,1 v 1 11 1 h 6 l 2,2 2,-2 h 6 V 13 2 1 H 10 9 L 8,2 7,1 H 6 Z M 1,2 H 7 V 13 H 1 Z m 8,0 h 1 5 V 13 H 9 Z"
-         style="opacity:1;fill:#079f87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         width="16"
+         height="14"
+         x="0"
+         y="2"
+         ry="1.92356e-05" />
       <rect
-         y="4"
-         x="2"
-         height="1"
-         width="4"
-         id="rect841"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         id="rect855"
+         width="14"
+         height="12"
+         x="1"
+         y="3"
+         ry="1.92356e-05" />
       <rect
-         y="6"
-         x="2"
-         height="1"
+         style="fill:#cdd5d9;stroke-width:2;stroke-linejoin:round"
+         id="rect1040"
          width="2"
-         id="rect844"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         height="12"
+         x="7"
+         y="3"
+         rx="1.5916199e-05"
+         ry="6.00044e-06" />
       <rect
-         y="8"
-         x="2"
-         height="1"
-         width="3"
-         id="rect846"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="10"
-         x="2"
-         height="1"
-         width="2"
-         id="rect848"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="4"
-         x="10"
-         height="1"
-         width="4"
-         id="rect850"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="6"
-         x="10"
-         height="1"
-         width="3"
-         id="rect852"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="8"
-         x="10"
-         height="1"
-         width="4"
-         id="rect854"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
-      <rect
-         y="10"
-         x="10"
-         height="1"
-         width="1"
-         id="rect856"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="fill:#96a5af;stroke-width:2;stroke-linejoin:round"
+         id="rect1064"
+         width="14"
+         height="2"
+         x="1"
+         y="13"
+         rx="1.5916199e-05"
+         ry="6.00044e-06" />
+      <path
+         id="rect1088"
+         style="fill:#96a5af;stroke-width:2;stroke-linejoin:round"
+         d="M 2 5 L 2 6 L 6 6 L 6 5 L 2 5 z M 2 7 L 2 8 L 6 8 L 6 7 L 2 7 z M 2 9 L 2 10 L 4 10 L 4 9 L 2 9 z " />
+      <path
+         style="fill:#00c28e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 11,2 v 8 h 1 1 V 2 Z"
+         id="path1207"
+         sodipodi:nodetypes="cccccc" />
     </g>
   </g>
 </svg>

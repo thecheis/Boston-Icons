@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    width="16"
    height="16"
@@ -6,7 +8,7 @@
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="text-x-changelog.svg"
+   sodipodi:docname="image-gif3.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -42,11 +44,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392433"
-     inkscape:cx="5.8612851"
-     inkscape:cy="6.9284213"
-     inkscape:current-layer="g904"
-     showgrid="false"
+     inkscape:zoom="22.197802"
+     inkscape:cx="4.1670792"
+     inkscape:cy="5.5861387"
+     inkscape:current-layer="layer1"
+     showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
@@ -54,9 +56,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -70,6 +71,16 @@
        position="12,8"
        orientation="0,1"
        id="guide3098"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,6"
+       orientation="-0.70710678,0.70710678"
+       id="guide867"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17,-1"
+       orientation="0.70710678,0.70710678"
+       id="guide875"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -88,8 +99,8 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
-        <dc:date>2021</dc:date>
+        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
+        <dc:date>2019</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -108,30 +119,35 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <g
-       id="g884">
-      <g
-         id="g904">
-        <g
-           id="g857">
-          <path
-             id="path839"
-             style="fill:#556e81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 2,0 v 16 h 2 l 2,-2 2,2 2,-2 2,2 h 2 V 0 Z" />
-          <path
-             id="path841"
-             style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 3,1 v 13.5 h 1 l 2,-2 2,2 2,-2 2,2 h 1 V 1 Z" />
-          <path
-             id="path848"
-             style="fill:#556e81;stroke-width:0.5;stroke-linejoin:round"
-             d="M 4.4882812,3 A 0.5,0.5 0 0 0 4,3.5 0.5,0.5 0 0 0 4.5,4 0.5,0.5 0 0 0 5,3.5 0.5,0.5 0 0 0 4.5,3 0.5,0.5 0 0 0 4.4882812,3 Z M 6,3 v 1 h 4 V 3 Z m 5.488281,0 A 0.5,0.5 0 0 0 11,3.5 0.5,0.5 0 0 0 11.5,4 0.5,0.5 0 0 0 12,3.5 0.5,0.5 0 0 0 11.5,3 0.5,0.5 0 0 0 11.488281,3 Z M 4.4882812,6 A 0.5,0.5 0 0 0 4,6.5 0.5,0.5 0 0 0 4.5,7 0.5,0.5 0 0 0 5,6.5 0.5,0.5 0 0 0 4.5,6 0.5,0.5 0 0 0 4.4882812,6 Z M 11.488281,6 A 0.5,0.5 0 0 0 11,6.5 0.5,0.5 0 0 0 11.5,7 0.5,0.5 0 0 0 12,6.5 0.5,0.5 0 0 0 11.5,6 0.5,0.5 0 0 0 11.488281,6 Z M 4.4882812,9 A 0.5,0.5 0 0 0 4,9.5 0.5,0.5 0 0 0 4.5,10 0.5,0.5 0 0 0 5,9.5 0.5,0.5 0 0 0 4.5,9 0.5,0.5 0 0 0 4.4882812,9 Z M 11.488281,9 A 0.5,0.5 0 0 0 11,9.5 0.5,0.5 0 0 0 11.5,10 0.5,0.5 0 0 0 12,9.5 0.5,0.5 0 0 0 11.5,9 0.5,0.5 0 0 0 11.488281,9 Z" />
-          <path
-             id="rect864"
-             style="fill:#f866a7;stroke-width:0.5;stroke-linejoin:round"
-             d="M 6,6 V 7 H 8 V 6 Z m 0,3 v 1 H 8 V 9 Z" />
-        </g>
-      </g>
-    </g>
+    <rect
+       style="fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       id="rect853"
+       width="16"
+       height="14"
+       x="0"
+       y="2"
+       ry="1.92356e-05" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       id="rect855"
+       width="14"
+       height="12"
+       x="1"
+       y="3"
+       ry="1.92356e-05" />
+    <rect
+       style="fill:#96a5af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+       id="rect857"
+       width="12"
+       height="10"
+       x="2"
+       y="4"
+       ry="1.92356e-05" />
+    <circle
+       style="fill:#373b43;stroke-width:5;stroke-linejoin:round"
+       id="path1275"
+       cx="8"
+       cy="9"
+       r="3" />
   </g>
 </svg>
