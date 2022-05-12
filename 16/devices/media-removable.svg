@@ -6,7 +6,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
    sodipodi:docname="media-removable.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -36,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="4.7463667"
+     inkscape:cx="2.596167"
      inkscape:cy="7.7247915"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -70,7 +70,7 @@
           </cc:Agent>
         </dc:creator>
         <dc:title>Boston Icons</dc:title>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -91,7 +91,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g1093">
+       id="g946">
       <rect
          style="fill:#556e81;stroke-width:0.5;stroke-linejoin:round"
          id="rect1060"
@@ -99,8 +99,8 @@
          height="10"
          x="4"
          y="6"
-         rx="0"
-         ry="0" />
+         rx="1"
+         ry="1" />
       <rect
          style="fill:#7a8e9e;stroke-width:0.5;stroke-linejoin:round"
          id="rect1036"

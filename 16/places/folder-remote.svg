@@ -6,7 +6,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
    sodipodi:docname="folder-remote.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="5.6064466"
-     inkscape:cy="8.1070492"
-     inkscape:current-layer="layer1"
+     inkscape:cx="13.37902"
+     inkscape:cy="8.9989839"
+     inkscape:current-layer="g889"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -70,8 +70,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>diazchris.deviantart.com | dribbble.com/chrisdiaz</dc:description>
-        <dc:date>2019</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -83,6 +82,7 @@
             <rdf:li>GNOME icon Theme</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,18 +92,26 @@
      inkscape:groupmode="layer">
     <g
        id="g889">
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4137-3"
-         d="M 1,0 V 2 12 H 3 15 V 12 10 2 H 13 9 L 7,0 H 6 Z"
-         style="opacity:1;fill:#6fb7ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect4137"
-         d="m 1,0 v 2 10 h 2 4 v 2 H 1 v 2 H 15 V 14 H 9 v -2 h 6 V 10 2 H 13 9 L 7,0 H 6 Z M 2,1 H 6.7 L 8.1,2.5 6.7,4 H 2 Z m 7,2 h 5 v 8 H 2 V 5 h 4 1 z"
-         style="opacity:1;fill:#2d8cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g2839">
+        <path
+           id="rect4137"
+           style="fill:#2d8cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 9 3 L 14 3 L 14 11 L 2 11 L 2 5 L 6 5 L 7.0996094 5 L 9 3 z " />
+        <path
+           id="path1770"
+           style="fill:#2d8cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 3,0 C 2.8252282,7.4066879e-5 2.65122,0.02305628 2.4824219,0.06835937 2.3136028,0.1134076 2.1514147,0.18038403 2,0.26757812 1.8486563,0.35514202 1.7094487,0.46217428 1.5859375,0.5859375 1.4621743,0.7094487 1.355142,0.8486563 1.2675781,1 1.180384,1.1514147 1.1134076,1.3136028 1.0683594,1.4824219 1.0230563,1.65122 1.0000741,1.8252282 1,2 v 10 h 2 4 v 2 H 1 v 2 H 15 V 14 H 9 v -2 h 6 V 10 3.0390625 c 2.54e-4,-0.01302 2.54e-4,-0.026043 0,-0.039063 6e-6,-0.00195 6e-6,-0.00391 0,-0.00586 1.6e-5,-0.00326 1.6e-5,-0.00651 0,-0.00977 6e-6,-0.00195 6e-6,-0.00391 0,-0.00586 1.6e-5,-0.00326 1.6e-5,-0.00651 0,-0.00977 1.6e-5,-0.00326 1.6e-5,-0.00651 0,-0.00977 -6.35e-4,-0.00326 -0.0013,-0.00651 -0.002,-0.00977 6e-6,-0.00195 6e-6,-0.00391 0,-0.00586 1.6e-5,-0.00326 1.6e-5,-0.00651 0,-0.00977 1.6e-5,-0.00326 1.6e-5,-0.00651 0,-0.00977 -6.35e-4,-0.00326 -0.0013,-0.00651 -0.002,-0.00977 6e-6,-0.00195 6e-6,-0.00391 0,-0.00586 1.6e-5,-0.00326 1.6e-5,-0.00651 0,-0.00977 -6.35e-4,-0.00326 -0.0013,-0.00651 -0.002,-0.00977 6e-6,-0.00195 6e-6,-0.00391 0,-0.00586 -6.35e-4,-0.00326 -0.0013,-0.00651 -0.002,-0.00977 3e-6,-0.0013 3e-6,-0.0026 0,-0.00391 -0.0056,-0.043479 -0.01411,-0.086541 -0.02539,-0.1289062 -0.01163,-0.041906 -0.02599,-0.083009 -0.04297,-0.1230469 -0.01695,-0.040301 -0.03652,-0.079448 -0.05859,-0.1171875 -0.02167,-0.038 -0.04581,-0.074536 -0.07226,-0.109375 -0.0265,-0.034383 -0.0552,-0.067004 -0.08594,-0.097656 C 14.6762,2.2621829 14.64358,2.2334759 14.60919,2.2069799 14.574537,2.1805763 14.538,2.1564359 14.5,2.1347656 14.46226,2.1126936 14.423114,2.0931204 14.382812,2.0761719 14.342775,2.0591885 14.301672,2.0448351 14.259766,2.0332031 14.2174,2.021923 14.174338,2.0134411 14.130859,2.0078125 14.087457,2.002349 14.043744,1.9997392 14,2 H 13 9 L 7,0 H 6 Z m 11.990234,3.1367188 c -5.87e-4,0.00652 -0.0012,0.013027 -0.002,0.019531 7.15e-4,-0.0065 0.0014,-0.013015 0.002,-0.019531 z m -0.01953,0.1054687 c -0.0019,0.00653 -0.0038,0.013041 -0.0059,0.019531 0.002,-0.00649 0.004,-0.013001 0.0059,-0.019531 z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <path
+           id="path1631"
+           style="fill:#6fb7ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 9 3 L 7.0996094 5 L 6 5 L 2 5 L 2 11 L 14 11 L 14 3.5292969 A 0.5 0.5 0 0 1 13.998047 3.5390625 A 0.5 0.5 0 0 0 14 3.5292969 A 0.5 0.5 0 0 0 14 3.5 A 0.5 0.5 0 0 0 14 3.4980469 A 0.5 0.5 0 0 0 14 3.4960938 A 0.5 0.5 0 0 0 14 3.4941406 A 0.5 0.5 0 0 0 14 3.4921875 A 0.5 0.5 0 0 0 14 3.4902344 A 0.5 0.5 0 0 0 14 3.4882812 A 0.5 0.5 0 0 0 14 3.4863281 A 0.5 0.5 0 0 0 14 3.484375 A 0.5 0.5 0 0 0 14 3.4824219 A 0.5 0.5 0 0 0 14 3.4804688 A 0.5 0.5 0 0 0 14 3.4785156 A 0.5 0.5 0 0 0 14 3.4765625 A 0.5 0.5 0 0 0 14 3.4746094 A 0.5 0.5 0 0 0 14 3.4726562 A 0.5 0.5 0 0 0 14 3.4707031 A 0.5 0.5 0 0 0 14 3.46875 A 0.5 0.5 0 0 0 14 3.4667969 A 0.5 0.5 0 0 0 13.998047 3.4648438 A 0.5 0.5 0 0 0 13.998047 3.4628906 A 0.5 0.5 0 0 0 13.998047 3.4609375 A 0.5 0.5 0 0 0 13.998047 3.4589844 A 0.5 0.5 0 0 0 13.998047 3.4570312 A 0.5 0.5 0 0 0 13.998047 3.4550781 A 0.5 0.5 0 0 0 13.998047 3.453125 A 0.5 0.5 0 0 0 13.998047 3.4511719 A 0.5 0.5 0 0 0 13.998047 3.4492188 A 0.5 0.5 0 0 0 13.998047 3.4472656 A 0.5 0.5 0 0 0 13.998047 3.4453125 A 0.5 0.5 0 0 0 13.996094 3.4433594 A 0.5 0.5 0 0 0 13.996094 3.4414062 A 0.5 0.5 0 0 0 13.996094 3.4394531 A 0.5 0.5 0 0 0 13.996094 3.4375 A 0.5 0.5 0 0 0 13.996094 3.4355469 A 0.5 0.5 0 0 0 13.996094 3.4335938 A 0.5 0.5 0 0 0 13.996094 3.4316406 A 0.5 0.5 0 0 0 13.996094 3.4296875 A 0.5 0.5 0 0 0 13.994141 3.4277344 A 0.5 0.5 0 0 0 13.994141 3.4257812 A 0.5 0.5 0 0 0 13.994141 3.4238281 A 0.5 0.5 0 0 0 13.994141 3.421875 A 0.5 0.5 0 0 0 13.974609 3.3457031 A 0.5 0.5 0 0 0 13.945312 3.2734375 A 0.5 0.5 0 0 0 13.904297 3.2070312 A 0.5 0.5 0 0 0 13.853516 3.1464844 A 0.5 0.5 0 0 0 13.792969 3.0957031 A 0.5 0.5 0 0 0 13.726562 3.0546875 A 0.5 0.5 0 0 0 13.654297 3.0253906 A 0.5 0.5 0 0 0 13.578125 3.0058594 A 0.5 0.5 0 0 0 13.5 3 L 9 3 z M 13.990234 3.6054688 A 0.5 0.5 0 0 1 13.988281 3.6113281 A 0.5 0.5 0 0 0 13.990234 3.6054688 z " />
+        <path
+           id="path1629"
+           style="fill:#6fb7ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 3 1 A 1 1 0 0 0 2.8574219 1.0097656 A 1 1 0 0 0 2.71875 1.0410156 A 1 1 0 0 0 2.5839844 1.0898438 A 1 1 0 0 0 2.4589844 1.1582031 A 1 1 0 0 0 2.3457031 1.2441406 A 1 1 0 0 0 2.2441406 1.3457031 A 1 1 0 0 0 2.1582031 1.4589844 A 1 1 0 0 0 2.0898438 1.5839844 A 1 1 0 0 0 2.0410156 1.71875 A 1 1 0 0 0 2.0097656 1.8574219 A 1 1 0 0 0 2 2 L 2 4 L 6.6992188 4 L 8.0996094 2.5 L 6.6992188 1 L 3 1 z M 3.9980469 2.0761719 A 1 1 0 0 1 3.9960938 2.0839844 A 1 1 0 0 0 3.9980469 2.0761719 z " />
+      </g>
     </g>
   </g>
 </svg>

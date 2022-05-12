@@ -6,7 +6,7 @@
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
    sodipodi:docname="start-here.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -45,7 +45,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="44.395604"
-     inkscape:cx="9.2238862"
+     inkscape:cx="7.7259902"
      inkscape:cy="7.3993813"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -99,7 +99,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:date>2021</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -120,16 +120,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g1416">
+       id="g943">
       <rect
          y="0"
          x="0"
          height="16"
          width="16"
          id="rect827"
-         style="fill:#7a8e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:#252627;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="1" />
       <rect
-         style="fill:#96a5af;stroke-linejoin:round"
+         style="fill:#373b43;stroke-linejoin:round"
          id="rect1038"
          width="14"
          height="14"
@@ -138,7 +139,7 @@
       <path
          id="path1314"
          style="fill:#ffffff;stroke-linejoin:round"
-         d="M 4 3 A 1 1 0 0 0 3 4 A 1 1 0 0 0 4 5 A 1 1 0 0 0 5 4 A 1 1 0 0 0 4 3 z M 8 3 A 1 1 0 0 0 7 4 A 1 1 0 0 0 8 5 A 1 1 0 0 0 9 4 A 1 1 0 0 0 8 3 z M 12 3 A 1 1 0 0 0 11 4 A 1 1 0 0 0 12 5 A 1 1 0 0 0 13 4 A 1 1 0 0 0 12 3 z M 4 7 A 1 1 0 0 0 3 8 A 1 1 0 0 0 4 9 A 1 1 0 0 0 5 8 A 1 1 0 0 0 4 7 z M 8 7 A 1 1 0 0 0 7 8 A 1 1 0 0 0 8 9 A 1 1 0 0 0 9 8 A 1 1 0 0 0 8 7 z M 12 7 A 1 1 0 0 0 11 8 A 1 1 0 0 0 12 9 A 1 1 0 0 0 13 8 A 1 1 0 0 0 12 7 z M 4 11 A 1 1 0 0 0 3 12 A 1 1 0 0 0 4 13 A 1 1 0 0 0 5 12 A 1 1 0 0 0 4 11 z M 8 11 A 1 1 0 0 0 7 12 A 1 1 0 0 0 8 13 A 1 1 0 0 0 9 12 A 1 1 0 0 0 8 11 z M 12 11 A 1 1 0 0 0 11 12 A 1 1 0 0 0 12 13 A 1 1 0 0 0 13 12 A 1 1 0 0 0 12 11 z " />
+         d="M 4,3 A 1,1 0 0 0 3,4 1,1 0 0 0 4,5 1,1 0 0 0 5,4 1,1 0 0 0 4,3 Z M 8,3 A 1,1 0 0 0 7,4 1,1 0 0 0 8,5 1,1 0 0 0 9,4 1,1 0 0 0 8,3 Z m 4,0 A 1,1 0 0 0 11,4 1,1 0 0 0 12,5 1,1 0 0 0 13,4 1,1 0 0 0 12,3 Z M 4,7 A 1,1 0 0 0 3,8 1,1 0 0 0 4,9 1,1 0 0 0 5,8 1,1 0 0 0 4,7 Z M 8,7 A 1,1 0 0 0 7,8 1,1 0 0 0 8,9 1,1 0 0 0 9,8 1,1 0 0 0 8,7 Z m 4,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m -8,4 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 4,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 4,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" />
     </g>
   </g>
 </svg>

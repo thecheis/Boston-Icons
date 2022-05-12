@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg4159"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    viewBox="0 0 16 16"
-   sodipodi:docname="epsxe.svg">
+   sodipodi:docname="epsxe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title4518">Boston Icons</title>
   <defs
@@ -34,21 +34,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.392433"
-     inkscape:cx="9.8773278"
-     inkscape:cy="5.9499925"
-     inkscape:current-layer="layer1"
+     inkscape:cx="7.7566463"
+     inkscape:cy="5.8612851"
+     inkscape:current-layer="g838"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid4707" />
@@ -69,8 +70,7 @@
             <dc:title>Christian Díaz</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
-        <dc:date>2020</dc:date>
+        <dc:date>2022</dc:date>
         <dc:publisher>
           <cc:Agent>
             <dc:title>Christian Díaz</dc:title>
@@ -82,6 +82,7 @@
           </rdf:Bag>
         </dc:subject>
         <dc:identifier>christiandiaz.design [at] gmail [dot] com</dc:identifier>
+        <dc:description>dribbble.com/chrisdiaz | diazchris.deviantart.com</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,18 +92,20 @@
      inkscape:groupmode="layer">
     <g
        id="g838">
-      <rect
-         style="fill:#cdd5d9;stroke-width:2;stroke-linejoin:round"
-         id="rect834"
-         width="15.999999"
-         height="14"
-         x="0"
-         y="2" />
-      <path
-         id="rect4136"
-         style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 0,2 V 16 H 2 16 V 14 2 H 14 2 Z M 2,4 H 5 6 V 5.5117188 C 4.7621661,6.2263825 3.9997348,7.547235 4,8.9765625 3.9997349,10.40589 4.7621661,11.726742 6,12.441406 V 14 H 2 Z m 8,0 h 1 3 V 14 H 10 V 12.439453 C 11.23723,11.725138 11.999567,10.405192 12,8.9765625 11.999567,7.5479328 11.23723,6.2279867 10,5.5136719 Z M 7.9492188,7 h 0.00195 C 7.9674473,6.9998013 7.9837246,6.9998013 8,7 9.1045695,7 10,7.8954305 10,9 10,10.104569 9.1045695,11 8,11 6.8954305,11 6,10.104569 6,9 5.9996502,7.9149617 6.8645302,7.0275497 7.9492188,7 Z M 7,12.847656 c 0.3265618,0.08498 0.6625638,0.128289 1,0.128906 0.3373532,2.1e-5 0.6733538,-0.04264 1,-0.126953 V 14 H 7 Z"
-         sodipodi:nodetypes="ccccccccccccccccccccccccccccccsscccccccc" />
+      <g
+         id="g1458">
+        <rect
+           style="fill:#cdd5d9;stroke-width:2;stroke-linejoin:round"
+           id="rect834"
+           width="14"
+           height="12"
+           x="1"
+           y="3" />
+        <path
+           id="rect4136"
+           style="opacity:1;fill:#556e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 1 2 C 0.93075 2 0.86404297 2.0062539 0.79882812 2.0195312 C 0.73361329 2.0328087 0.66923438 2.0528906 0.609375 2.078125 C 0.54951562 2.1033594 0.49263672 2.1340508 0.43945312 2.1699219 C 0.38626954 2.205793 0.33815625 2.2477813 0.29296875 2.2929688 C 0.24778125 2.3381561 0.20579296 2.3862695 0.16992188 2.4394531 C 0.13405078 2.4926367 0.10335938 2.5495156 0.078125 2.609375 C 0.052890625 2.6692344 0.032808594 2.7336133 0.01953125 2.7988281 C 0.0062539063 2.864043 0 2.93075 0 3 L 0 15 C 0 15.06925 0.0062539063 15.135957 0.01953125 15.201172 C 0.032808594 15.266387 0.052890625 15.330766 0.078125 15.390625 C 0.10335938 15.450484 0.13405077 15.507363 0.16992188 15.560547 C 0.20579296 15.61373 0.24778125 15.661844 0.29296875 15.707031 C 0.33815625 15.752219 0.38626954 15.794207 0.43945312 15.830078 C 0.49263672 15.865949 0.54951562 15.896641 0.609375 15.921875 C 0.66923438 15.947109 0.73361329 15.967191 0.79882812 15.980469 C 0.86404297 15.993746 0.93075 16 1 16 L 2 16 L 15 16 C 15.06925 16 15.135957 15.993746 15.201172 15.980469 C 15.266387 15.967191 15.330766 15.947109 15.390625 15.921875 C 15.450484 15.896641 15.507363 15.865949 15.560547 15.830078 C 15.61373 15.794207 15.661844 15.752219 15.707031 15.707031 C 15.752219 15.661844 15.794207 15.61373 15.830078 15.560547 C 15.865949 15.507363 15.896641 15.450484 15.921875 15.390625 C 15.947109 15.330766 15.967191 15.266387 15.980469 15.201172 C 15.993746 15.135957 16 15.06925 16 15 L 16 14 L 16 3 C 16 2.93075 15.993746 2.864043 15.980469 2.7988281 C 15.967191 2.7336133 15.947109 2.6692344 15.921875 2.609375 C 15.896641 2.5495156 15.865949 2.4926367 15.830078 2.4394531 C 15.794207 2.3862695 15.752219 2.3381562 15.707031 2.2929688 C 15.661844 2.2477813 15.61373 2.205793 15.560547 2.1699219 C 15.507363 2.1340508 15.450484 2.1033594 15.390625 2.078125 C 15.330766 2.0528906 15.266387 2.0328086 15.201172 2.0195312 C 15.135957 2.006254 15.06925 2 15 2 L 14 2 L 2 2 L 1 2 z M 2 4 L 5 4 L 6 4 L 6 5.5117188 C 4.7621661 6.2263825 3.9997348 7.547235 4 8.9765625 C 3.9997349 10.40589 4.7621661 11.726742 6 12.441406 L 6 14 L 2 14 L 2 4 z M 10 4 L 11 4 L 14 4 L 14 14 L 10 14 L 10 12.439453 C 11.23723 11.725138 11.999567 10.405192 12 8.9765625 C 11.999567 7.5479328 11.23723 6.2279867 10 5.5136719 L 10 4 z M 7.9492188 7 L 7.9511719 7 C 7.9674504 6.9998013 7.9837246 6.9998013 8 7 C 9.1045695 7 10 7.8954305 10 9 C 10 10.104569 9.1045695 11 8 11 C 6.8954305 11 6 10.104569 6 9 C 5.9996502 7.9149617 6.8645302 7.0275497 7.9492188 7 z M 7 12.847656 C 7.3265618 12.932636 7.6625638 12.975946 8 12.976562 C 8.3373532 12.976585 8.6733538 12.933922 9 12.849609 L 9 14 L 7 14 L 7 12.847656 z " />
+      </g>
     </g>
   </g>
 </svg>
