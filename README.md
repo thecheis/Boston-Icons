@@ -1,4 +1,5 @@
 <p align="right">
+ <img alt="size" name="size" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <img alt="size" name="size" src="https://img.shields.io/github/repo-size/thecheis/Boston-Icons?color=2d8cff&style=for-the-badge">
  <img alt="maintenance" name="maintenance" src="https://img.shields.io/maintenance/yes/2022?style=for-the-badge">
 </p>
@@ -52,9 +53,9 @@ Read "LICENSE" file for more info.
 
 Designed by Christian Diaz 
 
-Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
-
-*christiandiaz.design@gmail.com*
+<p align="left">
+  <a href="https://dribbble.com/chrisdiaz" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" title="Dribbble"></a> <a href="https://twitter.com/the_cheis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"></a>  <a href="mailto:christiandiaz.design@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Mail"></a> 
+</p>
 
 ---
 
