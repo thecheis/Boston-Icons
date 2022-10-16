@@ -25,6 +25,9 @@ Boston packages (classic and Cardboard) for final use are available on [Pling / 
 
 [PGP signature check files.](https://github.com/thecheis/Boston-Icons/tree/master/PGP-Signatures)
 
+## Wiki
+[More info](https://github.com/thecheis/Boston-Icons/wiki) about how to install, philosophy, production, FAQ, etc.
+
 ## Support it
 
 Do you like my work and do you want to support it? Share it on social media / [make a donation](https://github.com/thecheis/Boston-Icons/wiki/Patrons). That helps me a lot and [show me love!](https://www.youtube.com/watch?v=Ps2Jc28tQrw) 
@@ -38,9 +41,6 @@ Do you like my work and do you want to support it? Share it on social media / [m
 **ETH**: 0x299C11968Bb3D8aFD41b84F4e31b82B3d677A56d
  
 Thanks!
-
-## Wiki
-[More info](https://github.com/thecheis/Boston-Icons/wiki) about how to install, philosophy, production, FAQ, etc.
 
 ## License
 
