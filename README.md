@@ -1,7 +1,7 @@
 <p align="right">
  <img alt="size" name="size" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <img alt="size" name="size" src="https://img.shields.io/github/repo-size/thecheis/Boston-Icons?color=2d8cff&style=for-the-badge">
- <img alt="maintenance" name="maintenance" src="https://img.shields.io/maintenance/yes/2022?style=for-the-badge">
+ <img alt="maintenance" name="maintenance" src="https://img.shields.io/maintenance/yes/2023?style=for-the-badge">
 </p>
 
 ![Boston Icons on desktop](https://github.com/thecheis/Boston-Icons/blob/master/Pictures/Boston%20A.png)
