@@ -21,7 +21,7 @@ For maximum enjoyment visualize Files/Nautilus content at 100-133%.
 
 ## Download and vote
 
-Boston packages (classic and Cardboard) for final use are available on [Pling / OpenDesktop](https://www.pling.com/p/1012402/) platform.
+Boston packages for final use are available on [Pling / OpenDesktop](https://www.pling.com/p/1012402/) platform.
 
 [PGP signature check files.](https://github.com/thecheis/Boston-Icons/tree/master/PGP-Signatures)
 
