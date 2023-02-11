@@ -30,7 +30,7 @@ Boston packages for final use are available on [Pling / OpenDesktop](https://www
 
 ## Support it
 
-Do you like my work and do you want to support it? Share it on social media / [make a donation](https://github.com/thecheis/Boston-Icons/wiki/Patrons). That helps me a lot and [show me love!](https://www.youtube.com/watch?v=Ps2Jc28tQrw) 
+Do you like my work and do you want to support it? Share it on social media / [make a donation](https://github.com/thecheis/Boston-Icons/wiki/Patrons-and-support). That helps me a lot and [show me love!](https://www.youtube.com/watch?v=Ps2Jc28tQrw) 
 
 <p align="left">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://github.com/thecheis/Boston-Icons/blob/master/Pictures/Support-PayPal.png" title="Support with PayPal"></a>
