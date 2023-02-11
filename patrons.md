@@ -7,6 +7,7 @@
  - Fran J. Clemente ★
  - Danail Irinchev ★
  - Nick Bonczyk ★
+ - Matthew Nicholas ★
 
  - Niivu ☆
  - Dimitry Zamyslov
