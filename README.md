@@ -51,7 +51,9 @@ Read "LICENSE" file for more info.
 
 ---
 
-Designed by Christian Diaz 
+Designed by Christian Diaz
+
+<p><span style="color: #800080;"><strong>Mastodon</strong> </span>🐘: @the_cheis@mstdn.social</p>
 
 <p align="left">
   <a href="https://dribbble.com/chrisdiaz" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" title="Dribbble"></a> <a href="https://twitter.com/the_cheis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"></a>  <a href="mailto:christiandiaz.design@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Mail"></a> 
