@@ -1,6 +1,7 @@
 ## Special thanks to this patrons and supporters:
 
  - Justin Shepherd ★
+ - Philipp Nowak ★
  - Daniel Evertsson ★
  - Ángel Álvarez ★
  - José Rodrí­guez ★
