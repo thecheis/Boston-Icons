@@ -9,6 +9,7 @@
  - Danail Irinchev ★
  - Nick Bonczyk ★
  - Matthew Nicholas ★
+ - JuanV ★
 
  - Niivu ☆
  - Dimitry Zamyslov
